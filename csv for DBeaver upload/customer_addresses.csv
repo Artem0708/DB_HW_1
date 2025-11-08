@@ -1,0 +1,4001 @@
+address_id,country,state,postcode,address,property_valuation
+1,Australia,New South Wales,2016,060 Morning Avenue,10
+2,Australia,New South Wales,2153,6 Meadow Vale Court,10
+3,Australia,QLD,4211,0 Holy Cross Court,9
+4,Australia,New South Wales,2448,17979 Del Mar Point,4
+5,Australia,VIC,3216,9 Oakridge Court,9
+6,Australia,New South Wales,2210,4 Delaware Trail,9
+7,Australia,New South Wales,2650,49 Londonderry Lane,4
+8,Australia,New South Wales,2023,97736 7th Trail,12
+9,Australia,VIC,3044,93405 Ludington Park,8
+10,Australia,QLD,4557,44339 Golden Leaf Alley,4
+11,Australia,VIC,3799,2 Sutherland Street,6
+12,Australia,New South Wales,2760,9 Mcbride Trail,8
+13,Australia,New South Wales,2428,9861 New Castle Avenue,9
+14,Australia,VIC,3331,52 Moland Street,4
+15,Australia,VIC,3058,82391 Kensington Lane,9
+16,Australia,New South Wales,2135,092 2nd Alley,12
+17,Australia,New South Wales,2233,59 Spaight Circle,9
+18,Australia,New South Wales,2444,032 Bartelt Crossing,8
+19,Australia,New South Wales,2650,18 Jenna Center,7
+20,Australia,New South Wales,2153,3 Cordelia Plaza,10
+21,Australia,QLD,4413,28 5th Center,3
+22,Australia,QLD,4740,52 Carey Alley,5
+23,Australia,VIC,3218,96 Texas Plaza,7
+24,Australia,QLD,4868,48 Eagan Avenue,4
+25,Australia,QLD,4116,9 Buell Park,7
+26,Australia,New South Wales,2519,02663 Buell Parkway,11
+27,Australia,New South Wales,2135,2294 Pleasure Place,12
+28,Australia,New South Wales,2756,2951 Petterle Place,9
+29,Australia,New South Wales,2170,63 Lukken Drive,9
+30,Australia,QLD,4005,833 Luster Way,8
+31,Australia,QLD,4127,34 Russell Plaza,6
+32,Australia,New South Wales,2535,78 Del Sol Hill,8
+33,Australia,QLD,4726,54 Sage Plaza,1
+34,Australia,QLD,4805,90 Lawn Parkway,4
+35,Australia,New South Wales,2212,38726 Ilene Crossing,10
+36,Australia,New South Wales,2207,3496 Brown Drive,8
+37,Australia,VIC,3350,7188 Cody Way,9
+38,Australia,VIC,3931,1 Claremont Park,10
+39,Australia,QLD,4018,60 Eagan Circle,8
+40,Australia,QLD,4670,89314 Eagle Crest Center,2
+41,Australia,New South Wales,2480,2028 Lakewood Place,3
+42,Australia,VIC,3212,70875 Hudson Point,6
+43,Australia,New South Wales,2322,543 Killdeer Park,4
+44,Australia,VIC,3198,22125 Ramsey Drive,9
+45,Australia,New South Wales,2210,3107 Calypso Terrace,9
+46,Australia,New South Wales,2047,957 Veith Junction,10
+47,Australia,QLD,4503,4853 Gulseth Avenue,5
+48,Australia,New South Wales,2145,9 Michigan Terrace,8
+49,Australia,QLD,4350,62 Steensland Road,3
+50,Australia,New South Wales,2142,6 Homewood Avenue,8
+51,Australia,New South Wales,2029,15 Almo Lane,10
+52,Australia,New South Wales,2127,690 Glacier Hill Circle,10
+53,Australia,QLD,4280,89787 Village Green Terrace,6
+54,Australia,New South Wales,2166,18 Elgar Park,9
+55,Australia,New South Wales,2046,413 Mayer Street,9
+56,Australia,New South Wales,2026,39 3rd Drive,10
+57,Australia,New South Wales,2765,44516 Katie Parkway,7
+58,Australia,New South Wales,2749,41 Schurz Center,8
+59,Australia,New South Wales,2745,68150 Boyd Road,9
+60,Australia,VIC,3752,11474 Westend Hill,8
+61,Australia,New South Wales,2153,308 Jana Crossing,10
+62,Australia,New South Wales,2217,163 Straubel Trail,10
+63,Australia,New South Wales,2230,68294 Clarendon Crossing,10
+64,Australia,VIC,3046,486 Mariners Cove Plaza,7
+65,Australia,VIC,3183,0322 Dryden Court,7
+66,Australia,New South Wales,2070,9 Bonner Road,12
+67,Australia,New South Wales,2213,07041 Briar Crest Lane,10
+68,Australia,QLD,4208,29466 Hanson Pass,6
+69,Australia,New South Wales,2774,0212 Forest Run Trail,8
+70,Australia,QLD,4133,33055 Menomonie Parkway,8
+71,Australia,New South Wales,2756,4763 Merchant Avenue,8
+72,Australia,QLD,4213,439 Ridgeway Court,9
+73,Australia,QLD,4170,2 Clyde Gallagher Lane,5
+74,Australia,New South Wales,2153,97455 Loeprich Lane,9
+75,Australia,New South Wales,2073,9527 Ridgeway Street,10
+76,Australia,VIC,3561,7 Jackson Point,1
+77,Australia,New South Wales,2330,74 Anniversary Junction,6
+78,Australia,VIC,3977,2083 Spaight Court,8
+79,Australia,New South Wales,2204,2796 Caliangt Circle,12
+80,Australia,New South Wales,2086,96061 Ludington Place,11
+81,Australia,New South Wales,2226,5037 Merchant Crossing,11
+82,Australia,New South Wales,2075,289 Haas Street,11
+83,Australia,New South Wales,2038,4423 Bartelt Parkway,12
+84,Australia,New South Wales,2069,5 Grim Center,12
+85,Australia,New South Wales,2100,73042 Roth Crossing,11
+86,Australia,New South Wales,2233,171 Fordem Junction,10
+87,Australia,New South Wales,2166,2640 Manley Point,9
+88,Australia,VIC,3133,3 Hintze Pass,10
+89,Australia,VIC,3070,2 Mcbride Road,10
+90,Australia,New South Wales,2777,67234 Transport Hill,7
+91,Australia,VIC,3133,72 Dorton Crossing,10
+92,Australia,New South Wales,2125,6 Heffernan Center,11
+93,Australia,New South Wales,2766,6088 Roxbury Hill,8
+94,Australia,New South Wales,2209,105 Shelley Alley,10
+95,Australia,New South Wales,2160,079 Merry Park,9
+96,Australia,New South Wales,2065,8722 Summit Alley,12
+97,Australia,New South Wales,2150,9554 Artisan Pass,10
+98,Australia,New South Wales,2168,55850 Butterfield Road,9
+99,Australia,New South Wales,2046,68 Little Fleur Crossing,12
+100,Australia,QLD,4171,85688 New Castle Crossing,10
+101,Australia,New South Wales,2155,8611 Loomis Lane,10
+102,Australia,New South Wales,2517,7909 Pierstorff Crossing,9
+103,Australia,New South Wales,2096,01 Muir Parkway,12
+104,Australia,New South Wales,2750,0410 Division Junction,8
+105,Australia,New South Wales,2217,41 Service Lane,11
+106,Australia,VIC,3977,5 Moose Road,8
+107,Australia,New South Wales,2093,7342 Fieldstone Junction,12
+108,Australia,VIC,3204,0 David Terrace,11
+109,Australia,QLD,4300,15239 Northwestern Point,4
+110,Australia,New South Wales,2170,60 Oneill Street,9
+111,Australia,VIC,3844,8194 Sachtjen Drive,1
+112,Australia,New South Wales,2168,0349 Farmco Terrace,8
+113,Australia,QLD,4226,185 Pennsylvania Way,6
+114,Australia,VIC,3192,432 Longview Circle,10
+115,Australia,VIC,3070,5814 Bunker Hill Street,7
+116,Australia,New South Wales,2485,7 Carberry Crossing,2
+117,Australia,New South Wales,2097,53 Talisman Trail,9
+118,Australia,QLD,4817,5 Prairie Rose Road,2
+119,Australia,New South Wales,2516,84 Florence Parkway,8
+120,Australia,VIC,3074,739 Elmside Way,8
+121,Australia,New South Wales,2213,684 Northport Circle,10
+122,Australia,QLD,4508,8 Hagan Hill,4
+123,Australia,QLD,4405,0 Pearson Crossing,1
+124,Australia,New South Wales,2452,10918 Merry Way,5
+125,Australia,New South Wales,2142,97 Coolidge Trail,9
+126,Australia,New South Wales,2205,58 Helena Hill,7
+127,Australia,QLD,4132,352 Forster Place,3
+128,Australia,New South Wales,2145,12306 Lawn Street,8
+129,Australia,QLD,4744,19392 7th Trail,1
+130,Australia,New South Wales,2158,1605 Northfield Junction,11
+131,Australia,VIC,3201,9674 Graceland Junction,6
+132,Australia,QLD,4178,638 Thackeray Junction,3
+133,Australia,New South Wales,2112,869 Forster Circle,10
+134,Australia,New South Wales,2033,0 Golden Leaf Crossing,9
+135,Australia,QLD,4401,215 Lindbergh Trail,1
+136,Australia,VIC,3186,829 Washington Crossing,9
+137,Australia,New South Wales,2097,585 Loomis Court,11
+138,Australia,VIC,3058,68063 Blue Bill Park Center,9
+139,Australia,QLD,4017,15673 Farmco Point,6
+140,Australia,New South Wales,2315,22 Oxford Junction,3
+141,Australia,New South Wales,2285,7245 Cottonwood Center,5
+142,Australia,New South Wales,2219,20382 Spohn Alley,11
+143,Australia,New South Wales,2065,12375 Cambridge Pass,11
+144,Australia,VIC,3216,03 Granby Parkway,8
+145,Australia,QLD,4509,939 Coleman Pass,7
+146,Australia,NSW,2330,69914 Bowman Place,7
+147,Australia,NSW,2759,34457 Springview Street,9
+148,Australia,NSW,2069,992 Old Shore Trail,12
+149,Australia,NSW,2747,453 Sheridan Street,8
+150,Australia,NSW,2227,8 Mccormick Crossing,8
+151,Australia,NSW,2025,63344 Holmberg Crossing,10
+152,Australia,VIC,3191,9 Huxley Circle,11
+153,Australia,VIC,3025,0 Hazelcrest Road,8
+154,Australia,NSW,2263,2 Continental Plaza,6
+155,Australia,NSW,2233,80 Duke Terrace,10
+156,Australia,NSW,2154,860 Hintze Lane,11
+157,Australia,NSW,2065,3723 Bunker Hill Circle,10
+158,Australia,NSW,2119,5 Corry Court,10
+159,Australia,VIC,3016,65105 Sommers Pass,10
+160,Australia,QLD,4113,2054 Sommers Pass,4
+161,Australia,NSW,2032,22371 Miller Trail,10
+162,Australia,QLD,4300,35807 Oneill Way,4
+163,Australia,QLD,4352,75612 Clarendon Junction,6
+164,Australia,VIC,3020,16 Golf View Center,6
+165,Australia,NSW,2116,93 Iowa Junction,9
+166,Australia,VIC,3057,48 Cascade Terrace,8
+167,Australia,NSW,2099,13950 Jackson Avenue,11
+168,Australia,VIC,3749,35386 Mockingbird Road,4
+169,Australia,NSW,2766,2 Randy Point,8
+170,Australia,NSW,2148,6898 Redwing Park,9
+171,Australia,VIC,3145,52273 Bay Place,11
+172,Australia,NSW,2021,272 Montana Avenue,8
+173,Australia,NSW,2333,82520 Mifflin Drive,5
+174,Australia,NSW,2783,8 Dixon Parkway,7
+175,Australia,NSW,2280,4 Dayton Terrace,9
+176,Australia,QLD,4120,216 Barnett Junction,8
+177,Australia,VIC,3638,8256 Annamark Court,1
+178,Australia,QLD,4300,83012 Dapin Lane,4
+179,Australia,NSW,2074,8 Haas Park,10
+180,Australia,NSW,2880,50 Meadow Ridge Way,1
+181,Australia,NSW,2430,3567 Northfield Lane,5
+182,Australia,QLD,4560,0059 Brentwood Road,7
+183,Australia,NSW,2088,0274 Oneill Alley,10
+184,Australia,NSW,2220,4179 Carioca Terrace,11
+185,Australia,VIC,3031,59265 Sullivan Junction,4
+186,Australia,NSW,2250,7 Warbler Point,9
+187,Australia,NSW,2261,3 Buell Park,7
+188,Australia,VIC,3196,0 Bay Center,6
+189,Australia,QLD,4352,10878 Waywood Way,7
+190,Australia,QLD,4680,362 Mayer Terrace,5
+191,Australia,VIC,3143,43 Upham Crossing,9
+192,Australia,NSW,2747,0 Superior Drive,8
+193,Australia,NSW,2063,8890 Golden Leaf Street,12
+194,Australia,VIC,3021,5484 Hagan Crossing,7
+195,Australia,NSW,2138,7451 Jana Lane,8
+196,Australia,QLD,4005,7 Havey Point,2
+197,Australia,NSW,2233,32 Steensland Plaza,9
+198,Australia,QLD,4811,107 Elmside Parkway,5
+199,Australia,NSW,2085,2 Gina Junction,11
+200,Australia,VIC,3084,4 Londonderry Lane,10
+201,Australia,VIC,3170,39716 Vera Junction,9
+202,Australia,NSW,2066,183 Ronald Regan Street,9
+203,Australia,QLD,4113,2 Thierer Road,8
+204,Australia,QLD,4078,056 Stone Corner Alley,7
+205,Australia,NSW,2222,528 Mandrake Crossing,11
+206,Australia,VIC,3152,19969 5th Parkway,9
+207,Australia,NSW,2159,78 Rockefeller Park,10
+208,Australia,QLD,4503,417 Transport Trail,4
+209,Australia,QLD,4655,6327 Lunder Crossing,4
+210,Australia,QLD,4220,811 Tony Road,9
+211,Australia,QLD,4012,0 Northport Court,3
+212,Australia,NSW,2153,231 Havey Court,10
+213,Australia,NSW,2070,603 Kenwood Avenue,11
+214,Australia,NSW,2015,09040 Myrtle Parkway,8
+215,Australia,NSW,2776,05241 Shelley Park,8
+216,Australia,VIC,3011,7 Pankratz Point,8
+217,Australia,NSW,2761,51 Crescent Oaks Parkway,8
+218,Australia,NSW,2015,49 Emmet Junction,11
+219,Australia,NSW,2502,78 Surrey Place,7
+220,Australia,NSW,2110,6236 Summerview Terrace,12
+221,Australia,NSW,2566,682 Sheridan Avenue,9
+222,Australia,NSW,2519,04139 Delladonna Place,7
+223,Australia,NSW,2506,2 Scott Circle,9
+224,Australia,NSW,2209,92253 Kensington Drive,7
+225,Australia,NSW,2116,93 Westend Terrace,10
+226,Australia,NSW,2075,4 5th Point,11
+227,Australia,NSW,2226,11667 Blackbird Street,10
+228,Australia,NSW,2145,0 Sommers Circle,9
+229,Australia,NSW,2508,2 Northridge Street,10
+230,Australia,NSW,2036,816 Spohn Center,10
+231,Australia,NSW,2018,98 Service Court,8
+232,Australia,VIC,3666,6 Morning Park,2
+233,Australia,NSW,2021,4263 Hanson Place,11
+234,Australia,NSW,2750,6159 Katie Street,8
+235,Australia,QLD,4514,95 Eliot Street,3
+236,Australia,NSW,2525,0 Westend Park,9
+237,Australia,QLD,4152,39988 Porter Pass,7
+238,Australia,NSW,2200,0796 Melody Park,9
+239,Australia,NSW,2250,2914 Vahlen Lane,8
+240,Australia,VIC,3023,65 Kinsman Trail,6
+241,Australia,VIC,3500,07227 Hoard Terrace,1
+242,Australia,QLD,4300,25503 Evergreen Drive,5
+243,Australia,NSW,2283,2 2nd Plaza,4
+244,Australia,NSW,2102,122 Melrose Drive,10
+245,Australia,NSW,2204,37024 Anniversary Place,11
+246,Australia,NSW,2040,91141 Huxley Parkway,10
+247,Australia,NSW,2749,04 Fallview Trail,8
+248,Australia,NSW,2304,8029 Gulseth Center,7
+249,Australia,NSW,2340,77248 Columbus Drive,7
+250,Australia,VIC,3580,0850 Schmedeman Drive,1
+251,Australia,VIC,3355,131 Northfield Parkway,2
+252,Australia,NSW,2287,5130 Manley Court,7
+253,Australia,NSW,2324,879 Coolidge Point,5
+254,Australia,NSW,2323,6759 Nevada Point,6
+255,Australia,NSW,2320,8208 Parkside Point,6
+256,Australia,QLD,4680,15 Straubel Way,2
+257,Australia,NSW,2346,7 Eastlawn Street,1
+258,Australia,NSW,2031,42067 Duke Terrace,10
+259,Australia,NSW,2064,50 Everett Way,9
+260,Australia,NSW,2176,454 Green Ridge Avenue,10
+261,Australia,VIC,3195,19220 Evergreen Crossing,9
+262,Australia,NSW,2010,109 Tomscot Avenue,10
+263,Australia,NSW,2768,48 Arizona Drive,10
+264,Australia,NSW,2752,92 Lyons Place,9
+265,Australia,VIC,3802,47 Jana Junction,7
+266,Australia,VIC,3071,90173 Oneill Place,10
+267,Australia,QLD,4735,6262 Elgar Avenue,2
+268,Australia,NSW,2065,5668 Corscot Circle,12
+269,Australia,VIC,3081,8 Texas Plaza,9
+270,Australia,VIC,3205,32062 Oak Terrace,8
+271,Australia,NSW,2165,07158 Roth Pass,4
+272,Australia,VIC,3125,370 Portage Parkway,8
+273,Australia,QLD,4214,19795 Bultman Circle,8
+274,Australia,NSW,2030,3 Corscot Crossing,12
+275,Australia,NSW,2036,34 Kim Center,11
+276,Australia,NSW,2767,8 Starling Pass,8
+277,Australia,NSW,2798,36 Vidon Parkway,6
+278,Australia,QLD,4211,8 Riverside Place,5
+279,Australia,QLD,4508,28604 Bellgrove Circle,6
+280,Australia,NSW,2032,2 Cottonwood Road,11
+281,Australia,NSW,2117,58 Parkside Hill,12
+282,Australia,QLD,4551,747 Thackeray Circle,7
+283,Australia,NSW,2765,5583 Prairie Rose Trail,8
+284,Australia,VIC,3064,071 Cardinal Point,7
+285,Australia,NSW,2023,7169 North Lane,9
+286,Australia,NSW,2766,6923 Tennessee Circle,9
+287,Australia,VIC,3810,8207 Cascade Court,5
+288,Australia,QLD,4151,2 Brentwood Place,8
+289,Australia,NSW,2830,00 5th Lane,2
+290,Australia,VIC,3030,807 Beilfuss Crossing,7
+291,Australia,QLD,4812,76 Graedel Street,6
+292,Australia,NSW,2141,29886 Crownhardt Crossing,8
+293,Australia,VIC,3810,1 Drewry Junction,7
+294,Australia,VIC,3029,83 Brickson Park Drive,8
+295,Australia,NSW,2173,95 Almo Junction,9
+296,Australia,VIC,3199,08 Golf View Plaza,9
+297,Australia,NSW,2320,6170 Buena Vista Way,7
+298,Australia,QLD,4506,0 Orin Place,7
+299,Australia,NSW,2516,20924 Banding Crossing,9
+300,Australia,NSW,2035,91193 Petterle Road,11
+301,Australia,NSW,2747,01459 Fremont Place,4
+302,Australia,VIC,3030,58 Spenser Circle,3
+303,Australia,VIC,3152,93 Lawn Park,9
+304,Australia,VIC,3340,5982 Mosinee Avenue,5
+305,Australia,VIC,3182,37006 Hoard Circle,7
+306,Australia,NSW,2450,06 Corry Pass,9
+307,Australia,NSW,2227,099 Nova Plaza,10
+308,Australia,NSW,2216,252 Mockingbird Plaza,10
+309,Australia,VIC,3796,990 Kensington Park,8
+310,Australia,VIC,3064,706 Anniversary Alley,3
+311,Australia,VIC,3197,52 Corben Place,10
+312,Australia,VIC,3064,4270 Loeprich Lane,7
+313,Australia,NSW,2232,2 Clyde Gallagher Drive,10
+314,Australia,NSW,2365,671 American Ash Way,2
+315,Australia,NSW,2747,93 American Ash Avenue,8
+316,Australia,QLD,4701,1108 Nevada Junction,2
+317,Australia,QLD,4503,41 Spaight Road,5
+318,Australia,QLD,4350,5 Schurz Place,6
+319,Australia,QLD,4210,82 8th Alley,9
+320,Australia,NSW,2223,84 Lawn Way,9
+321,Australia,QLD,4122,0 Coolidge Avenue,8
+322,Australia,NSW,2515,0 Graceland Plaza,10
+323,Australia,QLD,4214,8717 Mandrake Place,8
+324,Australia,VIC,3437,2 Thierer Lane,8
+325,Australia,VIC,3338,19507 Red Cloud Park,4
+326,Australia,NSW,2203,3 Golf Course Avenue,9
+327,Australia,NSW,2088,042 Bunker Hill Avenue,8
+328,Australia,QLD,4226,45793 Nancy Plaza,8
+329,Australia,QLD,4213,314 Northland Plaza,5
+330,Australia,VIC,3356,3093 Mockingbird Place,2
+331,Australia,VIC,3223,82 Mcbride Trail,6
+332,Australia,VIC,3032,24044 Bonner Hill,8
+333,Australia,VIC,3105,1 Rowland Circle,10
+334,Australia,VIC,3101,7 Arapahoe Pass,12
+335,Australia,NSW,2763,7905 Spaight Alley,8
+336,Australia,NSW,2089,8 Grayhawk Circle,10
+337,Australia,NSW,2759,3 Lyons Road,8
+338,Australia,NSW,2040,72419 Eagan Road,10
+339,Australia,NSW,2126,6860 Green Ridge Avenue,11
+340,Australia,NSW,2147,85 Straubel Park,9
+341,Australia,NSW,2251,08 Ronald Regan Plaza,9
+342,Australia,NSW,2155,44621 Linden Drive,10
+343,Australia,NSW,2153,3 Moulton Lane,9
+344,Australia,NSW,2768,7633 Mayer Plaza,10
+345,Australia,VIC,3127,98 Westerfield Trail,11
+346,Australia,VIC,3087,1826 Hazelcrest Park,9
+347,Australia,VIC,3131,98 Sutteridge Point,10
+348,Australia,QLD,4350,6 Sunbrook Center,6
+349,Australia,VIC,3134,143 Elka Circle,9
+350,Australia,NSW,2830,0293 Porter Crossing,5
+351,Australia,NSW,2193,7447 Nevada Park,8
+352,Australia,QLD,4055,7 Park Meadow Drive,3
+353,Australia,VIC,3199,780 Carberry Place,9
+354,Australia,NSW,2170,5337 Dennis Pass,9
+355,Australia,NSW,2322,7 Debs Point,4
+356,Australia,NSW,2530,708 Russell Parkway,7
+357,Australia,NSW,2075,66286 Homewood Alley,11
+358,Australia,NSW,2340,8728 Express Way,7
+359,Australia,NSW,2066,93583 Moland Way,12
+360,Australia,QLD,4217,18264 Maryland Way,9
+361,Australia,QLD,4020,411 Homewood Lane,5
+362,Australia,NSW,2096,8 Mariners Cove Drive,10
+363,Australia,NSW,2179,279 Jenna Circle,12
+364,Australia,QLD,4127,382 Maywood Parkway,6
+365,Australia,VIC,3130,6085 Petterle Circle,10
+366,Australia,QLD,4570,06324 Michigan Trail,4
+367,Australia,VIC,3215,92808 Mallard Terrace,4
+368,Australia,VIC,3101,841 Anderson Drive,8
+369,Australia,VIC,3931,67884 Fair Oaks Parkway,9
+370,Australia,VIC,3165,1823 Judy Center,10
+371,Australia,NSW,2166,953 Eliot Crossing,9
+372,Australia,VIC,3936,90761 Shasta Pass,7
+373,Australia,NSW,2265,259 Barnett Crossing,5
+374,Australia,NSW,2203,0 Brown Trail,9
+375,Australia,VIC,3034,3467 Prairie Rose Lane,7
+376,Australia,QLD,4670,24 Scoville Parkway,1
+377,Australia,NSW,2062,010 Namekagon Parkway,12
+378,Australia,NSW,2162,99826 Steensland Avenue,5
+379,Australia,QLD,4170,28809 Mesta Pass,8
+380,Australia,VIC,3033,201 Randy Parkway,7
+381,Australia,NSW,2170,58211 Surrey Crossing,9
+382,Australia,NSW,2749,720 Menomonie Avenue,8
+383,Australia,NSW,2144,4604 Cordelia Drive,10
+384,Australia,VIC,3805,3788 Service Trail,8
+385,Australia,NSW,2047,8 Holy Cross Center,9
+386,Australia,NSW,2100,740 Calypso Drive,10
+387,Australia,NSW,2642,9457 Arizona Plaza,2
+388,Australia,VIC,3228,75 Bartillon Street,8
+389,Australia,NSW,2145,7 Reinke Junction,10
+390,Australia,NSW,2287,7343 Washington Road,5
+391,Australia,VIC,3444,3 Valley Edge Trail,7
+392,Australia,NSW,2076,32 Farragut Avenue,11
+393,Australia,QLD,4124,5 Florence Hill,7
+394,Australia,VIC,3191,095 Prairieview Circle,12
+395,Australia,QLD,4305,47226 Algoma Place,3
+396,Australia,VIC,3195,564 Northview Junction,11
+397,Australia,NSW,2579,5359 Alpine Hill,5
+398,Australia,NSW,2835,586 Miller Parkway,1
+399,Australia,VIC,3337,32571 Dixon Center,3
+400,Australia,NSW,2536,333 Bunting Crossing,4
+401,Australia,NSW,2770,1 Red Cloud Street,8
+402,Australia,NSW,2646,07 New Castle Circle,1
+403,Australia,NSW,2756,78152 Harper Parkway,8
+404,Australia,VIC,3133,981 West Way,10
+405,Australia,NSW,2066,8 Monterey Plaza,9
+406,Australia,NSW,2750,25 Graceland Way,8
+407,Australia,NSW,2750,41605 Mitchell Street,8
+408,Australia,QLD,4558,42 Upham Pass,3
+409,Australia,NSW,2211,17 Sunfield Road,9
+410,Australia,NSW,2570,84549 Jenifer Crossing,8
+411,Australia,NSW,2170,5449 Jenna Road,9
+412,Australia,QLD,4552,05 Butternut Crossing,4
+413,Australia,VIC,3082,7427 Fuller Trail,8
+414,Australia,NSW,2360,713 Eastwood Terrace,1
+415,Australia,QLD,4223,7526 Artisan Parkway,8
+416,Australia,VIC,3183,3 Oriole Place,7
+417,Australia,NSW,2330,690 Hanson Center,3
+418,Australia,NSW,2031,509 Fisk Hill,11
+419,Australia,QLD,4370,27 Petterle Center,2
+420,Australia,VIC,3150,3 Annamark Avenue,11
+421,Australia,NSW,2549,311 Dapin Point,3
+422,Australia,VIC,3040,15082 Crest Line Plaza,8
+423,Australia,NSW,2065,1 Carey Pass,11
+424,Australia,NSW,2065,8 Moland Pass,10
+425,Australia,NSW,2340,25386 Fallview Place,3
+426,Australia,QLD,4209,8078 Talisman Trail,7
+427,Australia,QLD,4173,6920 Dwight Circle,7
+428,Australia,NSW,2065,9 Lukken Parkway,10
+429,Australia,VIC,3204,09 Graceland Junction,2
+430,Australia,NSW,2210,155 Basil Junction,10
+431,Australia,NSW,2068,4284 Surrey Circle,12
+432,Australia,NSW,2085,4 Almo Plaza,10
+433,Australia,VIC,3064,91 Porter Pass,7
+434,Australia,VIC,3074,007 Gerald Place,4
+435,Australia,VIC,3806,8788 Armistice Trail,8
+436,Australia,NSW,2259,1693 Artisan Hill,6
+437,Australia,NSW,2260,532 Emmet Way,8
+438,Australia,QLD,4074,3 Sutteridge Park,6
+439,Australia,QLD,4215,25522 Mosinee Point,7
+440,Australia,NSW,2160,421 Bobwhite Road,6
+441,Australia,VIC,3008,41 Ronald Regan Center,5
+442,Australia,NSW,2217,3 Loomis Crossing,9
+443,Australia,NSW,2213,93 Jana Junction,10
+444,Australia,NSW,2748,528 Buell Crossing,10
+445,Australia,NSW,2567,261 Northport Lane,7
+446,Australia,NSW,2096,98 Scott Parkway,10
+447,Australia,Victoria,3192,8385 Lien Drive,10
+448,Australia,Victoria,3015,24919 Artisan Court,8
+449,Australia,NSW,2170,37093 Manitowish Center,10
+450,Australia,QLD,4221,9 Monterey Point,10
+451,Australia,NSW,2233,6 Mariners Cove Center,10
+452,Australia,NSW,2145,572 Gerald Trail,7
+453,Australia,NSW,2759,7 Farmco Trail,9
+454,Australia,Victoria,3121,19964 Nancy Drive,8
+455,Australia,QLD,4870,57 Columbus Road,5
+456,Australia,Victoria,3337,455 Hooker Lane,2
+457,Australia,NSW,2118,0777 Farwell Pass,10
+458,Australia,NSW,2259,23 Glacier Hill Avenue,6
+459,Australia,NSW,2760,8750 Lakewood Gardens Park,7
+460,Australia,Victoria,3150,0619 Dorton Plaza,11
+461,Australia,NSW,2770,3469 Service Road,5
+462,Australia,NSW,2763,9 Dahle Place,9
+463,Australia,NSW,2050,8 Dayton Park,9
+464,Australia,Victoria,3058,091 Farragut Crossing,9
+465,Australia,NSW,2074,70488 Logan Court,12
+466,Australia,NSW,2120,0 Golf Lane,11
+467,Australia,Victoria,3812,663 Bellgrove Parkway,8
+468,Australia,NSW,2147,9907 Morningstar Pass,9
+469,Australia,Victoria,3111,29 South Point,9
+470,Australia,NSW,2567,91 Eagle Crest Circle,9
+471,Australia,Victoria,3012,781 Dorton Avenue,10
+472,Australia,QLD,4217,47 Dwight Road,8
+473,Australia,NSW,2197,6674 Russell Center,9
+474,Australia,NSW,2142,84041 Holy Cross Circle,8
+475,Australia,NSW,2340,340 Northview Circle,4
+476,Australia,NSW,2320,74011 Manufacturers Street,6
+477,Australia,NSW,2155,30991 Macpherson Parkway,9
+478,Australia,NSW,2046,40504 Tennyson Drive,9
+479,Australia,Victoria,3162,76369 Ridge Oak Place,9
+480,Australia,NSW,2037,51188 Annamark Hill,9
+481,Australia,NSW,2428,00976 Sundown Lane,3
+482,Australia,Victoria,3141,87 Stone Corner Park,7
+483,Australia,Victoria,3178,9 Westridge Road,9
+484,Australia,Victoria,3564,4671 Buell Trail,2
+485,Australia,Victoria,3550,3743 Melody Avenue,4
+486,Australia,Victoria,3070,8670 Pine View Street,11
+487,Australia,Victoria,3775,31 Twin Pines Trail,10
+488,Australia,Victoria,3004,11731 3rd Hill,9
+489,Australia,QLD,4226,411 Lien Place,10
+490,Australia,NSW,2026,431 Ilene Center,10
+491,Australia,Victoria,3185,4 Pond Parkway,9
+492,Australia,NSW,2015,61293 Delladonna Way,9
+493,Australia,Victoria,3012,6390 Truax Park,9
+494,Australia,NSW,2447,470 Bunting Center,3
+495,Australia,Victoria,3143,02 Boyd Crossing,7
+496,Australia,Victoria,3910,2639 Brown Road,7
+497,Australia,Victoria,3621,0897 Little Fleur Way,8
+498,Australia,QLD,4702,353 Stuart Trail,3
+499,Australia,NSW,2133,9 Rowland Road,10
+500,Australia,Victoria,3075,830 Summit Center,7
+501,Australia,NSW,2069,4754 Moulton Alley,9
+502,Australia,Victoria,3911,808 Debra Center,10
+503,Australia,NSW,2250,8739 Service Park,8
+504,Australia,NSW,2487,4 Thackeray Pass,9
+505,Australia,QLD,4123,9 Bayside Hill,6
+506,Australia,NSW,2151,20373 Kensington Pass,8
+507,Australia,NSW,2428,7 Hooker Place,3
+508,Australia,Victoria,3156,089 Old Shore Point,8
+509,Australia,Victoria,3126,5723 Raven Drive,12
+510,Australia,Victoria,3152,08501 Kropf Trail,10
+511,Australia,NSW,2026,12845 Paget Lane,12
+512,Australia,NSW,2233,1 Vidon Pass,8
+513,Australia,NSW,2027,590 Hayes Court,11
+514,Australia,QLD,4208,49503 Sachtjen Circle,8
+515,Australia,Victoria,3124,2595 Grover Drive,12
+516,Australia,NSW,2211,3169 Old Gate Point,9
+517,Australia,NSW,2564,90974 Chinook Parkway,8
+518,Australia,QLD,4221,75790 Towne Avenue,9
+519,Australia,NSW,2049,62 Northport Lane,10
+520,Australia,Victoria,3690,84 Calypso Circle,5
+521,Australia,Victoria,3282,81848 Amoth Road,2
+522,Australia,NSW,2068,27230 7th Place,12
+523,Australia,NSW,2261,1 Cordelia Alley,8
+524,Australia,NSW,2576,80 Lakewood Street,10
+525,Australia,NSW,2160,66834 Melby Way,9
+526,Australia,Victoria,3108,35796 Buhler Plaza,10
+527,Australia,NSW,2145,306 Longview Street,7
+528,Australia,QLD,4165,39632 Michigan Park,5
+529,Australia,NSW,2021,1038 Hayes Point,7
+530,Australia,NSW,2218,46 Eastlawn Lane,11
+531,Australia,Victoria,3124,12 Monument Alley,12
+532,Australia,NSW,2145,64700 2nd Alley,7
+533,Australia,NSW,2190,999 Huxley Hill,10
+534,Australia,QLD,4211,311 Emmet Point,7
+535,Australia,Victoria,3170,000 Jana Hill,9
+536,Australia,NSW,2170,7671 Oak Valley Junction,9
+537,Australia,Victoria,3130,8304 Derek Park,10
+538,Australia,NSW,2337,8635 Cody Crossing,6
+539,Australia,NSW,2307,20 Debs Road,4
+540,Australia,NSW,2121,858 Independence Terrace,10
+541,Australia,NSW,2761,142 Cambridge Place,8
+542,Australia,NSW,2340,20198 Hansons Plaza,2
+543,Australia,NSW,2745,04678 Elka Crossing,9
+544,Australia,QLD,4127,5 Farmco Junction,7
+545,Australia,NSW,2716,2 East Circle,1
+546,Australia,Victoria,3168,1949 Pepper Wood Pass,6
+547,Australia,Victoria,3076,7901 Park Meadow Plaza,7
+548,Australia,NSW,2750,58 Maywood Place,9
+549,Australia,NSW,2166,532 Bartillon Circle,7
+550,Australia,NSW,2031,032 Kenwood Circle,9
+551,Australia,Victoria,3564,67 8th Terrace,4
+552,Australia,NSW,2478,06008 Anthes Pass,8
+553,Australia,QLD,4127,956 Mccormick Place,2
+554,Australia,Victoria,3016,6 Eggendart Circle,7
+555,Australia,NSW,2116,1 Service Alley,10
+556,Australia,Victoria,3356,62117 Trailsway Place,1
+557,Australia,NSW,2560,4 Graedel Parkway,8
+558,Australia,QLD,4680,311 Chive Way,3
+559,Australia,QLD,4740,9161 Hoepker Street,5
+560,Australia,NSW,2760,19 Lakewood Gardens Way,9
+561,Australia,NSW,2065,5861 Browning Park,8
+562,Australia,NSW,2230,396 Butternut Point,12
+563,Australia,NSW,2087,04 Hansons Street,11
+564,Australia,QLD,4505,8601 Cardinal Court,8
+565,Australia,NSW,2630,35631 Colorado Crossing,2
+566,Australia,NSW,2225,446 Dottie Court,10
+567,Australia,Victoria,3121,37 Ilene Hill,10
+568,Australia,Victoria,3013,909 Browning Crossing,10
+569,Australia,Victoria,3136,8498 Hoepker Circle,8
+570,Australia,NSW,2111,7 Claremont Court,12
+571,Australia,NSW,2209,64 Hayes Circle,11
+572,Australia,NSW,2106,44 Bunting Parkway,10
+573,Australia,Victoria,3930,8 Pawling Alley,8
+574,Australia,Victoria,3182,4 Carioca Way,10
+575,Australia,NSW,2097,4559 Stoughton Lane,10
+576,Australia,NSW,2287,7046 Surrey Road,7
+577,Australia,NSW,2291,58821 Warbler Crossing,9
+578,Australia,NSW,2283,95 Delladonna Plaza,4
+579,Australia,NSW,2305,8 Sommers Circle,7
+580,Australia,NSW,2300,3 Lunder Place,10
+581,Australia,QLD,4179,93098 Loftsgordon Pass,4
+582,Australia,NSW,2539,61493 Manufacturers Junction,9
+583,Australia,Victoria,3207,1192 Declaration Hill,8
+584,Australia,NSW,2630,62 Cherokee Terrace,1
+585,Australia,NSW,2154,01736 Saint Paul Way,11
+586,Australia,NSW,2036,9816 Carberry Trail,11
+587,Australia,NSW,2133,36912 Gina Pass,11
+588,Australia,QLD,4300,86857 Hoepker Lane,8
+589,Australia,NSW,2340,8435 Arkansas Terrace,4
+590,Australia,NSW,2010,25 Novick Center,9
+591,Australia,QLD,4305,0278 Elka Place,4
+592,Australia,QLD,4340,067 Cottonwood Park,2
+593,Australia,Victoria,3137,60010 Knutson Road,7
+594,Australia,NSW,2075,945 Hayes Park,12
+595,Australia,Victoria,3068,86 Huxley Parkway,8
+596,Australia,NSW,2148,0 Rigney Way,8
+597,Australia,NSW,2539,71 Meadow Ridge Parkway,11
+598,Australia,QLD,4580,506 Iowa Center,3
+599,Australia,QLD,4300,846 Clove Junction,5
+600,Australia,NSW,2750,07 Pepper Wood Way,8
+601,Australia,NSW,2761,425 Thierer Junction,8
+602,Australia,NSW,2566,876 Ridgeview Circle,8
+603,Australia,NSW,2041,00164 Canary Drive,11
+604,Australia,QLD,4504,61 Talmadge Lane,6
+605,Australia,NSW,2176,55 Birchwood Alley,9
+606,Australia,NSW,2036,3785 Dapin Drive,6
+607,Australia,QLD,4551,83 Ryan Hill,8
+608,Australia,NSW,2087,679 Huxley Trail,11
+609,Australia,NSW,2212,2 Hoffman Way,9
+610,Australia,NSW,2035,786 Rowland Court,11
+611,Australia,QLD,4120,375 Drewry Alley,9
+612,Australia,NSW,2306,608 Basil Alley,4
+613,Australia,QLD,4075,9 Schmedeman Hill,7
+614,Australia,Victoria,3975,95022 Roth Terrace,7
+615,Australia,NSW,2066,66897 Pawling Circle,9
+616,Australia,QLD,4114,1 Thackeray Crossing,3
+617,Australia,NSW,2763,363 Schiller Court,7
+618,Australia,QLD,4341,1923 Fisk Lane,3
+619,Australia,QLD,4022,4 Loeprich Avenue,3
+620,Australia,NSW,2168,575 Prentice Road,8
+621,Australia,QLD,4116,8 Melrose Road,7
+622,Australia,QLD,4178,226 Rowland Street,7
+623,Australia,QLD,4123,6 Springs Junction,5
+624,Australia,QLD,4132,4744 Garrison Drive,4
+625,Australia,QLD,4820,64 Nelson Drive,1
+626,Australia,NSW,2153,87 Linden Park,10
+627,Australia,Victoria,3076,329 Glacier Hill Alley,8
+628,Australia,Victoria,3028,725 Cordelia Junction,8
+629,Australia,QLD,4035,32 Cody Place,8
+630,Australia,NSW,2326,04 Namekagon Pass,3
+631,Australia,NSW,2145,165 Petterle Place,8
+632,Australia,NSW,2747,8 Golf Drive,9
+633,Australia,NSW,2759,9427 Tennyson Plaza,8
+634,Australia,Victoria,3429,8300 Vermont Center,6
+635,Australia,NSW,2148,44 Upham Crossing,7
+636,Australia,NSW,2204,18 Forest Avenue,9
+637,Australia,Victoria,3337,049 Michigan Parkway,6
+638,Australia,QLD,4218,831 Hayes Park,8
+639,Australia,Victoria,3011,491 Merry Crossing,4
+640,Australia,NSW,2380,598 Randy Way,1
+641,Australia,Victoria,3015,5873 Hagan Park,10
+642,Australia,Victoria,3564,3 Erie Hill,2
+643,Australia,Victoria,3171,678 Old Gate Pass,9
+644,Australia,QLD,4551,9 Mayfield Road,7
+645,Australia,NSW,2560,41759 Crowley Circle,8
+646,Australia,NSW,2565,9892 Dennis Alley,7
+647,Australia,NSW,2035,58729 Moland Trail,12
+648,Australia,Victoria,3850,36360 Coleman Trail,3
+649,Australia,NSW,2519,67 Aberg Hill,4
+650,Australia,NSW,2166,88 La Follette Way,8
+651,Australia,Victoria,3807,2884 Welch Lane,8
+652,Australia,Victoria,3032,60 Meadow Vale Hill,5
+653,Australia,QLD,4800,9912 Eagle Crest Lane,7
+654,Australia,Victoria,3025,355 Thackeray Circle,9
+655,Australia,NSW,2121,56 Anniversary Avenue,12
+656,Australia,NSW,2570,14 Autumn Leaf Avenue,10
+657,Australia,NSW,2577,30274 Graedel Way,7
+658,Australia,Victoria,3084,74013 Mesta Terrace,9
+659,Australia,NSW,2199,15 Lindbergh Center,9
+660,Australia,QLD,4870,3 Corscot Hill,5
+661,Australia,QLD,4171,77006 Nelson Point,10
+662,Australia,Victoria,3975,25 Mesta Plaza,8
+663,Australia,NSW,2134,1349 Namekagon Crossing,12
+664,Australia,NSW,2066,186 Shasta Avenue,9
+665,Australia,QLD,4053,48 Warbler Road,7
+666,Australia,QLD,4740,756 Farragut Place,2
+667,Australia,NSW,2260,197 Mifflin Hill,10
+668,Australia,NSW,2800,618 Independence Pass,1
+669,Australia,NSW,2304,2836 Morning Drive,7
+670,Australia,Victoria,3752,8 Lawn Hill,7
+671,Australia,NSW,2048,99 Cascade Crossing,12
+672,Australia,NSW,2194,4 Sunfield Circle,8
+673,Australia,NSW,2216,5 Lyons Alley,10
+674,Australia,QLD,4352,96910 Sugar Point,7
+675,Australia,NSW,2557,558 Maple Court,9
+676,Australia,NSW,2209,9114 Union Center,7
+677,Australia,NSW,2147,76 Hanson Junction,9
+678,Australia,NSW,2548,3 Sheridan Park,8
+679,Australia,NSW,2262,40545 Forster Point,7
+680,Australia,NSW,2763,8425 Jackson Terrace,9
+681,Australia,NSW,2463,39035 Westerfield Plaza,4
+682,Australia,NSW,2481,8234 Riverside Park,9
+683,Australia,NSW,2072,4535 Daystar Parkway,12
+684,Australia,Victoria,3155,95 Fallview Avenue,8
+685,Australia,Victoria,3095,75826 Bellgrove Trail,10
+686,Australia,QLD,4207,64080 Susan Park,7
+687,Australia,NSW,2577,8179 Veith Pass,7
+688,Australia,NSW,2160,5 Maple Parkway,9
+689,Australia,QLD,4110,0 Carey Drive,4
+690,Australia,NSW,2017,1 Moose Avenue,8
+691,Australia,NSW,2745,02 Bartelt Center,8
+692,Australia,NSW,2769,0650 Sachs Circle,10
+693,Australia,QLD,4214,16420 Veith Crossing,7
+694,Australia,Victoria,3805,81310 Charing Cross Plaza,7
+695,Australia,NSW,2770,37430 Merrick Center,6
+696,Australia,NSW,2322,6046 Sheridan Way,3
+697,Australia,QLD,4562,537 Packers Street,5
+698,Australia,NSW,2117,6 Briar Crest Court,12
+699,Australia,NSW,2283,4 Lillian Plaza,6
+700,Australia,NSW,2571,70836 Colorado Plaza,11
+701,Australia,NSW,2233,15 Emmet Street,10
+702,Australia,Victoria,3480,8 Dottie Court,1
+703,Australia,Victoria,3011,520 Stephen Pass,9
+704,Australia,Victoria,3551,18939 Upham Hill,3
+705,Australia,Victoria,3136,4222 Porter Lane,9
+706,Australia,NSW,2753,1721 Nobel Junction,8
+707,Australia,Victoria,3093,30550 Pierstorff Lane,7
+708,Australia,NSW,2232,6 Morning Drive,9
+709,Australia,Victoria,3023,646 Mariners Cove Place,6
+710,Australia,NSW,2153,51 Londonderry Trail,10
+711,Australia,NSW,2176,4086 Darwin Terrace,9
+712,Australia,NSW,2304,4033 Hermina Road,7
+713,Australia,NSW,2567,37 Banding Avenue,9
+714,Australia,QLD,4217,8080 Victoria Plaza,11
+715,Australia,QLD,4615,14254 Hallows Parkway,1
+716,Australia,NSW,2026,78 Glacier Hill Drive,10
+717,Australia,Victoria,3174,6 Fulton Road,8
+718,Australia,NSW,2777,76 Londonderry Park,9
+719,Australia,NSW,2199,68861 School Hill,9
+720,Australia,NSW,2190,09 Bartelt Lane,8
+721,Australia,QLD,4221,29639 Porter Center,8
+722,Australia,NSW,2766,5811 Moulton Drive,8
+723,Australia,Victoria,3551,80027 Ryan Terrace,3
+724,Australia,Victoria,3429,8 Kingsford Hill,6
+725,Australia,Victoria,3150,8044 Emmet Hill,9
+726,Australia,Victoria,3183,2249 Havey Hill,10
+727,Australia,NSW,2145,1855 Stang Terrace,9
+728,Australia,NSW,2154,2 Riverside Trail,11
+729,Australia,NSW,2192,98 Esker Junction,10
+730,Australia,NSW,2145,9984 Pankratz Road,10
+731,Australia,NSW,2290,324 Mifflin Road,7
+732,Australia,Victoria,3073,2726 Cardinal Way,5
+733,Australia,QLD,4811,3 Talisman Place,2
+734,Australia,QLD,4005,282 West Trail,5
+735,Australia,Victoria,3191,08260 Jay Court,11
+736,Australia,QLD,4810,12 6th Hill,2
+737,Australia,QLD,4121,0297 Merchant Avenue,9
+738,Australia,NSW,2100,1 Monica Street,9
+739,Australia,NSW,2031,0272 Pankratz Hill,10
+740,Australia,Victoria,3111,2 North Crossing,11
+741,Australia,QLD,4305,345 Dovetail Avenue,5
+742,Australia,Victoria,3137,2826 Huxley Center,8
+743,Australia,NSW,2229,61043 Summer Ridge Junction,11
+744,Australia,NSW,2176,56045 Express Avenue,9
+745,Australia,Victoria,3068,760 Forest Dale Place,12
+746,Australia,NSW,2263,99 Wayridge Place,8
+747,Australia,NSW,2117,5 Dahle Trail,10
+748,Australia,QLD,4118,62215 Delaware Plaza,3
+749,Australia,NSW,2594,37 Dorton Street,3
+750,Australia,VIC,3850,00 Evergreen Center,4
+751,Australia,NSW,2536,80 Maple Avenue,4
+752,Australia,VIC,3750,43 Jana Way,7
+753,Australia,QLD,4019,195 Knutson Place,8
+754,Australia,NSW,2197,9 Melby Park,10
+755,Australia,NSW,2227,4 Vahlen Junction,10
+756,Australia,NSW,2540,6330 Monica Way,9
+757,Australia,NSW,2293,7101 Gulseth Hill,9
+758,Australia,NSW,2560,983 2nd Road,8
+759,Australia,NSW,2143,08 Vidon Center,5
+760,Australia,QLD,4305,36 Helena Drive,1
+761,Australia,VIC,3630,20554 Orin Place,1
+762,Australia,NSW,2164,3903 Messerschmidt Park,8
+763,Australia,NSW,2148,64 Muir Lane,8
+764,Australia,NSW,2759,06495 Swallow Terrace,9
+765,Australia,NSW,2150,033 Loftsgordon Center,8
+766,Australia,VIC,3121,80 Scofield Alley,10
+767,Australia,QLD,4350,64 Milwaukee Pass,4
+768,Australia,NSW,2567,50851 Vahlen Avenue,7
+769,Australia,QLD,4305,88 Bay Drive,3
+770,Australia,VIC,3183,0 Thompson Road,8
+771,Australia,QLD,4350,99 Elka Street,4
+772,Australia,QLD,4869,2699 Crest Line Way,4
+773,Australia,NSW,2145,6 Melody Trail,9
+774,Australia,NSW,2137,90 New Castle Trail,9
+775,Australia,NSW,2093,2570 Wayridge Park,9
+776,Australia,NSW,2354,70 Old Gate Street,3
+777,Australia,NSW,2190,3 Magdeline Terrace,10
+778,Australia,QLD,4019,36744 Birchwood Center,3
+779,Australia,QLD,4814,68 Chinook Street,2
+780,Australia,VIC,3201,0 Valley Edge Plaza,6
+781,Australia,NSW,2282,8 Starling Trail,8
+782,Australia,NSW,2223,3 Crest Line Plaza,10
+783,Australia,NSW,2292,0601 Stephen Place,7
+784,Australia,NSW,2141,00 Mockingbird Junction,9
+785,Australia,NSW,2126,37817 Burning Wood Circle,11
+786,Australia,VIC,3046,02353 Kropf Lane,9
+787,Australia,VIC,3008,79 Arkansas Drive,10
+788,Australia,NSW,2830,4085 Jackson Hill,7
+789,Australia,NSW,2099,57 Gulseth Terrace,10
+790,Australia,NSW,2250,52737 Morningstar Crossing,3
+791,Australia,NSW,2171,866 Rockefeller Junction,9
+792,Australia,VIC,3076,414 Kensington Lane,8
+793,Australia,NSW,2077,81 Holy Cross Alley,8
+794,Australia,VIC,3156,1 Loomis Parkway,9
+795,Australia,NSW,2756,572 Brown Circle,8
+796,Australia,QLD,4873,92344 Oakridge Drive,4
+797,Australia,QLD,4514,1626 Dawn Street,3
+798,Australia,QLD,4210,845 Talisman Pass,7
+799,Australia,QLD,4551,1899 Manley Court,7
+800,Australia,QLD,4006,15067 Commercial Pass,7
+801,Australia,NSW,2754,80932 5th Street,8
+802,Australia,NSW,2767,018 Erie Point,9
+803,Australia,NSW,2282,40402 Moulton Park,8
+804,Australia,VIC,3810,246 Norway Maple Trail,2
+805,Australia,NSW,2137,2 Autumn Leaf Plaza,8
+806,Australia,NSW,2173,808 Starling Place,9
+807,Australia,NSW,2152,5409 Mandrake Circle,10
+808,Australia,NSW,2340,786 Bonner Drive,4
+809,Australia,NSW,2088,7175 Orin Junction,12
+810,Australia,VIC,3805,8208 Lotheville Street,8
+811,Australia,NSW,2067,25689 Eastlawn Crossing,11
+812,Australia,NSW,2122,44 Lakewood Gardens Pass,10
+813,Australia,VIC,3976,87 Twin Pines Plaza,5
+814,Australia,NSW,2067,65 Sachtjen Park,11
+815,Australia,NSW,2000,84 Loomis Pass,12
+816,Australia,NSW,2040,58047 Westport Road,12
+817,Australia,NSW,2530,59000 American Center,8
+818,Australia,VIC,3175,659 Scofield Street,5
+819,Australia,NSW,2156,388 Weeping Birch Plaza,11
+820,Australia,QLD,4127,09413 Holmberg Terrace,3
+821,Australia,NSW,2066,8640 Village Junction,12
+822,Australia,NSW,2759,177 Sheridan Trail,8
+823,Australia,QLD,4171,1 Oriole Alley,11
+824,Australia,NSW,2073,8925 Ryan Trail,11
+825,Australia,VIC,3218,77 Nova Junction,8
+826,Australia,NSW,2228,43 Esker Pass,8
+827,Australia,QLD,4207,205 Melody Circle,4
+828,Australia,QLD,4114,44997 Anniversary Way,3
+829,Australia,NSW,2430,4444 Bunting Point,7
+830,Australia,VIC,3199,3 Washington Plaza,7
+831,Australia,NSW,2192,285 Aberg Point,10
+832,Australia,QLD,4210,4 Sachtjen Avenue,10
+833,Australia,NSW,2290,055 Dakota Pass,8
+834,Australia,QLD,4350,6 Green Ridge Circle,3
+835,Australia,NSW,2880,6841 Dawn Drive,1
+836,Australia,QLD,4413,74251 Golden Leaf Lane,3
+837,Australia,VIC,3187,2 Dwight Street,11
+838,Australia,VIC,3028,511 Gulseth Plaza,6
+839,Australia,NSW,2166,71801 Grover Point,10
+840,Australia,NSW,2680,69 Hovde Plaza,5
+841,Australia,NSW,2527,3387 Warrior Court,7
+842,Australia,NSW,2147,7837 Derek Street,9
+843,Australia,NSW,2141,00 Algoma Crossing,7
+844,Australia,QLD,4215,341 Londonderry Point,7
+845,Australia,QLD,4701,2661 Di Loreto Point,7
+846,Australia,NSW,2163,036 Kedzie Terrace,9
+847,Australia,QLD,4220,615 Spenser Drive,10
+848,Australia,NSW,2336,641 Waywood Lane,7
+849,Australia,NSW,2650,49 Buhler Plaza,2
+850,Australia,VIC,3031,56 Graceland Alley,7
+851,Australia,QLD,4415,3 Magdeline Way,2
+852,Australia,VIC,3139,94 Anhalt Way,7
+853,Australia,QLD,4122,18 Parkside Plaza,4
+854,Australia,QLD,4055,681 Transport Pass,7
+855,Australia,NSW,2150,6 Harper Lane,10
+856,Australia,QLD,4020,59041 Independence Point,9
+857,Australia,VIC,3975,55 Hovde Parkway,8
+858,Australia,VIC,3147,36903 Reinke Trail,10
+859,Australia,VIC,3623,938 Nova Junction,1
+860,Australia,QLD,4122,48 Bobwhite Crossing,8
+861,Australia,QLD,4356,7391 Ruskin Parkway,5
+862,Australia,NSW,2216,677 Butternut Crossing,7
+863,Australia,VIC,3124,8360 Washington Avenue,12
+864,Australia,NSW,2768,519 Maywood Pass,10
+865,Australia,NSW,2065,6712 Nova Crossing,10
+866,Australia,NSW,2753,383 Rockefeller Junction,9
+867,Australia,NSW,2034,71039 Packers Street,10
+868,Australia,NSW,2650,5 Hauk Lane,3
+869,Australia,NSW,2287,02377 Maywood Trail,7
+870,Australia,NSW,2010,2 School Street,10
+871,Australia,VIC,3034,9254 Straubel Street,9
+872,Australia,NSW,2196,3 Glacier Hill Parkway,10
+873,Australia,NSW,2177,029 Springview Place,8
+874,Australia,QLD,4800,1 Springview Place,5
+875,Australia,NSW,2219,60 Meadow Valley Avenue,10
+876,Australia,NSW,2234,42 Thompson Hill,10
+877,Australia,QLD,4812,2 Pankratz Street,5
+878,Australia,NSW,2065,65345 Marcy Crossing,12
+879,Australia,NSW,2537,77 Pawling Pass,3
+880,Australia,VIC,3191,06419 Dayton Junction,10
+881,Australia,QLD,4870,5 Hauk Way,8
+882,Australia,NSW,2065,923 Westerfield Junction,10
+883,Australia,NSW,2830,707 Spaight Place,4
+884,Australia,QLD,4720,89 Monument Place,1
+885,Australia,QLD,4213,583 Coleman Parkway,9
+886,Australia,NSW,2026,376 Buena Vista Street,11
+887,Australia,VIC,3124,91457 Anderson Avenue,12
+888,Australia,VIC,3765,39 Ronald Regan Alley,8
+889,Australia,NSW,2148,1 5th Parkway,8
+890,Australia,NSW,2165,7 Meadow Ridge Center,9
+891,Australia,NSW,2756,41821 Sheridan Center,9
+892,Australia,NSW,2767,7 Reindahl Center,8
+893,Australia,NSW,2153,6382 Bayside Street,10
+894,Australia,NSW,2148,850 Manitowish Avenue,8
+895,Australia,NSW,2486,88 Comanche Point,7
+896,Australia,VIC,3228,13845 Hayes Center,8
+897,Australia,QLD,4511,88022 South Road,5
+898,Australia,NSW,2340,9 Northridge Lane,3
+899,Australia,QLD,4110,95530 Hallows Circle,5
+900,Australia,QLD,4226,97 Karstens Place,7
+901,Australia,QLD,4506,237 Summit Pass,3
+902,Australia,VIC,3150,1 Cottonwood Street,9
+903,Australia,NSW,2026,8642 Forest Run Avenue,9
+904,Australia,VIC,3084,352 Bonner Crossing,8
+905,Australia,VIC,3802,52726 High Crossing Junction,7
+906,Australia,NSW,2116,60086 Summit Lane,10
+907,Australia,NSW,2747,5 Farmco Way,8
+908,Australia,NSW,2211,33 Kropf Hill,10
+909,Australia,NSW,2222,2 Derek Pass,7
+910,Australia,VIC,3124,87140 Mandrake Lane,8
+911,Australia,NSW,2795,69278 High Crossing Place,5
+912,Australia,NSW,2567,42 Cordelia Park,8
+913,Australia,VIC,3188,50 2nd Center,9
+914,Australia,VIC,3730,8 Colorado Circle,4
+915,Australia,NSW,2234,55 Daystar Court,10
+916,Australia,NSW,2062,21 Dwight Crossing,10
+917,Australia,NSW,2027,3828 Norway Maple Avenue,11
+918,Australia,VIC,3060,3044 Summer Ridge Center,8
+919,Australia,QLD,4131,43455 Carey Center,4
+920,Australia,NSW,2518,57953 Drewry Street,10
+921,Australia,NSW,2323,3 Luster Junction,4
+922,Australia,NSW,2766,9987 Stuart Alley,8
+923,Australia,VIC,3199,2309 Gulseth Way,8
+924,Australia,VIC,3158,730 Dixon Place,8
+925,Australia,VIC,3188,10421 Cordelia Parkway,12
+926,Australia,NSW,2477,35454 Welch Hill,6
+927,Australia,VIC,3143,3403 Spenser Terrace,8
+928,Australia,NSW,2770,06 Oneill Parkway,7
+929,Australia,NSW,2195,243 Ridge Oak Center,9
+930,Australia,NSW,2036,4 Eastlawn Crossing,12
+931,Australia,NSW,2575,33 Farwell Crossing,10
+932,Australia,VIC,3400,5 Reindahl Point,2
+933,Australia,NSW,2145,8882 Valley Edge Junction,8
+934,Australia,VIC,3037,633 Cordelia Alley,7
+935,Australia,NSW,2233,32 Dennis Hill,9
+936,Australia,QLD,4570,54905 Anniversary Pass,2
+937,Australia,QLD,4507,5 Gale Street,8
+938,Australia,QLD,4220,5413 Burning Wood Plaza,8
+939,Australia,NSW,2113,6183 Morrow Court,11
+940,Australia,VIC,3799,9 Colorado Trail,3
+941,Australia,QLD,4505,627 Ronald Regan Alley,6
+942,Australia,NSW,2229,93446 Eagle Crest Plaza,10
+943,Australia,VIC,3021,9 Clyde Gallagher Plaza,7
+944,Australia,NSW,2443,56709 Petterle Street,6
+945,Australia,NSW,2010,221 Coolidge Parkway,9
+946,Australia,QLD,4218,33564 Jana Court,5
+947,Australia,NSW,2570,7 Starling Crossing,9
+948,Australia,VIC,3752,283 Ryan Street,7
+949,Australia,QLD,4720,97 Aberg Pass,1
+950,Australia,VIC,3177,0 Menomonie Avenue,6
+951,Australia,NSW,2192,20 Carpenter Parkway,9
+952,Australia,NSW,2069,14796 Ramsey Street,12
+953,Australia,VIC,3111,1346 Forest Dale Point,10
+954,Australia,NSW,2023,217 Meadow Vale Point,12
+955,Australia,NSW,2033,341 Saint Paul Lane,9
+956,Australia,VIC,3030,7823 Village Green Park,8
+957,Australia,NSW,2148,382 Dayton Lane,8
+958,Australia,VIC,3147,4 Kennedy Trail,8
+959,Australia,NSW,2196,4364 Gale Park,10
+960,Australia,NSW,2089,2379 Dorton Pass,12
+961,Australia,NSW,2641,5 Hintze Hill,1
+962,Australia,QLD,4212,58 High Crossing Place,10
+963,Australia,VIC,3241,1 Ridgeway Court,5
+964,Australia,NSW,2450,00 Park Meadow Terrace,6
+965,Australia,QLD,4209,29419 Harper Circle,5
+966,Australia,NSW,2026,1601 Judy Drive,10
+967,Australia,VIC,3428,7628 Larry Trail,7
+968,Australia,QLD,4227,004 Lawn Trail,5
+969,Australia,VIC,3806,42 Dahle Parkway,7
+970,Australia,QLD,4034,1472 Meadow Vale Lane,7
+971,Australia,NSW,2760,95 Old Gate Junction,8
+972,Australia,VIC,3175,55 Fairfield Court,8
+973,Australia,NSW,2558,92 Bunker Hill Trail,7
+974,Australia,NSW,2460,1 Boyd Junction,1
+975,Australia,VIC,3173,938 Monica Park,9
+976,Australia,NSW,2289,26204 Monument Alley,8
+977,Australia,NSW,2031,36 Grayhawk Plaza,9
+978,Australia,NSW,2250,8276 Hudson Trail,6
+979,Australia,NSW,2027,3638 Starling Alley,11
+980,Australia,VIC,3111,7380 Canary Pass,7
+981,Australia,QLD,4500,9 Debs Trail,4
+982,Australia,QLD,4825,82 Shasta Drive,3
+983,Australia,QLD,4213,9 Goodland Center,9
+984,Australia,QLD,4161,4 Amoth Trail,6
+985,Australia,QLD,4018,730 Butternut Trail,4
+986,Australia,NSW,2560,21780 Service Park,7
+987,Australia,VIC,3757,00745 Huxley Center,9
+988,Australia,VIC,3073,45 Hazelcrest Junction,9
+989,Australia,NSW,2871,84019 Porter Trail,3
+990,Australia,VIC,3141,64211 Laurel Alley,10
+991,Australia,QLD,4034,31369 Meadow Valley Road,5
+992,Australia,NSW,2194,8298 Texas Alley,10
+993,Australia,NSW,2146,1 Continental Center,9
+994,Australia,NSW,2768,0465 Melrose Alley,9
+995,Australia,VIC,3073,5357 Mcguire Plaza,9
+996,Australia,VIC,3136,4757 Texas Trail,9
+997,Australia,QLD,4869,27 Sunfield Center,3
+998,Australia,VIC,3127,656 Bartelt Parkway,12
+999,Australia,QLD,4078,610 Lakewood Gardens Point,7
+1000,Australia,VIC,3182,61 Lukken Plaza,6
+1001,Australia,NSW,2165,67 Holmberg Way,9
+1002,Australia,VIC,3046,3383 Fair Oaks Circle,8
+1003,Australia,NSW,2066,2 Vermont Avenue,12
+1004,Australia,NSW,2065,486 Atwood Pass,12
+1005,Australia,QLD,4380,05 Loftsgordon Pass,9
+1006,Australia,NSW,2340,570 Butternut Pass,4
+1007,Australia,NSW,2769,63 Grayhawk Pass,9
+1008,Australia,QLD,4220,44594 5th Street,9
+1009,Australia,NSW,2179,495 Elmside Drive,8
+1010,Australia,NSW,2527,9 Macpherson Avenue,8
+1011,Australia,VIC,3024,738 Division Street,8
+1012,Australia,VIC,3934,5 Sheridan Circle,11
+1013,Australia,NSW,2027,42 Lunder Drive,11
+1014,Australia,VIC,3109,3 Hayes Court,10
+1015,Australia,NSW,2540,711 Sachtjen Point,8
+1016,Australia,NSW,2145,16395 Nevada Lane,10
+1017,Australia,NSW,2761,0996 Cody Terrace,8
+1018,Australia,NSW,2136,80424 Corben Alley,10
+1019,Australia,NSW,2145,37208 Golf View Terrace,8
+1020,Australia,VIC,3124,1128 Golden Leaf Center,9
+1021,Australia,VIC,3046,4885 Stone Corner Alley,8
+1022,Australia,NSW,2153,66 Hudson Crossing,10
+1023,Australia,NSW,2069,5287 Wayridge Alley,12
+1024,Australia,NSW,2046,15393 Cody Lane,9
+1025,Australia,NSW,2484,1 Mcbride Center,6
+1026,Australia,VIC,3225,4870 Shelley Alley,7
+1027,Australia,QLD,4053,65634 Del Mar Crossing,7
+1028,Australia,VIC,3145,8572 Melvin Drive,11
+1029,Australia,QLD,4068,5549 Bay Point,9
+1030,Australia,NSW,2324,9 Forest Circle,3
+1031,Australia,NSW,2214,6 Kedzie Hill,9
+1032,Australia,NSW,2041,60601 Hoffman Court,12
+1033,Australia,NSW,2031,1715 Scoville Drive,11
+1034,Australia,VIC,3809,85 Laurel Trail,6
+1035,Australia,NSW,2454,3082 Almo Center,4
+1036,Australia,QLD,4556,27135 Melvin Plaza,8
+1037,Australia,NSW,2065,40 Kinsman Pass,10
+1038,Australia,NSW,2216,094 Green Road,11
+1039,Australia,QLD,4573,91 Spohn Plaza,7
+1040,Australia,QLD,4570,5 Jana Drive,1
+1041,Australia,NSW,2154,201 Pepper Wood Avenue,11
+1042,Australia,NSW,2171,4408 Haas Way,9
+1043,Australia,NSW,2871,6 Pawling Trail,7
+1044,Australia,VIC,3034,31111 Hoepker Road,9
+1045,Australia,VIC,3082,79 Lighthouse Bay Lane,8
+1046,Australia,NSW,2131,2354 Forster Road,11
+1047,Australia,VIC,3207,5271 Vernon Court,10
+1048,Australia,VIC,3184,06 Declaration Hill,11
+1049,Australia,NSW,2250,07716 5th Alley,5
+1050,Australia,NSW,2118,10 Pennsylvania Hill,11
+1051,Australia,NSW,2570,2330 Huxley Crossing,10
+1052,Australia,NSW,2260,5811 Hanson Lane,7
+1053,Australia,NSW,2065,7 Main Crossing,12
+1054,Australia,VIC,3977,682 Spenser Plaza,6
+1055,Australia,NSW,2016,1149 Riverside Parkway,11
+1056,Australia,NSW,2112,1176 Pine View Lane,11
+1057,Australia,NSW,2137,22 Sachtjen Avenue,12
+1058,Australia,NSW,2228,6 Pankratz Crossing,11
+1059,Australia,NSW,2217,6988 Acker Crossing,10
+1060,Australia,NSW,2223,9993 Mccormick Street,8
+1061,Australia,NSW,2018,7 Holmberg Circle,9
+1062,Australia,VIC,3109,7 Village Green Circle,10
+1063,Australia,NSW,2315,4044 Tennessee Parkway,9
+1064,Australia,NSW,2170,4297 Emmet Lane,8
+1065,Australia,QLD,4053,6 Sycamore Drive,7
+1066,Australia,QLD,4300,6 Barby Road,4
+1067,Australia,NSW,2619,37495 Summerview Park,7
+1068,Australia,NSW,2452,3 Center Crossing,3
+1069,Australia,NSW,2229,19386 Burrows Way,10
+1070,Australia,NSW,2800,4 Quincy Trail,3
+1071,Australia,NSW,2880,69881 Westport Parkway,1
+1072,Australia,NSW,2515,44 Ramsey Road,9
+1073,Australia,QLD,4020,12764 Raven Plaza,7
+1074,Australia,NSW,2193,356 Petterle Way,9
+1075,Australia,NSW,2064,2827 Fallview Lane,9
+1076,Australia,QLD,4220,7 Del Sol Road,9
+1077,Australia,NSW,2450,05415 Basil Junction,8
+1078,Australia,QLD,4152,09 Warbler Court,9
+1079,Australia,QLD,4035,847 David Hill,8
+1080,Australia,NSW,2322,24596 Hoepker Avenue,4
+1081,Australia,QLD,4509,75 Mesta Hill,7
+1082,Australia,VIC,3138,7258 Mandrake Terrace,9
+1083,Australia,VIC,3029,84741 Scoville Terrace,5
+1084,Australia,VIC,3441,04328 Rowland Plaza,9
+1085,Australia,VIC,3136,332 Maywood Crossing,9
+1086,Australia,NSW,2121,6026 Graceland Crossing,11
+1087,Australia,VIC,3023,0 Fremont Court,7
+1088,Australia,VIC,3337,5515 Artisan Center,3
+1089,Australia,NSW,2216,0 Nevada Pass,10
+1090,Australia,QLD,4074,06 Heffernan Junction,7
+1091,Australia,NSW,2101,04 Onsgard Center,9
+1092,Australia,NSW,2153,37 Division Way,9
+1093,Australia,NSW,2164,9623 Fisk Plaza,8
+1094,Australia,NSW,2160,9419 Homewood Way,9
+1095,Australia,NSW,2756,26349 Spaight Junction,8
+1096,Australia,QLD,4510,1063 Forest Avenue,3
+1097,Australia,NSW,2075,548 Dahle Lane,11
+1098,Australia,NSW,2647,4 Barby Road,3
+1099,Australia,NSW,2154,258 Luster Court,10
+1100,Australia,NSW,2565,22669 Lien Center,6
+1101,Australia,NSW,2731,9 Autumn Leaf Court,4
+1102,Australia,VIC,3185,9 Superior Plaza,11
+1103,Australia,NSW,2164,86603 Dexter Road,9
+1104,Australia,NSW,2323,8 Ridgeview Park,5
+1105,Australia,VIC,3130,4754 Ramsey Junction,9
+1106,Australia,VIC,3757,9 Dayton Alley,7
+1107,Australia,VIC,3284,08 Carey Center,6
+1108,Australia,NSW,2204,915 Thackeray Junction,11
+1109,Australia,NSW,2037,515 3rd Road,12
+1110,Australia,QLD,4211,184 Roth Pass,7
+1111,Australia,NSW,2153,84 Porter Alley,10
+1112,Australia,NSW,2527,79494 Ruskin Circle,9
+1113,Australia,NSW,2747,98 Schiller Junction,9
+1114,Australia,NSW,2152,20519 Katie Circle,8
+1115,Australia,NSW,2118,2273 Oneill Place,11
+1116,Australia,NSW,2168,03 6th Alley,9
+1117,Australia,NSW,2067,8548 Hanover Park,11
+1118,Australia,VIC,3021,4079 Lindbergh Center,8
+1119,Australia,NSW,2573,338 Grasskamp Lane,7
+1120,Australia,NSW,2118,0355 3rd Drive,11
+1121,Australia,NSW,2759,0182 Esker Center,9
+1122,Australia,VIC,3185,48 Sheridan Road,11
+1123,Australia,NSW,2206,1879 Mitchell Center,10
+1124,Australia,QLD,4869,81114 7th Place,4
+1125,Australia,QLD,4226,1 Nevada Park,8
+1126,Australia,NSW,2062,6 Buell Point,12
+1127,Australia,QLD,4814,4284 Debra Drive,3
+1128,Australia,VIC,3076,8 Hansons Street,7
+1129,Australia,QLD,4815,7674 Roxbury Junction,4
+1130,Australia,NSW,2076,771 Sugar Way,11
+1131,Australia,NSW,2539,1792 Judy Road,6
+1132,Australia,NSW,2147,92 Melvin Hill,9
+1133,Australia,VIC,3184,592 Merry Lane,3
+1134,Australia,QLD,4503,6 Dapin Park,6
+1135,Australia,QLD,4127,03 Holmberg Park,2
+1136,Australia,NSW,2206,8587 Graceland Way,10
+1137,Australia,VIC,3162,91 Messerschmidt Trail,11
+1138,Australia,NSW,2526,5998 Bayside Terrace,9
+1139,Australia,NSW,2579,107 Moland Court,5
+1140,Australia,NSW,2177,4439 7th Terrace,9
+1141,Australia,VIC,3165,2272 Dennis Alley,10
+1142,Australia,VIC,3201,0 Scofield Plaza,4
+1143,Australia,NSW,2768,51152 Brickson Park Crossing,9
+1144,Australia,NSW,2160,4668 Coleman Street,5
+1145,Australia,NSW,2148,8 Moland Junction,7
+1146,Australia,QLD,4502,1 Raven Junction,4
+1147,Australia,NSW,2166,40570 Acker Alley,9
+1148,Australia,QLD,4551,893 Petterle Trail,10
+1149,Australia,QLD,4127,84 Monument Terrace,4
+1150,Australia,NSW,2222,0103 Bay Junction,11
+1151,Australia,NSW,2710,9618 Havey Place,1
+1152,Australia,QLD,4510,098 Veith Hill,3
+1153,Australia,NSW,2090,03058 Shoshone Lane,12
+1154,Australia,VIC,3038,7975 Browning Plaza,4
+1155,Australia,VIC,3551,154 Cambridge Point,8
+1156,Australia,NSW,2250,3 Sachs Point,7
+1157,Australia,QLD,4122,0386 Mayfield Way,7
+1158,Australia,VIC,3031,24 Merchant Plaza,10
+1159,Australia,VIC,3145,353 Oneill Park,9
+1160,Australia,VIC,3142,92867 Lukken Lane,9
+1161,Australia,NSW,2710,11 Corscot Plaza,1
+1162,Australia,NSW,2576,13 Buhler Plaza,8
+1163,Australia,QLD,4209,72673 Mayfield Trail,6
+1164,Australia,VIC,3442,42739 Moose Pass,8
+1165,Australia,NSW,2153,3 Atwood Lane,10
+1166,Australia,QLD,4064,378 Prentice Point,9
+1167,Australia,QLD,4152,95 Forest Run Drive,8
+1168,Australia,NSW,2230,20 Main Road,9
+1169,Australia,NSW,2127,71 Cherokee Hill,7
+1170,Australia,NSW,2529,698 Summer Ridge Way,7
+1171,Australia,NSW,2170,79 Grasskamp Center,9
+1172,Australia,NSW,2212,6541 Dahle Junction,9
+1173,Australia,NSW,2150,858 Swallow Parkway,8
+1174,Australia,NSW,2118,0005 Independence Drive,9
+1175,Australia,QLD,4012,525 Kedzie Street,8
+1176,Australia,NSW,2747,03890 Logan Court,8
+1177,Australia,QLD,4217,8 Clyde Gallagher Court,8
+1178,Australia,NSW,2430,62 Elka Terrace,3
+1179,Australia,VIC,3039,85931 Johnson Alley,6
+1180,Australia,NSW,2017,63588 Clove Court,9
+1181,Australia,NSW,2213,86 Stang Way,10
+1182,Australia,NSW,2061,84 Westridge Hill,10
+1183,Australia,VIC,3644,53740 Vera Parkway,1
+1184,Australia,NSW,2104,2 Ramsey Parkway,11
+1185,Australia,VIC,3173,651 Mesta Drive,9
+1186,Australia,NSW,2830,1 Merrick Parkway,2
+1187,Australia,NSW,2044,135 Crest Line Drive,10
+1188,Australia,NSW,2168,63576 Anzinger Trail,9
+1189,Australia,NSW,2320,05 Charing Cross Plaza,5
+1190,Australia,QLD,4118,261 Farmco Drive,4
+1191,Australia,VIC,3043,0 Northport Hill,8
+1192,Australia,NSW,2251,894 Maple Wood Drive,10
+1193,Australia,NSW,2560,05 Daystar Lane,8
+1194,Australia,NSW,2873,81167 Division Hill,1
+1195,Australia,NSW,2541,761 Bellgrove Lane,7
+1196,Australia,QLD,4350,614 Shopko Trail,3
+1197,Australia,NSW,2761,1911 Waxwing Point,9
+1198,Australia,NSW,2155,0 Kedzie Junction,10
+1199,Australia,QLD,4017,0108 Forster Parkway,6
+1200,Australia,NSW,2222,466 Briar Crest Junction,10
+1201,Australia,NSW,2222,6072 Ridge Oak Junction,10
+1202,Australia,VIC,3429,31445 Morningstar Drive,5
+1203,Australia,NSW,2321,22619 Schurz Street,4
+1204,Australia,NSW,2079,61 Kim Avenue,10
+1205,Australia,VIC,3072,12103 Merchant Circle,9
+1206,Australia,NSW,2230,3 Porter Center,9
+1207,Australia,NSW,2007,7 Luster Trail,8
+1208,Australia,NSW,2620,7 Dahle Avenue,9
+1209,Australia,VIC,3034,7 Magdeline Trail,10
+1210,Australia,NSW,2086,275 Lindbergh Parkway,11
+1211,Australia,NSW,2231,592 Tennessee Alley,10
+1212,Australia,VIC,3175,0 American Ash Parkway,7
+1213,Australia,NSW,2580,387 Pawling Drive,4
+1214,Australia,VIC,3037,0 Evergreen Road,7
+1215,Australia,VIC,3550,51529 Cascade Place,4
+1216,Australia,VIC,3218,457 Ryan Road,7
+1217,Australia,NSW,2020,94219 Buell Circle,9
+1218,Australia,VIC,3930,267 Lukken Park,9
+1219,Australia,NSW,2480,54 Harbort Road,7
+1220,Australia,NSW,2259,81 American Place,6
+1221,Australia,VIC,3130,2388 Thackeray Place,10
+1222,Australia,VIC,3029,85957 Basil Way,7
+1223,Australia,NSW,2285,01 Cottonwood Junction,7
+1224,Australia,NSW,2830,37 Sutherland Terrace,4
+1225,Australia,NSW,2119,7929 Grasskamp Trail,11
+1226,Australia,NSW,2153,4 Hoard Pass,9
+1227,Australia,NSW,2120,2 Dunning Alley,10
+1228,Australia,QLD,4573,61949 7th Road,8
+1229,Australia,NSW,2085,26 Lotheville Court,11
+1230,Australia,NSW,2763,3765 Mandrake Alley,9
+1231,Australia,NSW,2852,67348 Lakewood Gardens Road,2
+1232,Australia,VIC,3030,014 Birchwood Parkway,7
+1233,Australia,VIC,3677,17357 Katie Center,4
+1234,Australia,VIC,3030,5772 Kennedy Junction,5
+1235,Australia,QLD,4122,560 Melody Alley,7
+1236,Australia,NSW,2760,92 Waubesa Center,8
+1237,Australia,NSW,2750,359 Kropf Point,9
+1238,Australia,VIC,3806,75 Scott Place,7
+1239,Australia,NSW,2155,2 Eliot Lane,11
+1240,Australia,NSW,2127,3466 Truax Terrace,8
+1241,Australia,NSW,2155,9 7th Terrace,10
+1242,Australia,QLD,4873,65209 Merrick Avenue,2
+1243,Australia,QLD,4820,90351 Duke Junction,1
+1244,Australia,QLD,4873,47 Glacier Hill Junction,2
+1245,Australia,QLD,4817,7978 Carberry Way,2
+1246,Australia,QLD,4818,795 Arapahoe Hill,7
+1247,Australia,QLD,4519,6 Lerdahl Plaza,6
+1248,Australia,QLD,4806,60320 Emmet Road,4
+1249,Australia,QLD,4805,11 Golf Pass,2
+1250,Australia,QLD,4701,563 Northport Drive,1
+1251,Australia,NSW,2478,8 Eggendart Court,9
+1252,Australia,QLD,4560,91336 Spenser Street,6
+1253,Australia,QLD,4740,33 Rockefeller Avenue,2
+1254,Australia,QLD,4720,71 Sundown Circle,1
+1255,Australia,QLD,4702,33 Bayside Way,1
+1256,Australia,QLD,4702,23 Hollow Ridge Avenue,2
+1257,Australia,QLD,4127,16623 Mariners Cove Plaza,2
+1258,Australia,QLD,4670,884 Shoshone Lane,3
+1259,Australia,QLD,4670,12 Prentice Point,1
+1260,Australia,QLD,4670,7008 Warner Park,2
+1261,Australia,QLD,4655,51673 Heffernan Park,3
+1262,Australia,QLD,4610,32 Meadow Ridge Alley,1
+1263,Australia,QLD,4655,37 Clarendon Lane,3
+1264,Australia,QLD,4551,7 Onsgard Court,9
+1265,Australia,QLD,4702,543 Victoria Park,6
+1266,Australia,QLD,4702,640 Toban Hill,6
+1267,Australia,QLD,4506,93 Corben Crossing,4
+1268,Australia,QLD,4503,26 Portage Junction,5
+1269,Australia,QLD,4503,7928 Mendota Circle,2
+1270,Australia,QLD,4512,1075 Raven Place,7
+1271,Australia,QLD,4511,0 Summerview Pass,2
+1272,Australia,QLD,4500,7310 Shopko Trail,8
+1273,Australia,QLD,4380,6659 Kenwood Plaza,1
+1274,Australia,QLD,4370,41 Knutson Alley,4
+1275,Australia,QLD,4817,67396 Roxbury Court,3
+1276,Australia,QLD,4350,55 Hauk Court,7
+1277,Australia,QLD,4213,131 Tony Road,8
+1278,Australia,QLD,4340,791 Elgar Trail,5
+1279,Australia,QLD,4122,617 Welch Street,7
+1280,Australia,QLD,4306,1 Namekagon Plaza,8
+1281,Australia,QLD,4306,3 Blaine Road,6
+1282,Australia,QLD,4306,77 Pankratz Plaza,8
+1283,Australia,QLD,4306,4081 Veith Lane,4
+1284,Australia,QLD,4306,55 Elgar Park,7
+1285,Australia,QLD,4306,9821 Fair Oaks Trail,1
+1286,Australia,QLD,4305,19679 Buell Pass,5
+1287,Australia,QLD,4304,8 Kinsman Alley,2
+1288,Australia,QLD,4301,9989 Toban Way,3
+1289,Australia,QLD,4300,378 Butterfield Pass,6
+1290,Australia,QLD,4212,7 Schurz Parkway,7
+1291,Australia,QLD,4209,07780 Autumn Leaf Drive,7
+1292,Australia,QLD,4211,87 Reinke Drive,6
+1293,Australia,QLD,4210,3 Gina Center,7
+1294,Australia,QLD,4205,029 Scott Center,5
+1295,Australia,QLD,4051,36072 Lakewood Gardens Court,8
+1296,Australia,QLD,4165,408 Grover Place,9
+1297,Australia,QLD,4165,392 Ridge Oak Road,7
+1298,Australia,QLD,4053,9 Sugar Junction,7
+1299,Australia,QLD,4217,0917 Golf View Parkway,1
+1300,Australia,QLD,4130,16039 Warrior Parkway,7
+1301,Australia,QLD,4124,3 School Place,4
+1302,Australia,QLD,4208,9120 Corry Avenue,7
+1303,Australia,QLD,4123,2 Shoshone Way,6
+1304,Australia,QLD,4118,32 Vidon Point,7
+1305,Australia,QLD,4115,515 Bunting Point,8
+1306,Australia,QLD,4164,67727 Westerfield Hill,9
+1307,Australia,QLD,4127,0 Moland Parkway,7
+1308,Australia,QLD,4115,764 Dahle Alley,8
+1309,Australia,QLD,4152,72 Shasta Plaza,4
+1310,Australia,NSW,2452,210 Esch Park,8
+1311,Australia,VIC,3931,55326 Fulton Hill,10
+1312,Australia,QLD,4280,482 Bartelt Junction,7
+1313,Australia,QLD,4300,58563 Monterey Hill,2
+1314,Australia,QLD,4055,889 Straubel Way,6
+1315,Australia,QLD,4128,9 Dawn Court,2
+1316,Australia,QLD,4500,1988 Bartillon Terrace,3
+1317,Australia,QLD,4370,57384 Sycamore Park,6
+1318,Australia,QLD,4017,276 Hoffman Road,8
+1319,Australia,QLD,4053,98791 Johnson Way,7
+1320,Australia,QLD,4020,7 John Wall Parkway,5
+1321,Australia,QLD,4019,0693 Eagan Court,4
+1322,Australia,VIC,3188,38 Main Park,8
+1323,Australia,VIC,3977,2 Shasta Street,8
+1324,Australia,VIC,3806,27 Farmco Pass,8
+1325,Australia,VIC,3940,9985 Barnett Circle,7
+1326,Australia,VIC,3939,60855 Fieldstone Avenue,6
+1327,Australia,VIC,3910,2 Dixon Crossing,7
+1328,Australia,VIC,3977,7 Canary Trail,10
+1329,Australia,VIC,3840,09653 Golf View Way,2
+1330,Australia,VIC,3840,433 Mockingbird Center,2
+1331,Australia,VIC,3977,4 Sycamore Pass,5
+1332,Australia,VIC,3810,833 Sherman Court,6
+1333,Australia,VIC,3806,0 Fulton Drive,8
+1334,Australia,VIC,3804,02885 Buhler Court,9
+1335,Australia,VIC,3805,8766 Onsgard Plaza,8
+1336,Australia,VIC,3765,5061 Cottonwood Trail,7
+1337,Australia,VIC,3757,05 Dahle Drive,7
+1338,Australia,NSW,2582,5063 Shopko Pass,8
+1339,Australia,VIC,3196,09 Hagan Pass,8
+1340,Australia,VIC,3747,87897 Lighthouse Bay Pass,4
+1341,Australia,VIC,3677,294 Lawn Junction,1
+1342,Australia,VIC,3620,5 Springview Terrace,4
+1343,Australia,VIC,3620,9 Logan Drive,2
+1344,Australia,VIC,3630,6002 Del Sol Trail,2
+1345,Australia,VIC,3151,77 Acker Alley,10
+1346,Australia,VIC,3023,38 Hansons Place,7
+1347,Australia,VIC,3564,30 Crescent Oaks Point,2
+1348,Australia,VIC,3199,0784 Utah Plaza,7
+1349,Australia,VIC,3500,5298 Nevada Circle,1
+1350,Australia,VIC,3444,0 Ramsey Place,4
+1351,Australia,VIC,3444,7006 Miller Avenue,4
+1352,Australia,VIC,3076,1 Bayside Pass,8
+1353,Australia,VIC,3380,43811 Golf View Road,1
+1354,Australia,VIC,3340,19 Green Ridge Avenue,3
+1355,Australia,VIC,3338,91079 Lukken Way,5
+1356,Australia,VIC,3337,1450 Gulseth Park,5
+1357,Australia,VIC,3280,1 Boyd Terrace,4
+1358,Australia,VIC,3224,9 Almo Alley,5
+1359,Australia,VIC,3222,016 Tony Street,5
+1360,Australia,VIC,3222,02505 Mariners Cove Street,6
+1361,Australia,VIC,3222,970 Sundown Place,5
+1362,Australia,QLD,4164,0261 Roxbury Crossing,9
+1363,Australia,VIC,3226,5413 Harbort Terrace,7
+1364,Australia,VIC,3204,03444 Scott Lane,10
+1365,Australia,VIC,3201,3 Schlimgen Alley,6
+1366,Australia,VIC,3201,0162 Darwin Alley,6
+1367,Australia,VIC,3840,66 Division Pass,1
+1368,Australia,VIC,3198,6 Forster Crossing,8
+1369,Australia,VIC,3198,939 Hermina Drive,8
+1370,Australia,VIC,3190,393 Warrior Crossing,10
+1371,Australia,VIC,3156,3962 Rigney Center,8
+1372,Australia,VIC,3169,64201 Bonner Point,5
+1373,Australia,VIC,3170,0 Grasskamp Pass,10
+1374,Australia,VIC,3163,3831 Paget Road,6
+1375,Australia,VIC,3161,46523 Mcbride Circle,9
+1376,Australia,VIC,3791,29 Mallory Circle,9
+1377,Australia,VIC,3156,6229 Amoth Place,8
+1378,Australia,VIC,3155,952 Fairview Hill,8
+1379,Australia,VIC,3977,6 La Follette Lane,6
+1380,Australia,QLD,4119,6837 West Pass,7
+1381,Australia,VIC,3140,28 Menomonie Street,10
+1382,Australia,VIC,3136,94 Sheridan Parkway,9
+1383,Australia,VIC,3818,50 Claremont Junction,6
+1384,Australia,VIC,3028,70676 Eggendart Trail,8
+1385,Australia,VIC,3106,5586 Buena Vista Avenue,10
+1386,Australia,VIC,3082,02701 Talmadge Junction,7
+1387,Australia,VIC,3099,220 Mitchell Place,9
+1388,Australia,VIC,3752,02570 Tony Way,6
+1389,Australia,VIC,3754,12 Alpine Lane,8
+1390,Australia,VIC,3140,6 Northfield Point,9
+1391,Australia,VIC,3068,7709 Bluestem Place,5
+1392,Australia,VIC,3756,8108 Clyde Gallagher Crossing,4
+1393,Australia,VIC,3061,79206 Independence Drive,5
+1394,Australia,VIC,3048,60447 Ridgeway Plaza,6
+1395,Australia,VIC,3046,4 Milwaukee Park,9
+1396,Australia,QLD,4217,73506 Cordelia Lane,4
+1397,Australia,VIC,3036,0 Rowland Road,9
+1398,Australia,VIC,3107,42829 Charing Cross Road,8
+1399,Australia,VIC,3030,7530 Sutteridge Hill,7
+1400,Australia,VIC,3022,88545 Milwaukee Center,8
+1401,Australia,VIC,3020,070 Shelley Terrace,4
+1402,Australia,VIC,3049,12439 Kropf Way,6
+1403,Australia,VIC,3015,931 Rigney Terrace,10
+1404,Australia,NSW,2880,6 Anderson Court,1
+1405,Australia,VIC,3500,11207 Lukken Center,2
+1406,Australia,NSW,2870,4370 Haas Trail,5
+1407,Australia,NSW,2259,45 Tony Trail,7
+1408,Australia,NSW,2830,46 Dovetail Avenue,4
+1409,Australia,NSW,2880,967 Farmco Road,1
+1410,Australia,NSW,2763,623 Talisman Way,8
+1411,Australia,NSW,2774,837 Evergreen Junction,8
+1412,Australia,NSW,2155,21 West Avenue,10
+1413,Australia,NSW,2770,83758 Kings Hill,7
+1414,Australia,NSW,2750,8 Veith Alley,5
+1415,Australia,NSW,2767,9 Pond Avenue,9
+1416,Australia,NSW,2767,255 Doe Crossing Terrace,8
+1417,Australia,NSW,2765,2 Alpine Circle,10
+1418,Australia,NSW,2769,0 Talisman Trail,10
+1419,Australia,NSW,2762,5700 Banding Lane,9
+1420,Australia,NSW,2745,94079 Eggendart Point,9
+1421,Australia,NSW,2761,87038 Sauthoff Road,7
+1422,Australia,NSW,2761,4817 Fulton Junction,8
+1423,Australia,NSW,2761,22 Transport Alley,9
+1424,Australia,NSW,2760,1231 Grim Road,8
+1425,Australia,NSW,2794,3 Rigney Center,2
+1426,Australia,NSW,2759,7847 Buell Trail,8
+1427,Australia,NSW,2750,42946 Fieldstone Pass,9
+1428,Australia,NSW,2759,1617 Beilfuss Street,8
+1429,Australia,NSW,2756,64 Everett Circle,8
+1430,Australia,NSW,2756,184 Melrose Pass,11
+1431,Australia,NSW,2756,8934 Park Meadow Street,8
+1432,Australia,NSW,2756,14155 Evergreen Way,8
+1433,Australia,NSW,2777,26607 West Hill,9
+1434,Australia,NSW,2749,53649 Mandrake Place,8
+1435,Australia,NSW,2154,223 Trailsway Parkway,10
+1436,Australia,NSW,2749,8999 Elmside Pass,9
+1437,Australia,NSW,2773,53 Steensland Parkway,10
+1438,Australia,NSW,2745,8 Prairie Rose Circle,9
+1439,Australia,NSW,2747,3416 Texas Pass,7
+1440,Australia,NSW,2323,8088 Macpherson Hill,5
+1441,Australia,NSW,2640,6418 Jenna Trail,4
+1442,Australia,VIC,3690,70262 Hermina Court,2
+1443,Australia,NSW,2630,89684 Coolidge Hill,1
+1444,Australia,NSW,2260,00 International Junction,8
+1445,Australia,NSW,2594,5 Carioca Pass,3
+1446,Australia,NSW,2579,6386 Raven Road,2
+1447,Australia,NSW,2567,8 Mendota Plaza,9
+1448,Australia,NSW,2567,913 Londonderry Trail,8
+1449,Australia,NSW,2567,58516 Tony Plaza,8
+1450,Australia,NSW,2567,583 Jenna Pass,9
+1451,Australia,NSW,2560,77729 Kim Plaza,7
+1452,Australia,NSW,2560,1253 Ridge Oak Center,4
+1453,Australia,NSW,2564,975 Melby Street,8
+1454,Australia,NSW,2560,6279 Lien Junction,6
+1455,Australia,NSW,2570,1435 Lukken Trail,8
+1456,Australia,NSW,2207,25 Darwin Terrace,9
+1457,Australia,NSW,2560,3 Independence Hill,9
+1458,Australia,QLD,4503,4 Stone Corner Avenue,6
+1459,Australia,NSW,2557,14179 Springs Drive,9
+1460,Australia,NSW,2565,8 Green Ridge Place,9
+1461,Australia,NSW,2536,55 Red Cloud Pass,5
+1462,Australia,NSW,2530,21 Spohn Drive,8
+1463,Australia,NSW,2207,11606 Myrtle Street,8
+1464,Australia,NSW,2519,45725 Hagan Pass,9
+1465,Australia,NSW,2439,93482 Jenifer Alley,10
+1466,Australia,NSW,2528,04 Gulseth Plaza,8
+1467,Australia,NSW,2506,0 Canary Parkway,9
+1468,Australia,NSW,2487,2 Dayton Center,9
+1469,Australia,NSW,2448,25607 Summer Ridge Way,5
+1470,Australia,NSW,2450,828 Schlimgen Circle,5
+1471,Australia,NSW,2440,558 Thompson Junction,6
+1472,Australia,NSW,2290,589 Main Plaza,4
+1473,Australia,NSW,2440,472 Blaine Junction,3
+1474,Australia,NSW,2340,12 Express Pass,2
+1475,Australia,QLD,4509,76 Norway Maple Drive,6
+1476,Australia,NSW,2340,4 Oriole Hill,7
+1477,Australia,NSW,2333,038 North Court,3
+1478,Australia,NSW,2428,7231 Pepper Wood Point,8
+1479,Australia,NSW,2263,941 La Follette Hill,10
+1480,Australia,NSW,2769,2 Barby Trail,10
+1481,Australia,NSW,2282,29133 Canary Circle,8
+1482,Australia,NSW,2325,12 Redwing Street,4
+1483,Australia,NSW,2325,57835 Ruskin Lane,5
+1484,Australia,NSW,2323,7 Mifflin Terrace,3
+1485,Australia,NSW,2289,7509 Prairieview Center,9
+1486,Australia,NSW,2320,7 Delaware Hill,6
+1487,Australia,NSW,2285,15012 Oneill Plaza,5
+1488,Australia,NSW,2290,4861 School Park,3
+1489,Australia,NSW,2287,9 Sycamore Pass,5
+1490,Australia,NSW,2307,005 Prentice Circle,5
+1491,Australia,NSW,2259,81 Artisan Park,5
+1492,Australia,NSW,2261,7764 Declaration Hill,9
+1493,Australia,NSW,2251,7049 Sutteridge Lane,8
+1494,Australia,NSW,2250,40 Dexter Crossing,9
+1495,Australia,NSW,2261,543 Morrow Terrace,8
+1496,Australia,NSW,2250,36 Marquette Center,7
+1497,Australia,NSW,2233,8 Arizona Way,9
+1498,Australia,NSW,2450,78960 Schiller Lane,4
+1499,Australia,NSW,2232,75 Hoepker Street,10
+1500,Australia,NSW,2211,39677 Emmet Terrace,10
+1501,Australia,NSW,2229,30 Bay Hill,12
+1502,Australia,NSW,2223,6 Canary Plaza,8
+1503,Australia,NSW,2228,4 Maywood Court,10
+1504,Australia,NSW,2232,04489 Corscot Hill,10
+1505,Australia,NSW,2227,00941 7th Place,10
+1506,Australia,NSW,2223,09 Bayside Place,10
+1507,Australia,NSW,2234,8802 Fisk Street,10
+1508,Australia,NSW,2210,81 Darwin Court,10
+1509,Australia,NSW,2219,54295 Dorton Hill,10
+1510,Australia,NSW,2212,29 Spohn Drive,10
+1511,Australia,NSW,2211,87746 Bellgrove Park,10
+1512,Australia,NSW,2210,4517 Colorado Place,10
+1513,Australia,NSW,2210,91433 Hollow Ridge Crossing,10
+1514,Australia,NSW,2207,237 Garrison Way,8
+1515,Australia,NSW,2260,7 Bartillon Circle,8
+1516,Australia,NSW,2190,22 Nelson Terrace,10
+1517,Australia,NSW,2567,96 Pepper Wood Drive,10
+1518,Australia,NSW,2176,79055 Moose Terrace,9
+1519,Australia,NSW,2200,520 Mesta Alley,8
+1520,Australia,NSW,2760,0534 Bartelt Trail,8
+1521,Australia,NSW,2200,3009 Duke Crossing,8
+1522,Australia,NSW,2161,484 Lindbergh Street,6
+1523,Australia,NSW,2848,83 Luster Drive,1
+1524,Australia,NSW,2171,28 Mcguire Junction,10
+1525,Australia,NSW,2145,6750 Truax Trail,8
+1526,Australia,NSW,2767,84749 Holy Cross Terrace,8
+1527,Australia,NSW,2170,486 Clyde Gallagher Road,9
+1528,Australia,NSW,2165,305 Vera Lane,8
+1529,Australia,NSW,2567,2 Moulton Drive,10
+1530,Australia,NSW,2168,213 Alpine Avenue,9
+1531,Australia,NSW,2040,2 Saint Paul Parkway,12
+1532,Australia,NSW,2759,7921 Trailsway Center,9
+1533,Australia,NSW,2148,90323 Pine View Hill,8
+1534,Australia,NSW,2177,27 Hooker Plaza,8
+1535,Australia,NSW,2160,193 Bluejay Hill,9
+1536,Australia,NSW,2154,8 Monument Junction,11
+1537,Australia,NSW,2155,22 Portage Road,9
+1538,Australia,NSW,2155,243 Mosinee Place,10
+1539,Australia,NSW,2745,65 Southridge Alley,10
+1540,Australia,NSW,2155,16 Maple Wood Center,10
+1541,Australia,VIC,3196,8595 Ruskin Plaza,10
+1542,Australia,NSW,2153,2 Eastwood Street,10
+1543,Australia,NSW,2768,68 Delaware Avenue,10
+1544,Australia,NSW,2153,08167 Buhler Avenue,10
+1545,Australia,NSW,2148,0046 Grim Pass,7
+1546,Australia,NSW,2153,4 Sutteridge Trail,10
+1547,Australia,NSW,2075,8 Boyd Road,12
+1548,Australia,NSW,2768,8 Bobwhite Park,10
+1549,Australia,NSW,2148,62047 Ludington Terrace,8
+1550,Australia,NSW,2768,277 Maple Circle,8
+1551,Australia,NSW,2148,845 Mendota Center,8
+1552,Australia,NSW,2147,13795 Corscot Drive,9
+1553,Australia,NSW,2768,08 Twin Pines Place,9
+1554,Australia,NSW,2763,07236 Jenifer Point,10
+1555,Australia,NSW,2118,2 Darwin Parkway,9
+1556,Australia,NSW,2144,57878 Northfield Crossing,10
+1557,Australia,NSW,2142,61 Donald Crossing,9
+1558,Australia,NSW,2145,842 Rutledge Parkway,9
+1559,Australia,QLD,4878,8462 Emmet Trail,4
+1560,Australia,NSW,2076,6265 Moland Terrace,10
+1561,Australia,NSW,2126,4 Rowland Way,10
+1562,Australia,NSW,2289,04488 Jenna Alley,9
+1563,Australia,NSW,2154,4 Toban Junction,8
+1564,Australia,NSW,2122,5 Manley Avenue,11
+1565,Australia,NSW,2155,9 Eastlawn Court,10
+1566,Australia,NSW,2073,97910 Leroy Junction,12
+1567,Australia,NSW,2121,608 Rutledge Drive,11
+1568,Australia,NSW,2126,8 Heffernan Crossing,12
+1569,Australia,NSW,2121,9 Northfield Circle,12
+1570,Australia,NSW,2119,996 Morning Parkway,11
+1571,Australia,NSW,2153,7015 Hintze Parkway,11
+1572,Australia,NSW,2120,3525 Buena Vista Plaza,9
+1573,Australia,NSW,2118,6 Hallows Pass,11
+1574,Australia,NSW,2112,7317 Huxley Alley,8
+1575,Australia,NSW,2101,82 Hanover Avenue,10
+1576,Australia,QLD,4227,3384 Nelson Circle,3
+1577,Australia,NSW,2251,45314 Pepper Wood Junction,6
+1578,Australia,NSW,2101,85301 John Wall Road,11
+1579,Australia,NSW,2100,277 Lindbergh Alley,11
+1580,Australia,NSW,2148,6 Logan Junction,9
+1581,Australia,NSW,2099,70416 Becker Court,10
+1582,Australia,NSW,2119,256 Fordem Street,11
+1583,Australia,NSW,2079,7 Laurel Junction,10
+1584,Australia,NSW,2126,7032 Hallows Drive,11
+1585,Australia,NSW,2775,78000 Arrowood Center,9
+1586,Australia,QLD,4132,5 Elgar Place,5
+1587,Australia,NSW,2073,54 Veith Drive,12
+1588,Australia,NSW,2077,0 Michigan Plaza,10
+1589,Australia,NSW,2065,2272 Buena Vista Center,12
+1590,Australia,NSW,2100,0 Thackeray Avenue,10
+1591,Australia,VIC,3197,8 Warrior Avenue,9
+1592,Australia,NSW,2086,5447 Weeping Birch Place,12
+1593,Australia,NSW,2224,019 Derek Hill,10
+1594,Australia,NSW,2032,4 Florence Street,11
+1595,Australia,NSW,2035,2390 Blackbird Point,11
+1596,Australia,QLD,4220,96 Sundown Point,9
+1597,Australia,NSW,2567,5447 Buell Hill,9
+1598,Australia,NSW,2777,978 Valley Edge Park,9
+1599,Australia,QLD,4220,46 Dunning Junction,9
+1600,Australia,QLD,4818,848 Dawn Drive,5
+1601,Australia,VIC,3219,2517 Glacier Hill Point,3
+1602,Australia,VIC,3023,658 Northfield Junction,7
+1603,Australia,VIC,3809,5 Algoma Point,5
+1604,Australia,NSW,2090,1617 Lakewood Gardens Lane,11
+1605,Australia,NSW,2048,373 Oak Valley Avenue,11
+1606,Australia,NSW,2031,75164 Sherman Crossing,11
+1607,Australia,NSW,2261,6491 Gerald Court,9
+1608,Australia,NSW,2441,84504 Doe Crossing Road,4
+1609,Australia,NSW,2263,55433 Schmedeman Lane,8
+1610,Australia,NSW,2261,835 Thackeray Place,6
+1611,Australia,VIC,3183,24 Fuller Lane,6
+1612,Australia,QLD,4877,5333 Aberg Lane,4
+1613,Australia,QLD,4215,6 Melody Plaza,8
+1614,Australia,VIC,3199,50 Dahle Crossing,9
+1615,Australia,NSW,2089,2 Mayfield Alley,10
+1616,Australia,NSW,2528,9020 Anhalt Park,7
+1617,Australia,NSW,2131,48 Melby Trail,8
+1618,Australia,VIC,3910,1 Eliot Road,8
+1619,Australia,VIC,3264,94181 South Park,1
+1620,Australia,NSW,2220,718 Colorado Court,8
+1621,Australia,NSW,2763,2 Southridge Crossing,8
+1622,Australia,QLD,4570,0 Westport Terrace,5
+1623,Australia,VIC,3150,0 Namekagon Circle,9
+1624,Australia,NSW,2528,76 Roxbury Pass,6
+1625,Australia,QLD,4413,10 Hazelcrest Street,5
+1626,Australia,NSW,2681,5528 North Hill,1
+1627,Australia,QLD,4510,9179 Sunfield Terrace,2
+1628,Australia,VIC,3977,18708 Darwin Park,7
+1629,Australia,QLD,4220,46310 Raven Trail,4
+1630,Australia,NSW,2138,49932 Messerschmidt Point,11
+1631,Australia,VIC,3186,6 Monument Circle,11
+1632,Australia,NSW,2478,2 Green Ridge Park,8
+1633,Australia,NSW,2170,60 Briar Crest Circle,9
+1634,Australia,VIC,3018,313 Schiller Trail,4
+1635,Australia,NSW,2753,89 Bartillon Plaza,10
+1636,Australia,QLD,4551,5 Moland Court,6
+1637,Australia,VIC,3198,20 Mcguire Hill,4
+1638,Australia,NSW,2090,2 Ridgeway Circle,10
+1639,Australia,NSW,2047,78 Bultman Junction,10
+1640,Australia,NSW,2043,4 Mariners Cove Street,9
+1641,Australia,NSW,2154,38330 Badeau Place,11
+1642,Australia,NSW,2107,515 Monterey Terrace,12
+1643,Australia,QLD,4567,73363 Butterfield Crossing,9
+1644,Australia,VIC,3197,65387 Thackeray Parkway,10
+1645,Australia,NSW,2250,06 Hudson Parkway,8
+1646,Australia,QLD,4217,5274 Lindbergh Alley,1
+1647,Australia,NSW,2066,81942 Scott Street,10
+1648,Australia,QLD,4011,3 Fordem Park,10
+1649,Australia,NSW,2138,8012 American Parkway,11
+1650,Australia,VIC,3630,461 Esker Court,1
+1651,Australia,VIC,3161,22 Badeau Avenue,11
+1652,Australia,QLD,4560,58 Kipling Avenue,8
+1653,Australia,NSW,2763,4 Jay Court,9
+1654,Australia,NSW,2795,17974 Kedzie Circle,7
+1655,Australia,NSW,2088,82598 Arkansas Hill,12
+1656,Australia,VIC,3195,208 Golden Leaf Pass,10
+1657,Australia,NSW,2101,4 Pankratz Street,11
+1658,Australia,VIC,3977,83 Graceland Avenue,3
+1659,Australia,NSW,2155,1041 Center Road,10
+1660,Australia,QLD,4680,9161 Macpherson Terrace,2
+1661,Australia,NSW,2261,816 Gale Pass,7
+1662,Australia,NSW,2221,17485 Tennyson Pass,10
+1663,Australia,NSW,2026,9168 Thackeray Place,12
+1664,Australia,NSW,2093,4889 Tomscot Park,11
+1665,Australia,NSW,2155,709 Schmedeman Street,11
+1666,Australia,NSW,2018,59 Steensland Alley,11
+1667,Australia,VIC,3127,59643 Reindahl Plaza,11
+1668,Australia,NSW,2217,29438 Swallow Crossing,11
+1669,Australia,NSW,2155,1 Fallview Street,10
+1670,Australia,NSW,2031,54 Bowman Park,10
+1671,Australia,VIC,3068,7 Monterey Street,12
+1672,Australia,NSW,2250,1 Morning Circle,8
+1673,Australia,NSW,2230,41 Vahlen Park,12
+1674,Australia,NSW,2088,9175 Ryan Street,12
+1675,Australia,NSW,2063,2 Pankratz Place,11
+1676,Australia,NSW,2068,018 Superior Plaza,10
+1677,Australia,VIC,3152,9737 Vernon Junction,9
+1678,Australia,VIC,3145,290 Havey Crossing,12
+1679,Australia,NSW,2028,4709 Cardinal Hill,12
+1680,Australia,QLD,4209,087 Fallview Plaza,5
+1681,Australia,VIC,3941,116 Sullivan Avenue,9
+1682,Australia,NSW,2068,309 Oneill Way,10
+1683,Australia,NSW,2031,86 Morningstar Junction,12
+1684,Australia,VIC,3146,72 Mosinee Court,9
+1685,Australia,QLD,4670,16 Saint Paul Street,2
+1686,Australia,NSW,2072,8 Northridge Drive,10
+1687,Australia,NSW,2229,091 Hoard Street,12
+1688,Australia,VIC,3087,36445 Meadow Valley Road,9
+1689,Australia,QLD,4220,419 2nd Center,9
+1690,Australia,VIC,3585,41 Dwight Way,1
+1691,Australia,NSW,2112,1908 Brickson Park Trail,8
+1692,Australia,NSW,2153,367 Algoma Lane,10
+1693,Australia,NSW,2087,9037 Norway Maple Junction,11
+1694,Australia,NSW,2117,1301 Northwestern Place,9
+1695,Australia,NSW,2158,3205 Service Park,10
+1696,Australia,QLD,4352,906 Pawling Place,6
+1697,Australia,NSW,2064,53141 Merrick Street,12
+1698,Australia,NSW,2768,51 Hollow Ridge Terrace,9
+1699,Australia,VIC,3976,38233 Boyd Alley,6
+1700,Australia,VIC,3219,21800 Duke Parkway,3
+1701,Australia,QLD,4209,3 Buena Vista Pass,5
+1702,Australia,NSW,2036,11 Victoria Place,11
+1703,Australia,QLD,4105,78 Colorado Park,8
+1704,Australia,NSW,2154,39846 Springs Crossing,10
+1705,Australia,NSW,2211,8 Talisman Avenue,10
+1706,Australia,NSW,2094,147 Waubesa Point,12
+1707,Australia,QLD,4133,2 Dwight Point,5
+1708,Australia,VIC,3437,62 Mallard Avenue,7
+1709,Australia,VIC,3170,9 Onsgard Court,9
+1710,Australia,NSW,2333,20415 Clyde Gallagher Parkway,5
+1711,Australia,NSW,2570,32 Hagan Junction,9
+1712,Australia,NSW,2121,5 Spohn Alley,11
+1713,Australia,VIC,3205,8 Scott Street,8
+1714,Australia,NSW,2173,02862 Esker Crossing,9
+1715,Australia,VIC,3071,03 Lillian Street,8
+1716,Australia,VIC,3040,644 Karstens Place,11
+1717,Australia,QLD,4817,0 Graedel Drive,4
+1718,Australia,NSW,2290,86 Menomonie Plaza,4
+1719,Australia,QLD,4212,7233 Lerdahl Lane,7
+1720,Australia,NSW,2137,5676 Golf View Junction,12
+1721,Australia,NSW,2323,2 Mcguire Terrace,7
+1722,Australia,NSW,2203,773 Tomscot Plaza,10
+1723,Australia,NSW,2230,5 Fisk Way,12
+1724,Australia,NSW,2770,0 Pierstorff Place,8
+1725,Australia,NSW,2153,25253 Straubel Trail,10
+1726,Australia,NSW,2089,752 Nevada Circle,10
+1727,Australia,QLD,4161,0672 Mitchell Terrace,5
+1728,Australia,VIC,3046,78 Parkside Trail,8
+1729,Australia,NSW,2284,7962 Dottie Park,5
+1730,Australia,QLD,4558,0 Westport Center,4
+1731,Australia,QLD,4655,63862 Dawn Park,2
+1732,Australia,QLD,4152,2538 Gateway Pass,4
+1733,Australia,QLD,4121,33006 Petterle Trail,8
+1734,Australia,VIC,3808,0130 Loeprich Lane,9
+1735,Australia,NSW,2680,0 Warner Road,4
+1736,Australia,VIC,3796,7 Ohio Court,8
+1737,Australia,NSW,2261,27 Evergreen Terrace,9
+1738,Australia,QLD,4053,17 Ohio Drive,7
+1739,Australia,QLD,4570,4912 Lukken Way,3
+1740,Australia,QLD,4211,89 Cherokee Road,8
+1741,Australia,QLD,4300,4216 Annamark Pass,4
+1742,Australia,QLD,4017,6 Forest Dale Parkway,4
+1743,Australia,QLD,4075,1 Namekagon Parkway,5
+1744,Australia,QLD,4035,09810 Dayton Hill,8
+1745,Australia,VIC,3149,85 Magdeline Crossing,9
+1746,Australia,NSW,2125,7 Laurel Avenue,12
+1747,Australia,NSW,2131,441 Old Shore Circle,11
+1748,Australia,NSW,2154,5 Huxley Point,10
+1749,Australia,NSW,2137,3483 Burrows Hill,11
+1750,Australia,VIC,3114,84707 Harper Circle,10
+1751,Australia,NSW,2047,78 Jackson Point,11
+1752,Australia,VIC,3977,8 Armistice Circle,6
+1753,Australia,QLD,4304,73425 Mitchell Court,3
+1754,Australia,NSW,2800,4 5th Circle,2
+1755,Australia,NSW,2030,096 Anniversary Point,12
+1756,Australia,VIC,3130,7714 Heffernan Circle,8
+1757,Australia,NSW,2170,2 Portage Avenue,9
+1758,Australia,VIC,3039,636 Debs Circle,9
+1759,Australia,VIC,3352,08731 Coleman Lane,6
+1760,Australia,VIC,3129,12860 Warner Court,8
+1761,Australia,QLD,4567,10 Cambridge Street,7
+1762,Australia,QLD,4154,8943 Knutson Point,9
+1763,Australia,QLD,4215,3 Nevada Road,3
+1764,Australia,NSW,2099,01 Havey Drive,12
+1765,Australia,NSW,2263,466 Westport Drive,7
+1766,Australia,NSW,2155,40985 Cherokee Junction,10
+1767,Australia,QLD,4123,410 Hoepker Pass,5
+1768,Australia,NSW,2768,6 Reinke Street,10
+1769,Australia,NSW,2114,9097 Superior Drive,8
+1770,Australia,NSW,2145,6 Hansons Park,7
+1771,Australia,VIC,3149,5394 Dryden Terrace,11
+1772,Australia,QLD,4721,56 Bultman Parkway,1
+1773,Australia,NSW,2118,835 West Hill,11
+1774,Australia,VIC,3930,8 Vermont Pass,9
+1775,Australia,VIC,3141,6238 Hanover Crossing,7
+1776,Australia,VIC,3976,2 Thierer Plaza,3
+1777,Australia,NSW,2749,71776 Express Avenue,8
+1778,Australia,NSW,2011,162 Golf View Hill,6
+1779,Australia,NSW,2745,7389 Union Place,8
+1780,Australia,NSW,2017,07 Miller Pass,9
+1781,Australia,VIC,3046,30 Delladonna Plaza,8
+1782,Australia,NSW,2134,7395 Blackbird Lane,9
+1783,Australia,VIC,3677,79427 Hudson Trail,1
+1784,Australia,NSW,2380,67 Hooker Place,5
+1785,Australia,NSW,2047,0380 Chinook Avenue,12
+1786,Australia,NSW,2147,4092 Brentwood Trail,10
+1787,Australia,QLD,4012,613 Mayfield Trail,6
+1788,Australia,NSW,2750,2 Spohn Court,9
+1789,Australia,VIC,3030,05239 Springs Circle,7
+1790,Australia,QLD,4878,59 Old Gate Drive,5
+1791,Australia,NSW,2015,31186 Hoard Junction,12
+1792,Australia,NSW,2072,2 Crest Line Crossing,9
+1793,Australia,VIC,3075,18083 Mallard Drive,7
+1794,Australia,VIC,3810,93 Lakeland Court,6
+1795,Australia,NSW,2070,023 Thackeray Lane,12
+1796,Australia,NSW,2199,79737 Hollow Ridge Trail,9
+1797,Australia,QLD,4055,95465 Union Plaza,7
+1798,Australia,QLD,4157,66238 Old Gate Circle,9
+1799,Australia,QLD,4799,3 Delladonna Street,3
+1800,Australia,NSW,2251,3 Mallard Center,8
+1801,Australia,NSW,2460,31 Eastwood Circle,3
+1802,Australia,QLD,4701,507 Onsgard Place,1
+1803,Australia,QLD,4211,69555 Dakota Alley,5
+1804,Australia,NSW,2095,21969 Lawn Court,9
+1805,Australia,NSW,2263,7 Erie Court,7
+1806,Australia,NSW,2146,0724 Oxford Crossing,9
+1807,Australia,NSW,2011,1 Monterey Terrace,12
+1808,Australia,NSW,2147,75 Duke Plaza,9
+1809,Australia,QLD,4035,156 Lakeland Way,9
+1810,Australia,NSW,2166,91 Mosinee Point,5
+1811,Australia,NSW,2000,1508 Hooker Avenue,8
+1812,Australia,QLD,4121,3202 Ridge Oak Alley,9
+1813,Australia,VIC,3429,5510 Pepper Wood Street,6
+1814,Australia,VIC,3012,42952 Fairfield Center,8
+1815,Australia,VIC,3103,1 Garrison Street,12
+1816,Australia,NSW,2769,013 Armistice Street,10
+1817,Australia,NSW,2540,3201 Canary Center,9
+1818,Australia,NSW,2539,4365 Basil Junction,7
+1819,Australia,VIC,3806,1164 Toban Road,5
+1820,Australia,VIC,3048,2364 Dovetail Way,6
+1821,Australia,VIC,3212,738 Sloan Place,5
+1822,Australia,NSW,2119,318 Jenifer Alley,11
+1823,Australia,QLD,4504,6395 Anthes Hill,4
+1824,Australia,QLD,4034,36516 Forster Lane,7
+1825,Australia,NSW,2200,107 Garrison Plaza,10
+1826,Australia,NSW,2117,717 Oakridge Way,8
+1827,Australia,VIC,3630,16405 Doe Crossing Parkway,3
+1828,Australia,QLD,4701,16 Monument Place,3
+1829,Australia,QLD,4224,99841 Talisman Street,3
+1830,Australia,QLD,4344,21 Duke Hill,4
+1831,Australia,NSW,2009,891 Anderson Parkway,10
+1832,Australia,NSW,2133,9446 Holmberg Court,11
+1833,Australia,NSW,2759,46512 Cambridge Avenue,8
+1834,Australia,VIC,3145,54250 Welch Pass,11
+1835,Australia,QLD,4152,734 South Court,8
+1836,Australia,NSW,2151,769 Banding Avenue,10
+1837,Australia,NSW,2070,2590 Northport Hill,11
+1838,Australia,NSW,2250,9649 Cascade Way,8
+1839,Australia,VIC,3144,69 Valley Edge Lane,8
+1840,Australia,VIC,3201,327 Monument Street,4
+1841,Australia,NSW,2125,4 Sunnyside Crossing,12
+1842,Australia,VIC,3181,8 Hoffman Alley,10
+1843,Australia,NSW,2665,894 Duke Crossing,1
+1844,Australia,NSW,2474,01714 Claremont Center,3
+1845,Australia,VIC,3023,6809 Maple Park,8
+1846,Australia,NSW,2155,95294 Karstens Park,9
+1847,Australia,NSW,2196,8872 Bunker Hill Crossing,9
+1848,Australia,VIC,3029,14 Westport Pass,6
+1849,Australia,VIC,3754,867 Grim Terrace,6
+1850,Australia,VIC,3630,48023 International Way,1
+1851,Australia,VIC,3802,0 Prairie Rose Place,7
+1852,Australia,NSW,2010,56145 Porter Lane,10
+1853,Australia,VIC,3166,509 Ridgeway Junction,10
+1854,Australia,NSW,2570,41 Eagan Junction,8
+1855,Australia,NSW,2287,5290 Lunder Park,7
+1856,Australia,QLD,4500,52425 Prairie Rose Road,6
+1857,Australia,NSW,2770,7939 Toban Crossing,7
+1858,Australia,NSW,2153,0672 Lyons Pass,10
+1859,Australia,NSW,2820,904 Mandrake Parkway,1
+1860,Australia,QLD,4511,3007 Summer Ridge Street,7
+1861,Australia,VIC,3196,47 Veith Junction,9
+1862,Australia,NSW,2047,007 Canary Circle,12
+1863,Australia,NSW,2161,1 Saint Paul Terrace,6
+1864,Australia,QLD,4870,87705 Hovde Center,5
+1865,Australia,QLD,4226,765 6th Plaza,7
+1866,Australia,QLD,4059,248 Bartillon Plaza,9
+1867,Australia,QLD,4160,66811 Lerdahl Way,4
+1868,Australia,NSW,2747,5809 Coolidge Avenue,6
+1869,Australia,VIC,3189,2769 Banding Avenue,10
+1870,Australia,NSW,2582,3 Monterey Trail,9
+1871,Australia,QLD,4170,85549 Sheridan Parkway,8
+1872,Australia,NSW,2525,4498 Donald Crossing,10
+1873,Australia,QLD,4030,4 Ridgeway Court,4
+1874,Australia,QLD,4510,4 Bartelt Hill,1
+1875,Australia,NSW,2114,91116 Riverside Plaza,8
+1876,Australia,NSW,2066,60911 Almo Point,12
+1877,Australia,NSW,2050,0 Superior Pass,8
+1878,Australia,NSW,2199,9 Superior Terrace,9
+1879,Australia,QLD,4120,57 Marquette Hill,6
+1880,Australia,NSW,2096,36 Sommers Place,12
+1881,Australia,NSW,2530,83148 Rowland Alley,8
+1882,Australia,NSW,2567,34 Arrowood Pass,9
+1883,Australia,VIC,3183,72 Mandrake Court,9
+1884,Australia,NSW,2042,9 Emmet Hill,10
+1885,Australia,NSW,2324,16984 Pankratz Park,7
+1886,Australia,QLD,4032,9460 Laurel Crossing,7
+1887,Australia,NSW,2127,5786 Kinsman Point,8
+1888,Australia,NSW,2487,4 Fairfield Way,10
+1889,Australia,QLD,4350,319 Michigan Way,4
+1890,Australia,VIC,3156,49 Fulton Park,8
+1891,Australia,VIC,3121,0 Corben Court,11
+1892,Australia,QLD,4655,8 Drewry Street,5
+1893,Australia,QLD,4132,48 Dawn Center,3
+1894,Australia,QLD,4103,6244 Forest Point,9
+1895,Australia,VIC,3844,0306 Donald Court,1
+1896,Australia,QLD,4078,3762 Victoria Alley,6
+1897,Australia,QLD,4074,3 Manley Crossing,6
+1898,Australia,VIC,3750,36866 Summit Point,9
+1899,Australia,VIC,3177,9 Pearson Plaza,7
+1900,Australia,NSW,2868,7450 Prairie Rose Drive,1
+1901,Australia,NSW,2166,83975 Rowland Place,6
+1902,Australia,NSW,2640,01 Weeping Birch Plaza,4
+1903,Australia,NSW,2575,738 Dixon Drive,8
+1904,Australia,NSW,2227,5766 Pearson Court,8
+1905,Australia,NSW,2170,9 Shelley Center,7
+1906,Australia,NSW,2358,07273 Sundown Trail,2
+1907,Australia,QLD,4227,2 Maryland Drive,7
+1908,Australia,NSW,2449,3 Roth Place,2
+1909,Australia,NSW,2299,81856 Express Lane,6
+1910,Australia,QLD,4014,5 Porter Road,6
+1911,Australia,VIC,3163,59 Waywood Road,8
+1912,Australia,NSW,2484,6838 Anniversary Junction,4
+1913,Australia,NSW,2484,90128 Caliangt Place,4
+1914,Australia,NSW,2261,504 Mesta Lane,8
+1915,Australia,QLD,4179,9 Utah Road,8
+1916,Australia,NSW,2340,00213 Atwood Pass,1
+1917,Australia,NSW,2777,7230 Montana Place,9
+1918,Australia,VIC,3056,51763 Carey Place,7
+1919,Australia,VIC,3170,4 Susan Center,9
+1920,Australia,NSW,2769,745 Troy Avenue,9
+1921,Australia,QLD,4556,6 Upham Place,7
+1922,Australia,QLD,4740,34694 Sugar Place,5
+1923,Australia,VIC,3166,26876 Lyons Court,10
+1924,Australia,NSW,2570,8308 Linden Place,9
+1925,Australia,VIC,3976,32708 Bluestem Alley,7
+1926,Australia,VIC,3380,3542 Arkansas Place,1
+1927,Australia,QLD,4132,642 Anderson Circle,5
+1928,Australia,VIC,3175,8318 Continental Alley,7
+1929,Australia,NSW,2221,7202 Prairieview Court,11
+1930,Australia,NSW,2575,64610 Sachtjen Center,10
+1931,Australia,NSW,2170,53 Muir Terrace,8
+1932,Australia,VIC,3338,710 Schiller Plaza,1
+1933,Australia,NSW,2619,698 Old Gate Lane,3
+1934,Australia,QLD,4670,4 Golden Leaf Road,2
+1935,Australia,QLD,4701,1979 Arapahoe Trail,3
+1936,Australia,QLD,4226,1 Vernon Terrace,6
+1937,Australia,QLD,4215,79862 Darwin Crossing,8
+1938,Australia,NSW,2197,184 Hoepker Way,9
+1939,Australia,NSW,2043,40 New Castle Avenue,11
+1940,Australia,VIC,3190,9525 Johnson Place,8
+1941,Australia,NSW,2166,8 Pearson Trail,9
+1942,Australia,NSW,2027,53 Dakota Court,9
+1943,Australia,NSW,2759,4262 Melvin Avenue,8
+1944,Australia,NSW,2528,4415 Dwight Center,7
+1945,Australia,NSW,2280,1197 Carey Junction,7
+1946,Australia,NSW,2795,227 Havey Trail,6
+1947,Australia,VIC,3199,2 Manufacturers Parkway,6
+1948,Australia,QLD,4035,9175 Stephen Drive,8
+1949,Australia,VIC,3121,299 Pine View Parkway,12
+1950,Australia,NSW,2155,71 Orin Crossing,9
+1951,Australia,NSW,2281,134 Knutson Street,9
+1952,Australia,QLD,4017,37 Mockingbird Street,3
+1953,Australia,VIC,3108,00969 Gale Way,10
+1954,Australia,NSW,2085,05665 Dottie Circle,11
+1955,Australia,QLD,4152,83 Wayridge Circle,9
+1956,Australia,QLD,4007,8 Carioca Terrace,8
+1957,Australia,NSW,2075,5 Kenwood Road,11
+1958,Australia,NSW,2318,29 Hansons Crossing,4
+1959,Australia,QLD,4500,493 Buell Point,8
+1960,Australia,QLD,4680,7 Del Mar Crossing,7
+1961,Australia,NSW,2250,7 Elgar Plaza,9
+1962,Australia,NSW,2116,425 Marquette Way,10
+1963,Australia,NSW,2043,67104 Bunting Crossing,9
+1964,Australia,QLD,4815,243 Raven Drive,3
+1965,Australia,VIC,3156,248 School Park,8
+1966,Australia,VIC,3134,5 Onsgard Plaza,10
+1967,Australia,VIC,3049,38 Havey Place,5
+1968,Australia,NSW,2018,38 Armistice Alley,8
+1969,Australia,NSW,2153,34953 Oak Circle,10
+1970,Australia,NSW,2165,18 Express Street,9
+1971,Australia,QLD,4217,04046 Summit Avenue,9
+1972,Australia,VIC,3821,986 Hollow Ridge Crossing,7
+1973,Australia,NSW,2048,4622 Dixon Junction,8
+1974,Australia,VIC,3095,3563 Darwin Avenue,9
+1975,Australia,QLD,4305,38759 Butterfield Avenue,2
+1976,Australia,NSW,2747,67125 Melody Place,8
+1977,Australia,NSW,2206,31 Northwestern Court,10
+1978,Australia,NSW,2428,8 Farwell Parkway,2
+1979,Australia,QLD,4127,19 Barby Parkway,4
+1980,Australia,NSW,2077,681 School Avenue,10
+1981,Australia,NSW,2233,27 Dawn Lane,10
+1982,Australia,NSW,2170,366 International Way,8
+1983,Australia,NSW,2093,427 Rockefeller Drive,12
+1984,Australia,VIC,3216,5176 Division Hill,5
+1985,Australia,NSW,2160,1 Raven Place,6
+1986,Australia,NSW,2567,29 Delaware Pass,8
+1987,Australia,NSW,2117,42554 Burrows Court,10
+1988,Australia,NSW,2077,726 Warrior Center,10
+1989,Australia,NSW,2147,500 Victoria Plaza,9
+1990,Australia,VIC,3201,35 Debra Way,6
+1991,Australia,QLD,4109,62965 Morningstar Junction,9
+1992,Australia,QLD,4556,6698 Melody Crossing,8
+1993,Australia,NSW,2034,05919 Morning Parkway,11
+1994,Australia,VIC,3075,6 Rockefeller Pass,7
+1995,Australia,QLD,4216,7875 Fieldstone Pass,10
+1996,Australia,NSW,2147,59170 Westridge Junction,8
+1997,Australia,NSW,2800,3 Bonner Point,4
+1998,Australia,NSW,2560,113 Lien Place,6
+1999,Australia,QLD,4500,064 Fallview Terrace,7
+2000,Australia,NSW,2470,32 Sutteridge Trail,1
+2001,Australia,VIC,3192,3984 Clove Street,10
+2002,Australia,NSW,2324,4 Rowland Plaza,4
+2003,Australia,NSW,2537,5157 Maple Wood Circle,8
+2004,Australia,QLD,4580,559 Blackbird Street,2
+2005,Australia,NSW,2763,6466 Troy Street,8
+2006,Australia,NSW,2563,7135 Ruskin Avenue,11
+2007,Australia,NSW,2068,5 Loftsgordon Avenue,12
+2008,Australia,NSW,2264,33 Del Mar Junction,8
+2009,Australia,NSW,2099,06069 Hayes Road,8
+2010,Australia,NSW,2234,828 Waubesa Pass,10
+2011,Australia,NSW,2230,1 Bobwhite Circle,9
+2012,Australia,NSW,2126,3 Memorial Junction,11
+2013,Australia,NSW,2086,644 Mcbride Street,11
+2014,Australia,NSW,2075,23700 Dennis Way,11
+2015,Australia,QLD,4825,5795 Comanche Circle,2
+2016,Australia,VIC,3020,31 Scofield Trail,8
+2017,Australia,NSW,2176,218 Elka Point,10
+2018,Australia,NSW,2445,5468 Moose Lane,7
+2019,Australia,NSW,2770,174 Calypso Crossing,7
+2020,Australia,QLD,4306,53358 David Circle,3
+2021,Australia,QLD,4060,0 3rd Road,9
+2022,Australia,NSW,2144,9 Melvin Drive,7
+2023,Australia,NSW,2065,9670 4th Point,10
+2024,Australia,NSW,2148,2228 Steensland Terrace,8
+2025,Australia,QLD,4053,2 Thierer Place,8
+2026,Australia,VIC,3064,23 Huxley Road,7
+2027,Australia,VIC,3030,34 3rd Place,8
+2028,Australia,NSW,2217,63 Golf Crossing,8
+2029,Australia,NSW,2176,1 Sloan Avenue,10
+2030,Australia,NSW,2040,056 Pierstorff Alley,11
+2031,Australia,NSW,2428,177 Anniversary Parkway,7
+2032,Australia,NSW,2233,18 Karstens Drive,10
+2033,Australia,NSW,2326,6950 Morrow Street,3
+2034,Australia,VIC,3214,8492 Autumn Leaf Center,2
+2035,Australia,NSW,2528,91749 Portage Park,8
+2036,Australia,QLD,4213,45 Waubesa Lane,9
+2037,Australia,NSW,2009,51739 Sundown Hill,9
+2038,Australia,VIC,3352,95 Butterfield Circle,4
+2039,Australia,QLD,4077,9 Porter Pass,6
+2040,Australia,NSW,2156,236 Fremont Alley,12
+2041,Australia,NSW,2075,46031 Hudson Place,11
+2042,Australia,NSW,2760,8 Crowley Terrace,8
+2043,Australia,QLD,4209,50532 Hoard Center,7
+2044,Australia,NSW,2204,56 Sommers Point,8
+2045,Australia,NSW,2217,0 Red Cloud Place,8
+2046,Australia,NSW,2176,24951 Michigan Pass,10
+2047,Australia,NSW,2009,51960 Gulseth Point,12
+2048,Australia,QLD,4655,144 Parkside Parkway,3
+2049,Australia,QLD,4551,896 Helena Parkway,7
+2050,Australia,NSW,2106,89 Anhalt Park,11
+2051,Australia,NSW,2327,1786 Orin Street,3
+2052,Australia,NSW,2763,7 Green Ridge Way,8
+2053,Australia,VIC,3182,2807 Northwestern Pass,8
+2054,Australia,QLD,4702,9362 Grim Plaza,1
+2055,Australia,VIC,3181,2 Sommers Drive,10
+2056,Australia,VIC,3037,74164 Village Green Parkway,9
+2057,Australia,QLD,4500,623 Melody Avenue,4
+2058,Australia,QLD,4104,9 Roth Park,7
+2059,Australia,VIC,3186,18 Buhler Court,12
+2060,Australia,QLD,4701,4 Sachtjen Drive,3
+2061,Australia,NSW,2170,130 Hayes Crossing,9
+2062,Australia,NSW,2570,9 Logan Court,9
+2063,Australia,NSW,2153,8 Superior Hill,10
+2064,Australia,NSW,2835,575 Katie Terrace,1
+2065,Australia,QLD,4509,9 Old Shore Street,7
+2066,Australia,NSW,2318,7949 Waywood Way,7
+2067,Australia,VIC,3182,2982 Monterey Way,10
+2068,Australia,VIC,3043,692 Leroy Parkway,9
+2069,Australia,VIC,3175,9499 Alpine Drive,8
+2070,Australia,NSW,2281,0442 Debra Point,7
+2071,Australia,QLD,4558,61 Upham Parkway,4
+2072,Australia,VIC,3172,63832 Maple Wood Court,9
+2073,Australia,QLD,4556,27 Rockefeller Plaza,8
+2074,Australia,NSW,2505,95483 Washington Junction,9
+2075,Australia,NSW,2145,1396 Sugar Terrace,10
+2076,Australia,NSW,2115,8454 Pierstorff Way,11
+2077,Australia,NSW,2067,2444 Aberg Hill,12
+2078,Australia,NSW,2469,73637 Nancy Street,1
+2079,Australia,NSW,2705,9 Beilfuss Crossing,3
+2080,Australia,QLD,4127,891 Mendota Junction,2
+2081,Australia,VIC,3196,73 Muir Trail,7
+2082,Australia,NSW,2450,1 Raven Circle,7
+2083,Australia,VIC,3024,6563 Susan Pass,7
+2084,Australia,QLD,4551,59 Prentice Lane,7
+2085,Australia,NSW,2164,65880 Cascade Drive,9
+2086,Australia,NSW,2230,6632 Truax Hill,9
+2087,Australia,NSW,2320,68882 Commercial Crossing,3
+2088,Australia,VIC,3028,949 Marquette Avenue,7
+2089,Australia,NSW,2330,9953 Kim Lane,4
+2090,Australia,QLD,4514,09 Pierstorff Point,6
+2091,Australia,VIC,3136,158 Lindbergh Crossing,9
+2092,Australia,NSW,2575,72 Ilene Point,8
+2093,Australia,QLD,4053,4081 Lighthouse Bay Alley,9
+2094,Australia,QLD,4740,794 Kennedy Court,2
+2095,Australia,NSW,2570,3981 Karstens Place,8
+2096,Australia,VIC,3088,88039 Melody Lane,9
+2097,Australia,VIC,3966,344 Rockefeller Way,2
+2098,Australia,NSW,2260,434 Eggendart Circle,12
+2099,Australia,NSW,2265,0 Waubesa Alley,6
+2100,Australia,QLD,4405,831 Prairieview Trail,1
+2101,Australia,VIC,3912,884 Surrey Pass,7
+2102,Australia,NSW,2120,60424 Bultman Terrace,10
+2103,Australia,QLD,4701,882 Merry Trail,4
+2104,Australia,QLD,4133,47878 Pond Park,3
+2105,Australia,NSW,2261,7 Porter Parkway,8
+2106,Australia,QLD,4034,984 Waubesa Pass,6
+2107,Australia,NSW,2753,91933 Artisan Avenue,9
+2108,Australia,NSW,2164,624 Atwood Circle,8
+2109,Australia,QLD,4128,15 Mcguire Junction,6
+2110,Australia,NSW,2076,21 South Avenue,11
+2111,Australia,VIC,3143,4 Macpherson Street,4
+2112,Australia,VIC,3025,5965 Glacier Hill Terrace,9
+2113,Australia,NSW,2090,556 Esch Street,12
+2114,Australia,NSW,2747,25943 Montana Street,8
+2115,Australia,QLD,4118,2 Dawn Avenue,5
+2116,Australia,NSW,2446,35 Harbort Way,8
+2117,Australia,VIC,3012,464 Bonner Place,8
+2118,Australia,VIC,3072,0899 Judy Pass,10
+2119,Australia,QLD,4160,43 Sunbrook Terrace,10
+2120,Australia,VIC,3037,34 Vidon Way,8
+2121,Australia,NSW,2770,85 Cody Hill,8
+2122,Australia,NSW,2810,8209 Tony Plaza,1
+2123,Australia,VIC,3207,65675 Spenser Way,12
+2124,Australia,NSW,2769,042 Saint Paul Parkway,10
+2125,Australia,NSW,2164,3516 Kensington Lane,9
+2126,Australia,NSW,2480,26064 Morningstar Junction,2
+2127,Australia,NSW,2566,686 Rusk Parkway,8
+2128,Australia,NSW,2145,7518 Canary Parkway,9
+2129,Australia,NSW,2880,32 Spenser Crossing,1
+2130,Australia,VIC,3175,654 Kim Parkway,3
+2131,Australia,NSW,2063,0 Moose Court,12
+2132,Australia,NSW,2062,99000 Petterle Drive,9
+2133,Australia,QLD,4030,549 Longview Terrace,9
+2134,Australia,NSW,2216,1861 Golf Course Circle,8
+2135,Australia,VIC,3756,27 Mayer Lane,7
+2136,Australia,QLD,4670,47336 Garrison Court,1
+2137,Australia,NSW,2102,27 Drewry Road,10
+2138,Australia,QLD,4503,75581 Express Center,3
+2139,Australia,NSW,2557,5 Fairfield Parkway,8
+2140,Australia,NSW,2650,47 Kensington Avenue,4
+2141,Australia,NSW,2216,9870 Brickson Park Trail,8
+2142,Australia,NSW,2234,3 Memorial Terrace,10
+2143,Australia,NSW,2148,4559 Sundown Trail,8
+2144,Australia,VIC,3976,45613 Meadow Valley Center,6
+2145,Australia,NSW,2210,2 Spaight Road,10
+2146,Australia,QLD,4503,59694 1st Crossing,7
+2147,Australia,QLD,4680,124 Fulton Crossing,3
+2148,Australia,VIC,3071,2800 Dottie Trail,10
+2149,Australia,QLD,4165,4 Mosinee Lane,5
+2150,Australia,NSW,2089,0799 Florence Street,9
+2151,Australia,VIC,3214,5882 American Ash Point,3
+2152,Australia,NSW,2199,13852 Burning Wood Terrace,1
+2153,Australia,QLD,4160,735 Eastlawn Place,8
+2154,Australia,NSW,2144,6 Sauthoff Court,9
+2155,Australia,QLD,4510,1788 Columbus Trail,4
+2156,Australia,VIC,3172,32705 Shelley Junction,8
+2157,Australia,VIC,3189,0 Delladonna Parkway,10
+2158,Australia,NSW,2760,79291 3rd Circle,8
+2159,Australia,NSW,2155,8 Bunting Hill,10
+2160,Australia,NSW,2145,63 School Plaza,9
+2161,Australia,VIC,3030,0134 Swallow Pass,6
+2162,Australia,NSW,2770,47204 Rigney Street,6
+2163,Australia,NSW,2750,9732 Swallow Way,8
+2164,Australia,QLD,4061,80 Cordelia Street,5
+2165,Australia,NSW,2283,88175 Center Road,4
+2166,Australia,NSW,2030,5 Muir Circle,12
+2167,Australia,NSW,2138,6 Tennyson Place,9
+2168,Australia,NSW,2016,698 Lunder Point,10
+2169,Australia,NSW,2340,5 Dixon Junction,2
+2170,Australia,VIC,3429,5890 Comanche Trail,6
+2171,Australia,VIC,3083,6621 Carberry Crossing,8
+2172,Australia,NSW,2170,322 Scott Plaza,5
+2173,Australia,NSW,2770,15811 La Follette Park,7
+2174,Australia,QLD,4214,67143 Bluejay Court,8
+2175,Australia,VIC,3015,966 Emmet Trail,10
+2176,Australia,VIC,3163,49530 Evergreen Lane,10
+2177,Australia,NSW,2032,9582 Fremont Center,11
+2178,Australia,QLD,4350,3 Declaration Circle,7
+2179,Australia,QLD,4132,8142 Tomscot Drive,4
+2180,Australia,NSW,2147,396 Sachs Road,8
+2181,Australia,NSW,2527,1 Melby Way,7
+2182,Australia,NSW,2557,53221 Namekagon Parkway,9
+2183,Australia,NSW,2200,6 Dovetail Circle,9
+2184,Australia,QLD,4211,67 Carioca Road,9
+2185,Australia,QLD,4500,63123 Merry Alley,8
+2186,Australia,NSW,2830,4478 Banding Way,3
+2187,Australia,VIC,3040,28928 Mariners Cove Pass,11
+2188,Australia,QLD,4815,3 Thierer Plaza,1
+2189,Australia,VIC,3915,9 Hauk Alley,4
+2190,Australia,QLD,4153,9045 Kings Avenue,11
+2191,Australia,QLD,4179,9 Barnett Street,10
+2192,Australia,NSW,2450,6779 Melrose Way,7
+2193,Australia,VIC,3355,42473 Sycamore Pass,4
+2194,Australia,NSW,2148,6631 Farragut Terrace,6
+2195,Australia,NSW,2321,886 Rusk Pass,4
+2196,Australia,NSW,2267,3 Bashford Plaza,5
+2197,Australia,QLD,4055,11 Sage Place,7
+2198,Australia,NSW,2099,26049 Straubel Point,11
+2199,Australia,NSW,2026,59929 West Alley,10
+2200,Australia,NSW,2762,94 Vernon Parkway,9
+2201,Australia,VIC,3101,8312 Dunning Crossing,8
+2202,Australia,NSW,2160,7 Novick Parkway,5
+2203,Australia,QLD,4121,02 Del Mar Center,8
+2204,Australia,NSW,2289,0 Shasta Terrace,7
+2205,Australia,NSW,2145,90 East Way,8
+2206,Australia,VIC,3977,2 Goodland Lane,5
+2207,Australia,NSW,2232,7 Vernon Lane,10
+2208,Australia,QLD,4227,9 Killdeer Avenue,7
+2209,Australia,NSW,2756,152 Larry Alley,9
+2210,Australia,NSW,2505,85 Hudson Street,8
+2211,Australia,VIC,3458,6672 Butternut Avenue,6
+2212,Australia,NSW,2750,43491 Jenifer Street,7
+2213,Australia,QLD,4421,47 Chinook Road,2
+2214,Australia,VIC,3505,3468 Rigney Place,1
+2215,Australia,VIC,3216,079 Katie Alley,9
+2216,Australia,NSW,2233,681 Butterfield Lane,9
+2217,Australia,QLD,4017,48 Laurel Parkway,5
+2218,Australia,NSW,2145,9115 Mockingbird Crossing,6
+2219,Australia,VIC,3006,2 Michigan Parkway,5
+2220,Australia,NSW,2262,24 Hermina Alley,6
+2221,Australia,QLD,4570,82237 Dapin Court,4
+2222,Australia,QLD,4037,1 Basil Street,8
+2223,Australia,VIC,3918,60650 Mcbride Point,7
+2224,Australia,VIC,3216,81 Lien Drive,3
+2225,Australia,NSW,2214,37353 Alpine Circle,8
+2226,Australia,VIC,3025,581 Granby Parkway,8
+2227,Australia,QLD,4165,3073 Golf View Terrace,8
+2228,Australia,NSW,2640,95 Riverside Way,1
+2229,Australia,NSW,2560,390 Meadow Vale Circle,9
+2230,Australia,NSW,2069,501 Reindahl Alley,12
+2231,Australia,QLD,4818,0 Mifflin Alley,5
+2232,Australia,NSW,2335,261 Mosinee Avenue,5
+2233,Australia,NSW,2287,57 Boyd Avenue,7
+2234,Australia,VIC,3079,9 Washington Drive,9
+2235,Australia,NSW,2400,48 Straubel Court,1
+2236,Australia,VIC,3043,70 Old Gate Avenue,7
+2237,Australia,VIC,3977,40062 Steensland Center,6
+2238,Australia,VIC,3148,39179 Bayside Terrace,9
+2239,Australia,NSW,2036,04488 Amoth Parkway,8
+2240,Australia,NSW,2092,259 Homewood Pass,10
+2241,Australia,QLD,4215,863 Crescent Oaks Hill,1
+2242,Australia,NSW,2770,353 Scott Road,7
+2243,Australia,NSW,2040,97 Randy Junction,12
+2244,Australia,VIC,3127,047 Northfield Trail,12
+2245,Australia,NSW,2770,0132 Merrick Way,9
+2246,Australia,NSW,2714,9248 Ludington Circle,1
+2247,Australia,VIC,3555,81 Forest Dale Center,3
+2248,Australia,VIC,3183,0 Blaine Point,7
+2249,Australia,NSW,2768,90 2nd Lane,10
+2250,Australia,NSW,2148,8718 Warner Avenue,8
+2251,Australia,NSW,2880,4 Mallory Hill,1
+2252,Australia,NSW,2560,29180 American Ash Circle,9
+2253,Australia,NSW,2097,6471 Meadow Valley Court,11
+2254,Australia,NSW,2008,9 Waxwing Pass,11
+2255,Australia,NSW,2320,8 Buell Crossing,5
+2256,Australia,NSW,2200,40 Rigney Street,8
+2257,Australia,VIC,3101,7035 Crest Line Place,11
+2258,Australia,QLD,4226,9129 Gale Court,8
+2259,Australia,VIC,3350,71109 Vernon Way,4
+2260,Australia,VIC,3977,883 Almo Terrace,6
+2261,Australia,QLD,4006,987 Victoria Trail,8
+2262,Australia,NSW,2484,7037 North Park,6
+2263,Australia,QLD,4171,93 Shasta Avenue,10
+2264,Australia,VIC,3218,9574 David Lane,8
+2265,Australia,NSW,2323,1 Del Sol Center,3
+2266,Australia,VIC,3095,38 Valley Edge Plaza,10
+2267,Australia,NSW,2619,004 Gulseth Junction,8
+2268,Australia,QLD,4306,503 Clove Crossing,4
+2269,Australia,NSW,2092,0346 Dayton Hill,12
+2270,Australia,NSW,2090,5 Derek Pass,10
+2271,Australia,VIC,3355,3417 Huxley Pass,2
+2272,Australia,NSW,2077,163 Gale Center,10
+2273,Australia,VIC,3752,09 Grim Lane,4
+2274,Australia,NSW,2580,31953 Dixon Way,4
+2275,Australia,NSW,2066,463 Rowland Drive,9
+2276,Australia,VIC,3620,054 Mesta Drive,1
+2277,Australia,VIC,3630,33550 Spohn Terrace,1
+2278,Australia,VIC,3630,953 Del Sol Point,4
+2279,Australia,VIC,3630,369 Milwaukee Court,2
+2280,Australia,VIC,3630,10055 Old Shore Lane,1
+2281,Australia,VIC,3631,018 Porter Court,6
+2282,Australia,VIC,3630,67 Elka Court,3
+2283,Australia,VIC,3350,5086 Meadow Ridge Circle,7
+2284,Australia,VIC,3630,66 Talmadge Terrace,1
+2285,Australia,VIC,3630,09356 Badeau Drive,1
+2286,Australia,VIC,3631,1032 Killdeer Place,3
+2287,Australia,VIC,3630,91 Ilene Parkway,1
+2288,Australia,NSW,2525,5015 Pawling Park,9
+2289,Australia,NSW,2880,5701 Sugar Court,1
+2290,Australia,QLD,4017,7 Melrose Circle,5
+2291,Australia,NSW,2156,33 Novick Parkway,12
+2292,Australia,QLD,4215,23 Village Way,9
+2293,Australia,QLD,4228,834 Pierstorff Lane,10
+2294,Australia,VIC,3977,974 Fisk Alley,4
+2295,Australia,VIC,3101,531 Springview Lane,10
+2296,Australia,QLD,4228,2 Nova Street,8
+2297,Australia,QLD,4101,3242 Arizona Junction,10
+2298,Australia,VIC,3804,4 Delaware Terrace,8
+2299,Australia,NSW,2022,1913 Magdeline Point,12
+2300,Australia,NSW,2565,54 Annamark Place,8
+2301,Australia,VIC,3149,84 Main Lane,10
+2302,Australia,VIC,3178,9 Lake View Avenue,9
+2303,Australia,QLD,4568,015 Fulton Pass,8
+2304,Australia,VIC,3115,00 Marcy Crossing,9
+2305,Australia,QLD,4300,0991 Commercial Road,5
+2306,Australia,NSW,2021,24198 Almo Crossing,12
+2307,Australia,NSW,2145,01268 Stuart Hill,10
+2308,Australia,QLD,4350,25139 Rockefeller Center,2
+2309,Australia,QLD,4343,159 Graceland Terrace,1
+2310,Australia,QLD,4304,0522 Nelson Crossing,3
+2311,Australia,NSW,2250,90609 Charing Cross Lane,7
+2312,Australia,VIC,3223,360 Troy Parkway,6
+2313,Australia,VIC,3116,08475 Shoshone Park,9
+2314,Australia,VIC,3205,44778 Bellgrove Crossing,10
+2315,Australia,NSW,2539,69444 Mccormick Junction,9
+2316,Australia,NSW,2208,64 Macpherson Junction,11
+2317,Australia,QLD,4218,386 Jay Junction,3
+2318,Australia,NSW,2120,496 Summit Road,10
+2319,Australia,QLD,4125,54970 Veith Hill,7
+2320,Australia,QLD,4818,33477 Trailsway Park,5
+2321,Australia,VIC,3023,92 Schlimgen Hill,8
+2322,Australia,VIC,3204,3 Talisman Court,11
+2323,Australia,NSW,2229,69893 Loomis Junction,10
+2324,Australia,QLD,4037,6505 Fieldstone Alley,8
+2325,Australia,NSW,2285,5 1st Park,6
+2326,Australia,NSW,2261,83 American Ash Drive,8
+2327,Australia,NSW,2567,94 Twin Pines Trail,8
+2328,Australia,NSW,2560,034 Eagan Avenue,6
+2329,Australia,VIC,3108,3 Mariners Cove Terrace,10
+2330,Australia,VIC,3106,2 Raven Way,10
+2331,Australia,NSW,2076,4527 Butterfield Circle,9
+2332,Australia,NSW,2566,366 Hovde Park,8
+2333,Australia,NSW,2477,2 Straubel Lane,6
+2334,Australia,NSW,2340,0 Butterfield Junction,5
+2335,Australia,NSW,2153,7174 Thackeray Point,10
+2336,Australia,QLD,4070,29 Portage Street,7
+2337,Australia,VIC,3806,35 Lakewood Gardens Junction,9
+2338,Australia,NSW,2099,5 Stoughton Parkway,9
+2339,Australia,QLD,4507,533 Ramsey Center,5
+2340,Australia,NSW,2155,694 Northwestern Court,10
+2341,Australia,QLD,4070,4 Huxley Alley,8
+2342,Australia,NSW,2114,03961 Sullivan Park,12
+2343,Australia,NSW,2049,1081 Laurel Park,12
+2344,Australia,NSW,2164,24 Corben Terrace,8
+2345,Australia,NSW,2360,99 Eastlawn Way,1
+2346,Australia,NSW,2213,6 Anniversary Place,10
+2347,Australia,VIC,3181,0866 Pennsylvania Junction,10
+2348,Australia,VIC,3194,2 Continental Park,10
+2349,Australia,NSW,2262,22774 Pennsylvania Hill,6
+2350,Australia,VIC,3138,9 Merrick Plaza,8
+2351,Australia,NSW,2529,52593 Iowa Place,8
+2352,Australia,QLD,4173,3 School Drive,7
+2353,Australia,NSW,2073,9292 Mcguire Plaza,12
+2354,Australia,QLD,4301,6 Graceland Court,2
+2355,Australia,QLD,4825,24 Lerdahl Street,3
+2356,Australia,NSW,2227,801 Kings Parkway,10
+2357,Australia,QLD,4020,89 Pawling Court,7
+2358,Australia,NSW,2176,89972 Graedel Point,9
+2359,Australia,QLD,4223,17123 Northport Circle,9
+2360,Australia,QLD,4152,20 Bluestem Way,9
+2361,Australia,QLD,4127,743 Stone Corner Parkway,6
+2362,Australia,NSW,2300,33 Prentice Street,9
+2363,Australia,VIC,3040,5 Columbus Crossing,10
+2364,Australia,NSW,2284,29 Basil Point,5
+2365,Australia,VIC,3219,1 Bay Pass,5
+2366,Australia,NSW,2508,89 Oak Hill,10
+2367,Australia,NSW,2099,03 Clarendon Way,10
+2368,Australia,VIC,3149,0 Gateway Road,12
+2369,Australia,VIC,3023,631 Fuller Parkway,7
+2370,Australia,VIC,3025,43898 Prentice Court,9
+2371,Australia,VIC,3172,2 Melody Alley,8
+2372,Australia,NSW,2064,01 Dunning Drive,9
+2373,Australia,VIC,3147,86686 Novick Center,11
+2374,Australia,NSW,2065,51 Leroy Place,10
+2375,Australia,NSW,2222,5390 Park Meadow Park,10
+2376,Australia,NSW,2016,4 Judy Park,10
+2377,Australia,NSW,2015,9 American Ash Plaza,9
+2378,Australia,QLD,4034,3 Riverside Drive,8
+2379,Australia,NSW,2147,25925 Service Crossing,9
+2380,Australia,NSW,2065,080 Pond Alley,9
+2381,Australia,VIC,3074,1816 Monument Park,7
+2382,Australia,NSW,2200,1 Nova Avenue,9
+2383,Australia,NSW,2038,98 Mesta Street,11
+2384,Australia,NSW,2533,7256 Forster Crossing,8
+2385,Australia,NSW,2758,249 Burning Wood Point,8
+2386,Australia,QLD,4209,12651 Lake View Point,7
+2387,Australia,QLD,4178,9501 Melby Avenue,7
+2388,Australia,NSW,2573,69810 Westridge Avenue,6
+2389,Australia,QLD,4179,422 Crownhardt Court,7
+2390,Australia,QLD,4159,4 Londonderry Junction,7
+2391,Australia,QLD,4131,7346 Luster Circle,5
+2392,Australia,QLD,4128,43 Commercial Road,7
+2393,Australia,NSW,2142,44083 Village Court,7
+2394,Australia,QLD,4034,57 Tennessee Alley,5
+2395,Australia,NSW,2259,57 Debra Terrace,6
+2396,Australia,QLD,4218,846 Carberry Street,11
+2397,Australia,VIC,3807,4 Center Park,6
+2398,Australia,NSW,2150,1 Coolidge Plaza,7
+2399,Australia,NSW,2190,544 Northland Place,10
+2400,Australia,NSW,2065,91 Norway Maple Hill,11
+2401,Australia,NSW,2285,5 Myrtle Trail,5
+2402,Australia,QLD,4879,645 Thackeray Street,6
+2403,Australia,NSW,2176,1439 Utah Court,9
+2404,Australia,NSW,2500,9 Hollow Ridge Circle,8
+2405,Australia,NSW,2560,4177 Bluejay Street,8
+2406,Australia,VIC,3181,75351 Ridgeview Lane,11
+2407,Australia,NSW,2041,4006 Algoma Crossing,12
+2408,Australia,QLD,4051,881 Debs Center,8
+2409,Australia,VIC,3082,423 Debra Terrace,8
+2410,Australia,VIC,3802,1369 Wayridge Terrace,7
+2411,Australia,NSW,2298,6142 Grayhawk Lane,8
+2412,Australia,NSW,2768,5 Steensland Hill,10
+2413,Australia,NSW,2154,37983 Logan Street,11
+2414,Australia,VIC,3024,31168 Messerschmidt Street,5
+2415,Australia,QLD,4118,240 Lake View Road,5
+2416,Australia,QLD,4210,290 Jay Drive,3
+2417,Australia,VIC,3046,1369 Morrow Plaza,8
+2418,Australia,NSW,2178,61976 Emmet Junction,10
+2419,Australia,VIC,3161,7585 Rutledge Trail,9
+2420,Australia,QLD,4879,9 Northwestern Pass,6
+2421,Australia,NSW,2154,16 Dwight Court,10
+2422,Australia,NSW,2145,4 Becker Center,10
+2423,Australia,NSW,2147,96 Hintze Point,8
+2424,Australia,VIC,3240,34222 Vera Circle,7
+2425,Australia,NSW,2170,338 Little Fleur Avenue,9
+2426,Australia,NSW,2040,57769 Gulseth Lane,10
+2427,Australia,QLD,4211,309 Shopko Center,10
+2428,Australia,NSW,2144,37 Roth Place,10
+2429,Australia,NSW,2261,618 Kropf Drive,9
+2430,Australia,QLD,4207,1966 Glendale Avenue,4
+2431,Australia,QLD,4019,401 Pond Circle,7
+2432,Australia,NSW,2032,582 Kropf Avenue,11
+2433,Australia,VIC,3075,2 Columbus Park,7
+2434,Australia,NSW,2760,99739 Coolidge Crossing,7
+2435,Australia,QLD,4570,75 Westerfield Park,1
+2436,Australia,NSW,2508,62842 Pearson Point,9
+2437,Australia,QLD,4223,78426 Fulton Plaza,9
+2438,Australia,NSW,2073,336 Service Pass,11
+2439,Australia,NSW,2076,4 Northridge Center,11
+2440,Australia,VIC,3174,8 Superior Court,5
+2441,Australia,NSW,2280,8147 Dapin Hill,8
+2442,Australia,NSW,2206,047 Kedzie Park,11
+2443,Australia,NSW,2671,9346 Sunfield Plaza,1
+2444,Australia,NSW,2219,11 Dunning Pass,10
+2445,Australia,VIC,3216,67 Crowley Drive,4
+2446,Australia,QLD,4455,76 Schiller Pass,3
+2447,Australia,QLD,4178,71761 Almo Street,7
+2448,Australia,VIC,3043,4898 Buell Terrace,7
+2449,Australia,NSW,2165,6 Morningstar Way,7
+2450,Australia,NSW,2164,15 Shelley Hill,8
+2451,Australia,QLD,4165,1556 Sheridan Hill,5
+2452,Australia,VIC,3029,6568 Northridge Pass,6
+2453,Australia,QLD,4060,4694 Carioca Court,10
+2454,Australia,NSW,2165,6 Ryan Drive,10
+2455,Australia,QLD,4034,975 Annamark Hill,6
+2456,Australia,VIC,3690,40 Ilene Drive,1
+2457,Australia,NSW,2148,60 Sycamore Lane,9
+2458,Australia,VIC,3028,8439 Katie Crossing,8
+2459,Australia,VIC,3156,22 Hayes Center,10
+2460,Australia,NSW,2573,3126 Butterfield Pass,8
+2461,Australia,NSW,2761,0 Moulton Plaza,8
+2462,Australia,QLD,4650,188 Carberry Point,1
+2463,Australia,NSW,2540,083 Farragut Avenue,7
+2464,Australia,QLD,4014,62052 Loomis Avenue,8
+2465,Australia,NSW,2036,49 Talmadge Trail,11
+2466,Australia,NSW,2250,6247 Crest Line Terrace,8
+2467,Australia,NSW,2208,77 Armistice Alley,10
+2468,Australia,VIC,3160,572 Meadow Ridge Drive,7
+2469,Australia,VIC,3754,7 Mcguire Terrace,6
+2470,Australia,QLD,4814,70 Erie Street,2
+2471,Australia,QLD,4017,3 Talisman Place,5
+2472,Australia,QLD,4118,567 Scott Park,5
+2473,Australia,NSW,2530,9248 Sugar Terrace,9
+2474,Australia,QLD,4370,13 Tennyson Point,6
+2475,Australia,VIC,3195,88540 Scoville Plaza,9
+2476,Australia,QLD,4655,22779 Graedel Road,2
+2477,Australia,VIC,3023,51800 Meadow Vale Point,7
+2478,Australia,NSW,2145,1 Trailsway Lane,9
+2479,Australia,NSW,2560,65662 Haas Trail,7
+2480,Australia,NSW,2444,0 Union Plaza,7
+2481,Australia,NSW,2880,1 Forster Junction,1
+2482,Australia,NSW,2063,24877 3rd Circle,12
+2483,Australia,VIC,3806,34797 Londonderry Trail,7
+2484,Australia,NSW,2114,24649 Kennedy Street,8
+2485,Australia,NSW,2102,9 Spaight Place,9
+2486,Australia,NSW,2120,711 Hayes Court,10
+2487,Australia,VIC,3101,30624 John Wall Point,7
+2488,Australia,NSW,2770,46 Victoria Center,9
+2489,Australia,NSW,2203,99 Blackbird Court,11
+2490,Australia,NSW,2166,00 Rutledge Alley,9
+2491,Australia,NSW,2560,719 Vahlen Way,8
+2492,Australia,QLD,4551,02 Declaration Lane,7
+2493,Australia,QLD,4171,9366 Judy Alley,9
+2494,Australia,NSW,2093,07623 Mandrake Trail,11
+2495,Australia,QLD,4055,050 Buell Lane,7
+2496,Australia,QLD,4165,556 Gale Road,6
+2497,Australia,NSW,2566,24 Helena Alley,9
+2498,Australia,VIC,3046,77410 Bluejay Street,9
+2499,Australia,NSW,2760,62 Doe Crossing Junction,7
+2500,Australia,QLD,4060,7 Lake View Street,9
+2501,Australia,NSW,2112,30 Redwing Pass,11
+2502,Australia,NSW,2207,99488 Mccormick Terrace,11
+2503,Australia,NSW,2880,60 Banding Terrace,1
+2504,Australia,NSW,2300,6220 Sugar Court,8
+2505,Australia,QLD,4341,53 Anthes Point,2
+2506,Australia,VIC,3250,0 Mosinee Lane,4
+2507,Australia,NSW,2087,9 Caliangt Park,11
+2508,Australia,QLD,4655,0192 Ridgeview Terrace,6
+2509,Australia,NSW,2033,6534 New Castle Plaza,12
+2510,Australia,VIC,3111,6 Hoard Plaza,10
+2511,Australia,NSW,2118,440 Shasta Crossing,10
+2512,Australia,QLD,4070,1127 Artisan Parkway,5
+2513,Australia,NSW,2760,23478 Ramsey Pass,6
+2514,Australia,VIC,3071,5 Warbler Avenue,10
+2515,Australia,QLD,4825,685 International Lane,2
+2516,Australia,QLD,4551,6188 Anniversary Circle,6
+2517,Australia,VIC,3342,3 American Ash Parkway,7
+2518,Australia,NSW,2262,9 Trailsway Court,9
+2519,Australia,QLD,4205,9 Oak Park,4
+2520,Australia,NSW,2190,82 Lukken Lane,10
+2521,Australia,VIC,3500,88551 Hollow Ridge Pass,2
+2522,Australia,NSW,2138,283 Claremont Hill,9
+2523,Australia,VIC,3523,633 Menomonie Junction,2
+2524,Australia,QLD,4161,3 Myrtle Terrace,7
+2525,Australia,VIC,3023,3 Park Meadow Drive,7
+2526,Australia,NSW,2567,2757 Green Ridge Circle,8
+2527,Australia,NSW,2340,46 Dawn Way,5
+2528,Australia,NSW,2153,53723 Dunning Street,11
+2529,Australia,NSW,2177,671 Mallory Pass,8
+2530,Australia,NSW,2350,025 Knutson Terrace,3
+2531,Australia,QLD,4209,778 Cambridge Street,4
+2532,Australia,NSW,2264,601 Dryden Way,7
+2533,Australia,NSW,2046,3144 Ruskin Trail,11
+2534,Australia,NSW,2009,94554 Derek Trail,10
+2535,Australia,NSW,2785,0166 Stephen Drive,7
+2536,Australia,NSW,2560,49 Sheridan Circle,7
+2537,Australia,NSW,2234,6865 Duke Trail,10
+2538,Australia,NSW,2207,2 Larry Trail,8
+2539,Australia,NSW,2117,1 Straubel Alley,10
+2540,Australia,NSW,2261,440 Ronald Regan Pass,7
+2541,Australia,VIC,3995,709 Rieder Terrace,2
+2542,Australia,VIC,3351,688 Kropf Circle,5
+2543,Australia,QLD,4503,5463 Arapahoe Point,4
+2544,Australia,VIC,3029,12 Fairfield Parkway,7
+2545,Australia,NSW,2323,01 Burning Wood Terrace,9
+2546,Australia,VIC,3000,92427 Norway Maple Street,6
+2547,Australia,VIC,3156,35 Shelley Court,8
+2548,Australia,NSW,2214,25 Coleman Circle,9
+2549,Australia,QLD,4160,463 Atwood Court,7
+2550,Australia,NSW,2380,8561 Alpine Center,3
+2551,Australia,NSW,2430,48 Lighthouse Bay Point,7
+2552,Australia,NSW,2462,0 Dunning Plaza,2
+2553,Australia,VIC,3076,255 Bonner Lane,8
+2554,Australia,VIC,3015,02485 Bellgrove Road,9
+2555,Australia,NSW,2650,3934 Karstens Circle,2
+2556,Australia,NSW,2000,583 Eagle Crest Road,8
+2557,Australia,QLD,4670,67 Lerdahl Parkway,1
+2558,Australia,VIC,3677,0 Truax Trail,5
+2559,Australia,NSW,2121,65 Waxwing Drive,11
+2560,Australia,NSW,2107,1 Mendota Drive,11
+2561,Australia,NSW,2007,4821 Schlimgen Avenue,11
+2562,Australia,VIC,3041,54 Miller Parkway,8
+2563,Australia,NSW,2705,4 Barby Avenue,5
+2564,Australia,VIC,3177,084 Brickson Park Park,5
+2565,Australia,NSW,2061,147 Golden Leaf Pass,10
+2566,Australia,QLD,4812,457 Merry Pass,3
+2567,Australia,NSW,2010,94 Marquette Way,11
+2568,Australia,NSW,2075,711 Summerview Junction,10
+2569,Australia,NSW,2233,22 Debs Point,9
+2570,Australia,NSW,2470,15952 Mockingbird Court,3
+2571,Australia,NSW,2171,18 Towne Way,9
+2572,Australia,NSW,2548,55501 Sugar Street,7
+2573,Australia,NSW,2159,80 Cambridge Plaza,11
+2574,Australia,QLD,4509,71725 Goodland Lane,7
+2575,Australia,VIC,3184,7282 Prairie Rose Trail,9
+2576,Australia,VIC,3260,63785 Anthes Circle,1
+2577,Australia,NSW,2099,6 Loomis Trail,11
+2578,Australia,QLD,4216,6551 Atwood Road,7
+2579,Australia,NSW,2138,258 Bunker Hill Hill,8
+2580,Australia,NSW,2534,592 Oak Valley Center,9
+2581,Australia,QLD,4565,83441 Donald Pass,7
+2582,Australia,NSW,2032,9106 Thompson Hill,8
+2583,Australia,QLD,4812,0671 Vera Drive,5
+2584,Australia,NSW,2034,50 Londonderry Park,10
+2585,Australia,QLD,4218,1817 Bluejay Avenue,10
+2586,Australia,NSW,2102,27 Grayhawk Alley,11
+2587,Australia,NSW,2021,5342 Hallows Lane,12
+2588,Australia,VIC,3977,303 Michigan Avenue,5
+2589,Australia,NSW,2870,6 Forest Avenue,4
+2590,Australia,NSW,2197,3 Pennsylvania Terrace,9
+2591,Australia,QLD,4152,755 Ramsey Terrace,6
+2592,Australia,NSW,2280,33782 Doe Crossing Terrace,7
+2593,Australia,QLD,4217,97 Waxwing Terrace,10
+2594,Australia,NSW,2204,2 Marquette Drive,8
+2595,Australia,VIC,3910,357 Elgar Alley,9
+2596,Australia,QLD,4116,37258 Stephen Place,9
+2597,Australia,NSW,2315,9 Cambridge Junction,7
+2598,Australia,NSW,2066,10 American Alley,12
+2599,Australia,VIC,3146,84 Stuart Lane,11
+2600,Australia,VIC,3185,6 Carioca Avenue,9
+2601,Australia,VIC,3618,75688 Maple Court,1
+2602,Australia,NSW,2093,906 Toban Lane,10
+2603,Australia,VIC,3071,76085 Eagan Crossing,10
+2604,Australia,VIC,3127,28634 Nova Circle,12
+2605,Australia,NSW,2287,34 Colorado Pass,6
+2606,Australia,QLD,4507,1031 Kennedy Way,7
+2607,Australia,NSW,2218,23426 Transport Center,10
+2608,Australia,NSW,2450,20 Del Mar Circle,9
+2609,Australia,NSW,2087,3024 Butternut Crossing,11
+2610,Australia,VIC,3000,93124 Monterey Plaza,7
+2611,Australia,NSW,2580,51313 Fulton Junction,7
+2612,Australia,NSW,2162,889 Sundown Trail,9
+2613,Australia,NSW,2147,55590 Ridgeview Court,9
+2614,Australia,NSW,2780,2271 Fordem Plaza,8
+2615,Australia,QLD,4570,25 Parkside Terrace,3
+2616,Australia,NSW,2190,61 Northfield Pass,10
+2617,Australia,NSW,2167,536 Crowley Crossing,7
+2618,Australia,QLD,4405,0 Erie Lane,1
+2619,Australia,NSW,2445,9837 Granby Alley,7
+2620,Australia,VIC,3977,8 Lake View Way,7
+2621,Australia,VIC,3810,1567 Schiller Street,6
+2622,Australia,NSW,2462,6 Warbler Road,5
+2623,Australia,NSW,2753,383 Little Fleur Circle,7
+2624,Australia,NSW,2567,804 Shelley Junction,7
+2625,Australia,NSW,2000,2 Beilfuss Plaza,9
+2626,Australia,NSW,2304,78019 Manley Center,5
+2627,Australia,NSW,2759,34 Warrior Trail,8
+2628,Australia,NSW,2113,688 Straubel Junction,9
+2629,Australia,NSW,2871,1945 Loomis Alley,1
+2630,Australia,NSW,2034,87 Elka Terrace,12
+2631,Australia,VIC,3279,13 Dexter Lane,8
+2632,Australia,NSW,2000,701 Talisman Crossing,10
+2633,Australia,NSW,2100,518 Colorado Trail,10
+2634,Australia,NSW,2100,3 Forest Dale Lane,11
+2635,Australia,QLD,4503,9 Huxley Hill,6
+2636,Australia,VIC,3147,55 Fordem Street,10
+2637,Australia,NSW,2031,52753 Logan Hill,12
+2638,Australia,QLD,4106,3 Old Gate Hill,5
+2639,Australia,QLD,4352,42 Manitowish Hill,5
+2640,Australia,VIC,3141,008 6th Center,7
+2641,Australia,NSW,2135,78 Shasta Place,12
+2642,Australia,QLD,4701,40 Veith Circle,1
+2643,Australia,NSW,2770,10 Kedzie Pass,7
+2644,Australia,QLD,4503,736 Tomscot Center,5
+2645,Australia,NSW,2769,9521 Old Shore Trail,10
+2646,Australia,QLD,4213,99 Homewood Place,8
+2647,Australia,NSW,2298,6876 Mandrake Avenue,6
+2648,Australia,NSW,2234,16 Hudson Alley,10
+2649,Australia,VIC,3931,7163 2nd Point,8
+2650,Australia,NSW,2210,30 Parkside Terrace,10
+2651,Australia,QLD,4012,19 Fairview Road,3
+2652,Australia,VIC,3070,444 Spaight Crossing,10
+2653,Australia,VIC,3911,447 Delaware Park,5
+2654,Australia,NSW,2190,96 Dayton Park,9
+2655,Australia,QLD,4151,882 Mitchell Place,4
+2656,Australia,QLD,4213,68128 Leroy Street,8
+2657,Australia,NSW,2770,17 South Crossing,7
+2658,Australia,NSW,2460,648 Rigney Pass,2
+2659,Australia,NSW,2756,1 Ronald Regan Hill,8
+2660,Australia,NSW,2155,359 Briar Crest Road,10
+2661,Australia,NSW,2566,4543 Service Terrace,8
+2662,Australia,NSW,2151,0 Knutson Crossing,8
+2663,Australia,VIC,3188,28156 School Park,10
+2664,Australia,QLD,4226,920 Manley Crossing,8
+2665,Australia,VIC,3250,38 Armistice Lane,2
+2666,Australia,QLD,4700,6988 Waxwing Hill,3
+2667,Australia,NSW,2799,84 Southridge Lane,2
+2668,Australia,NSW,2137,8 Eagle Crest Circle,12
+2669,Australia,NSW,2650,571 Golf Alley,5
+2670,Australia,VIC,3030,52408 Autumn Leaf Road,7
+2671,Australia,NSW,2527,4 Loomis Hill,7
+2672,Australia,QLD,4670,1411 Jenifer Center,3
+2673,Australia,NSW,2088,336 Fordem Trail,12
+2674,Australia,VIC,3191,59 Hoepker Lane,11
+2675,Australia,NSW,2756,2864 Corscot Parkway,8
+2676,Australia,VIC,3121,4658 Tennessee Street,11
+2677,Australia,VIC,3192,53485 Sycamore Junction,8
+2678,Australia,QLD,4740,446 Warrior Pass,5
+2679,Australia,QLD,4564,25567 Linden Court,8
+2680,Australia,QLD,4860,111 Hooker Avenue,2
+2681,Australia,NSW,2570,51 Dixon Court,8
+2682,Australia,VIC,3174,16639 Bunting Circle,8
+2683,Australia,NSW,2208,40923 Truax Drive,10
+2684,Australia,QLD,4878,22 Moulton Place,4
+2685,Australia,VIC,3922,52541 Lakewood Gardens Court,2
+2686,Australia,NSW,2177,39746 Eliot Center,9
+2687,Australia,NSW,2256,7 Springview Lane,6
+2688,Australia,VIC,3020,8658 Maple Wood Plaza,7
+2689,Australia,QLD,4078,03 Old Shore Terrace,7
+2690,Australia,QLD,4510,99565 Warrior Alley,3
+2691,Australia,NSW,2068,718 Fair Oaks Point,12
+2692,Australia,QLD,4031,0 Little Fleur Avenue,8
+2693,Australia,NSW,2067,541 Southridge Trail,12
+2694,Australia,NSW,2166,77196 West Crossing,8
+2695,Australia,VIC,3057,7 Fordem Point,7
+2696,Australia,NSW,2570,58 Shelley Crossing,8
+2697,Australia,VIC,3280,41 Westport Center,4
+2698,Australia,NSW,2758,8598 Nova Parkway,9
+2699,Australia,NSW,2779,4826 Crowley Park,7
+2700,Australia,NSW,2261,3 Vermont Alley,5
+2701,Australia,QLD,4815,7107 Manitowish Road,2
+2702,Australia,NSW,2070,9304 Birchwood Junction,12
+2703,Australia,QLD,4123,91655 Rowland Point,8
+2704,Australia,VIC,3028,76 Aberg Hill,6
+2705,Australia,NSW,2810,6418 Sachs Trail,1
+2706,Australia,QLD,4660,86445 Bonner Junction,3
+2707,Australia,NSW,2095,9235 Walton Park,11
+2708,Australia,NSW,2259,18652 Springs Plaza,7
+2709,Australia,NSW,2049,29895 Crest Line Point,11
+2710,Australia,NSW,2284,65 Sunbrook Road,4
+2711,Australia,VIC,3147,75 Loftsgordon Hill,11
+2712,Australia,NSW,2112,122 Chinook Center,11
+2713,Australia,NSW,2580,6994 Hanson Place,5
+2714,Australia,VIC,3228,00662 Ludington Court,9
+2715,Australia,QLD,4209,62 Linden Drive,4
+2716,Australia,NSW,2038,831 Daystar Circle,12
+2717,Australia,NSW,2620,1 Forest Junction,10
+2718,Australia,VIC,3127,8 Bobwhite Court,10
+2719,Australia,NSW,2148,8941 Harbort Point,9
+2720,Australia,QLD,4073,3 Independence Street,6
+2721,Australia,NSW,2444,8 Holmberg Street,7
+2722,Australia,NSW,2261,15776 Thackeray Alley,7
+2723,Australia,QLD,4215,05 Lerdahl Place,6
+2724,Australia,VIC,3188,512 Forest Run Center,11
+2725,Australia,VIC,3810,304 Moland Street,5
+2726,Australia,QLD,4165,63 International Drive,7
+2727,Australia,NSW,2196,04 Schmedeman Court,10
+2728,Australia,VIC,3067,5705 Spaight Place,9
+2729,Australia,QLD,4740,81254 Buhler Trail,2
+2730,Australia,NSW,2233,27 Fuller Trail,8
+2731,Australia,QLD,4504,313 Mifflin Center,5
+2732,Australia,NSW,2159,18 Logan Alley,11
+2733,Australia,NSW,2211,86 Hansons Parkway,8
+2734,Australia,NSW,2774,8476 Village Green Park,9
+2735,Australia,VIC,3149,45454 Spenser Center,12
+2736,Australia,NSW,2226,28820 Monica Circle,7
+2737,Australia,QLD,4740,259 Summerview Center,2
+2738,Australia,QLD,4124,82206 Dennis Place,8
+2739,Australia,NSW,2113,5837 Hayes Court,11
+2740,Australia,NSW,2843,33297 Hoepker Way,1
+2741,Australia,NSW,2767,198 Garrison Pass,8
+2742,Australia,VIC,3027,77 Golf Course Junction,8
+2743,Australia,NSW,2118,5 Lakewood Gardens Court,9
+2744,Australia,NSW,2260,4320 Toban Avenue,11
+2745,Australia,NSW,2196,129 Mallory Junction,10
+2746,Australia,VIC,3130,68730 Hermina Place,10
+2747,Australia,QLD,4035,25 Ronald Regan Point,7
+2748,Australia,VIC,3977,79 Eggendart Trail,8
+2749,Australia,NSW,2155,744 Hazelcrest Way,9
+2750,Australia,NSW,2287,91973 Boyd Street,7
+2751,Australia,QLD,4503,2241 Pearson Plaza,6
+2752,Australia,VIC,3088,244 Burrows Center,9
+2753,Australia,VIC,3046,2992 Scott Hill,8
+2754,Australia,NSW,2155,5565 Park Meadow Trail,9
+2755,Australia,VIC,3995,68111 Bartillon Court,3
+2756,Australia,QLD,4655,18 School Alley,3
+2757,Australia,NSW,2214,8 Anderson Lane,9
+2758,Australia,VIC,3977,2121 Dapin Center,7
+2759,Australia,VIC,3066,5772 Ridgeway Place,10
+2760,Australia,QLD,4301,1 Wayridge Park,1
+2761,Australia,QLD,4051,10369 Sunbrook Way,8
+2762,Australia,NSW,2203,95 Meadow Valley Plaza,9
+2763,Australia,NSW,2225,14 Pennsylvania Alley,10
+2764,Australia,NSW,2016,9 Cascade Junction,12
+2765,Australia,NSW,2203,077 Clemons Road,11
+2766,Australia,NSW,2444,3 Buena Vista Crossing,6
+2767,Australia,NSW,2830,83007 Bartillon Lane,4
+2768,Australia,NSW,2750,542 Hayes Plaza,9
+2769,Australia,VIC,3204,0 Debs Lane,7
+2770,Australia,VIC,3840,23 Clyde Gallagher Alley,1
+2771,Australia,QLD,4014,75642 Kinsman Terrace,8
+2772,Australia,QLD,4115,9 Swallow Way,7
+2773,Australia,NSW,2572,39 Badeau Court,8
+2774,Australia,NSW,2287,0 Summit Trail,5
+2775,Australia,NSW,2128,5108 Springview Circle,7
+2776,Australia,QLD,4869,4362 Morningstar Place,2
+2777,Australia,VIC,3064,99 Alpine Lane,7
+2778,Australia,NSW,2170,39 Lindbergh Drive,8
+2779,Australia,NSW,2171,13392 Emmet Parkway,9
+2780,Australia,QLD,4157,526 Schiller Road,7
+2781,Australia,QLD,4054,677 Golden Leaf Junction,6
+2782,Australia,QLD,4069,59901 Bartelt Terrace,9
+2783,Australia,VIC,3018,3 Cordelia Place,9
+2784,Australia,VIC,3150,282 Esker Crossing,10
+2785,Australia,NSW,2112,724 West Park,11
+2786,Australia,NSW,2763,942 Elmside Street,8
+2787,Australia,NSW,2170,11 Manufacturers Junction,8
+2788,Australia,VIC,3081,03 Ohio Lane,9
+2789,Australia,VIC,3058,19 Del Mar Avenue,8
+2790,Australia,NSW,2216,01209 Southridge Hill,8
+2791,Australia,VIC,3500,4903 Hoepker Terrace,3
+2792,Australia,NSW,2343,149 Browning Terrace,2
+2793,Australia,VIC,3134,48948 Little Fleur Alley,7
+2794,Australia,VIC,3064,4 Rieder Drive,5
+2795,Australia,NSW,2200,7 Sunbrook Terrace,9
+2796,Australia,NSW,2320,28905 Hallows Avenue,5
+2797,Australia,VIC,3212,9677 Hagan Lane,3
+2798,Australia,VIC,3377,07526 Union Lane,1
+2799,Australia,VIC,3207,53245 Mesta Street,6
+2800,Australia,NSW,2770,2 Elka Trail,8
+2801,Australia,NSW,2760,4672 Morningstar Circle,7
+2802,Australia,VIC,3130,3140 Hudson Road,5
+2803,Australia,NSW,2320,441 Superior Junction,6
+2804,Australia,NSW,2010,1 Elgar Street,9
+2805,Australia,VIC,3065,46 Independence Parkway,12
+2806,Australia,VIC,3141,453 Gina Avenue,8
+2807,Australia,NSW,2141,32 Banding Center,9
+2808,Australia,NSW,2769,5636 Glendale Point,10
+2809,Australia,NSW,2048,64 Village Green Pass,9
+2810,Australia,QLD,4075,46100 Jay Place,6
+2811,Australia,VIC,3029,69490 Orin Trail,5
+2812,Australia,QLD,4226,515 Warrior Pass,9
+2813,Australia,NSW,2120,6137 Scoville Center,10
+2814,Australia,QLD,4500,01 Vernon Court,4
+2815,Australia,NSW,2211,4 American Ash Circle,10
+2816,Australia,NSW,2295,68 Roth Crossing,8
+2817,Australia,NSW,2099,859 Harbort Alley,11
+2818,Australia,VIC,3124,99216 Oakridge Hill,12
+2819,Australia,NSW,2770,82010 Lakewood Center,6
+2820,Australia,VIC,3107,643 Clyde Gallagher Road,10
+2821,Australia,NSW,2049,6970 Almo Court,9
+2822,Australia,VIC,3121,9 Springview Terrace,10
+2823,Australia,NSW,2099,46631 School Road,11
+2824,Australia,VIC,3015,54 Green Point,10
+2825,Australia,NSW,2300,28014 Kings Park,8
+2826,Australia,VIC,3149,8612 Kennedy Alley,10
+2827,Australia,NSW,2021,82 Vermont Street,12
+2828,Australia,VIC,3140,92610 Sutherland Place,8
+2829,Australia,NSW,2650,2038 Esker Road,4
+2830,Australia,NSW,2760,33 Norway Maple Street,7
+2831,Australia,NSW,2560,72297 Sutherland Junction,8
+2832,Australia,NSW,2093,7827 Spohn Court,9
+2833,Australia,VIC,3181,77 Gulseth Lane,8
+2834,Australia,QLD,4350,50469 Shelley Avenue,8
+2835,Australia,NSW,2450,9695 Northland Pass,7
+2836,Australia,VIC,3337,3619 Elgar Terrace,3
+2837,Australia,NSW,2142,7 Buhler Drive,7
+2838,Australia,NSW,2068,4589 Lien Terrace,12
+2839,Australia,NSW,2282,37 Darwin Circle,8
+2840,Australia,NSW,2165,20 Carberry Circle,7
+2841,Australia,QLD,4270,082 Twin Pines Avenue,7
+2842,Australia,VIC,3156,1946 Golf Course Hill,10
+2843,Australia,NSW,2770,48418 Crescent Oaks Court,9
+2844,Australia,VIC,3103,9 Steensland Center,12
+2845,Australia,NSW,2300,5 Golf Course Street,8
+2846,Australia,NSW,2487,70 Shopko Drive,9
+2847,Australia,NSW,2770,11035 Toban Lane,8
+2848,Australia,VIC,3163,35 Eastwood Plaza,9
+2849,Australia,NSW,2089,52 Ruskin Pass,10
+2850,Australia,NSW,2323,3306 Bartelt Alley,4
+2851,Australia,NSW,2155,9179 Esker Park,10
+2852,Australia,NSW,2077,57 Village Green Center,10
+2853,Australia,QLD,4300,352 Roth Street,6
+2854,Australia,NSW,2044,0555 Tomscot Plaza,10
+2855,Australia,QLD,4034,3519 Schurz Alley,7
+2856,Australia,NSW,2564,221 Autumn Leaf Trail,7
+2857,Australia,QLD,4154,12689 Logan Terrace,9
+2858,Australia,NSW,2031,4623 Anniversary Terrace,10
+2859,Australia,NSW,2460,69 Dexter Parkway,3
+2860,Australia,VIC,3757,3 Vermont Junction,6
+2861,Australia,NSW,2099,6804 Red Cloud Parkway,9
+2862,Australia,NSW,2750,6 Haas Park,7
+2863,Australia,NSW,2770,72 Ludington Circle,6
+2864,Australia,NSW,2086,558 Grayhawk Circle,10
+2865,Australia,NSW,2070,04470 Mcguire Trail,9
+2866,Australia,NSW,2200,10434 Melby Pass,7
+2867,Australia,NSW,2047,60717 Farmco Center,12
+2868,Australia,QLD,4810,78814 Sundown Drive,8
+2869,Australia,NSW,2486,62293 Raven Parkway,8
+2870,Australia,VIC,3043,08 Monterey Avenue,7
+2871,Australia,QLD,4221,2241 Bonner Trail,9
+2872,Australia,NSW,2044,7 Bartillon Junction,10
+2873,Australia,QLD,4211,463 Bultman Crossing,5
+2874,Australia,NSW,2316,12574 Truax Alley,6
+2875,Australia,VIC,3179,77433 Sunfield Court,9
+2876,Australia,NSW,2067,8647 La Follette Court,9
+2877,Australia,NSW,2089,8750 Corben Trail,11
+2878,Australia,QLD,4115,8250 Johnson Point,3
+2879,Australia,NSW,2756,4 Vahlen Alley,8
+2880,Australia,NSW,2777,8369 Golf Court,9
+2881,Australia,NSW,2761,17 Sachs Street,8
+2882,Australia,NSW,2121,53683 Arapahoe Parkway,11
+2883,Australia,NSW,2046,177 Forest Run Crossing,10
+2884,Australia,NSW,2528,5674 Superior Point,7
+2885,Australia,VIC,3064,37595 Packers Terrace,5
+2886,Australia,NSW,2018,63 Bayside Center,11
+2887,Australia,NSW,2481,32 Calypso Park,11
+2888,Australia,NSW,2145,4 Ilene Street,7
+2889,Australia,NSW,2763,289 Lerdahl Terrace,8
+2890,Australia,QLD,4818,666 Holy Cross Parkway,4
+2891,Australia,NSW,2075,5 Forster Center,9
+2892,Australia,VIC,3082,2072 Fremont Parkway,4
+2893,Australia,VIC,3189,17 Dapin Avenue,10
+2894,Australia,NSW,2250,552 Talisman Circle,7
+2895,Australia,NSW,2880,75717 Bartillon Road,1
+2896,Australia,NSW,2530,0 Caliangt Pass,7
+2897,Australia,QLD,4301,848 Cascade Alley,3
+2898,Australia,NSW,2170,59231 Claremont Place,9
+2899,Australia,NSW,2170,493 Calypso Center,8
+2900,Australia,NSW,2211,25 Schlimgen Terrace,9
+2901,Australia,NSW,2452,38 Thompson Plaza,5
+2902,Australia,NSW,2480,72850 Lotheville Junction,4
+2903,Australia,VIC,3195,0 Lakeland Pass,10
+2904,Australia,VIC,3175,8188 Fuller Hill,8
+2905,Australia,VIC,3198,6815 South Junction,9
+2906,Australia,VIC,3184,46418 Hauk Pass,10
+2907,Australia,VIC,3106,3 Nancy Circle,10
+2908,Australia,NSW,2075,7916 Clyde Gallagher Place,11
+2909,Australia,VIC,3350,24913 Twin Pines Terrace,5
+2910,Australia,NSW,2763,3 Barnett Way,9
+2911,Australia,QLD,4868,928 Laurel Circle,4
+2912,Australia,QLD,4220,2 Blue Bill Park Lane,8
+2913,Australia,QLD,4118,937 Sloan Center,6
+2914,Australia,QLD,4551,66 Arrowood Court,8
+2915,Australia,QLD,4121,11 Glendale Court,9
+2916,Australia,NSW,2299,7066 Sunbrook Terrace,8
+2917,Australia,QLD,4060,210 Prairie Rose Hill,9
+2918,Australia,QLD,4210,2 Jackson Way,4
+2919,Australia,NSW,2440,3957 American Ash Plaza,2
+2920,Australia,VIC,3166,90 Nobel Way,10
+2921,Australia,NSW,2259,00 Heath Road,8
+2922,Australia,QLD,4005,970 Randy Crossing,12
+2923,Australia,VIC,3933,723 Center Court,11
+2924,Australia,NSW,2044,423 Golf Point,10
+2925,Australia,QLD,4883,415 Walton Lane,3
+2926,Australia,NSW,2081,51 Bay Junction,10
+2927,Australia,QLD,4702,16673 Pawling Point,5
+2928,Australia,QLD,4570,2875 Anhalt Court,3
+2929,Australia,VIC,3810,7561 Donald Center,5
+2930,Australia,NSW,2471,13282 Pond Circle,2
+2931,Australia,NSW,2199,1 Farwell Center,9
+2932,Australia,NSW,2223,7 New Castle Terrace,10
+2933,Australia,VIC,3046,572 Spohn Drive,8
+2934,Australia,QLD,4005,53 Hintze Circle,7
+2935,Australia,NSW,2200,72 Buell Pass,9
+2936,Australia,QLD,4114,5748 Walton Court,3
+2937,Australia,QLD,4207,692 Anniversary Junction,1
+2938,Australia,NSW,2539,5060 Donald Park,5
+2939,Australia,QLD,4157,7 Debs Park,3
+2940,Australia,NSW,2119,797 Orin Terrace,10
+2941,Australia,NSW,2233,978 Dennis Way,9
+2942,Australia,VIC,3148,4 Glendale Crossing,10
+2943,Australia,QLD,4211,64107 Little Fleur Trail,3
+2944,Australia,QLD,4105,68473 Leroy Avenue,9
+2945,Australia,VIC,3175,321 Muir Crossing,5
+2946,Australia,VIC,3064,984 Hoepker Court,6
+2947,Australia,VIC,3437,24 Green Parkway,8
+2948,Australia,NSW,2117,10 Kensington Avenue,10
+2949,Australia,VIC,3037,75848 Ohio Lane,7
+2950,Australia,VIC,3032,3 New Castle Terrace,8
+2951,Australia,NSW,2765,7 Blue Bill Park Lane,9
+2952,Australia,NSW,2166,8007 Dawn Terrace,9
+2953,Australia,NSW,2259,02555 Sloan Way,8
+2954,Australia,NSW,2529,337 Brentwood Pass,8
+2955,Australia,QLD,4300,4052 Katie Court,5
+2956,Australia,NSW,2537,3 Comanche Court,4
+2957,Australia,VIC,3031,8 Roxbury Way,8
+2958,Australia,NSW,2029,860 Banding Terrace,11
+2959,Australia,NSW,2114,5 Knutson Crossing,10
+2960,Australia,NSW,2023,9217 Bashford Parkway,10
+2961,Australia,NSW,2320,197 Goodland Crossing,5
+2962,Australia,NSW,2010,373 Hayes Terrace,9
+2963,Australia,QLD,4301,3673 Jenna Center,3
+2964,Australia,QLD,4014,8 Glendale Terrace,8
+2965,Australia,NSW,2763,22239 Waubesa Way,9
+2966,Australia,NSW,2760,6604 Hansons Court,8
+2967,Australia,NSW,2064,6 Weeping Birch Pass,12
+2968,Australia,NSW,2127,2126 Debra Point,9
+2969,Australia,VIC,3106,726 Erie Center,11
+2970,Australia,VIC,3442,98 Tomscot Center,7
+2971,Australia,NSW,2204,26223 Warrior Terrace,9
+2972,Australia,VIC,3140,85 Kim Way,9
+2973,Australia,VIC,3030,0338 Oakridge Crossing,4
+2974,Australia,NSW,2250,3 Hudson Circle,9
+2975,Australia,VIC,3053,8594 Warner Park,6
+2976,Australia,VIC,3181,6136 Farragut Plaza,6
+2977,Australia,NSW,2760,9 7th Pass,9
+2978,Australia,VIC,3195,1 Graceland Trail,9
+2979,Australia,VIC,3163,64 Northview Pass,9
+2980,Australia,NSW,2106,0 Hayes Hill,11
+2981,Australia,NSW,2216,3 Mariners Cove Terrace,10
+2982,Australia,NSW,2199,130 Thompson Plaza,9
+2983,Australia,NSW,2036,23812 Tony Lane,8
+2984,Australia,VIC,3071,3206 Debs Point,10
+2985,Australia,NSW,2234,60 Fulton Trail,10
+2986,Australia,NSW,2066,3 Lukken Road,12
+2987,Australia,NSW,2830,424 Almo Junction,4
+2988,Australia,VIC,3429,9610 Gateway Trail,5
+2989,Australia,NSW,2138,00 Cordelia Trail,9
+2990,Australia,NSW,2763,5 Shelley Pass,8
+2991,Australia,NSW,2250,24 Old Shore Crossing,7
+2992,Australia,QLD,4212,93 Lawn Road,7
+2993,Australia,QLD,4285,09 Texas Plaza,3
+2994,Australia,QLD,4556,99 Lawn Court,7
+2995,Australia,VIC,3023,4 Loftsgordon Avenue,8
+2996,Australia,NSW,2144,0 Lakewood Street,10
+2997,Australia,NSW,2155,2 Hagan Hill,10
+2998,Australia,NSW,2470,673 Comanche Parkway,2
+2999,Australia,NSW,2166,78 Algoma Circle,8
+3000,Australia,VIC,3179,9 Swallow Avenue,9
+3001,Australia,NSW,2216,90 Loftsgordon Plaza,10
+3002,Australia,NSW,2529,921 Reinke Road,7
+3003,Australia,NSW,2478,5913 Ramsey Road,10
+3004,Australia,NSW,2560,91 Jay Drive,7
+3005,Australia,VIC,3805,72 Dennis Road,7
+3006,Australia,NSW,2767,90 Darwin Crossing,8
+3007,Australia,NSW,2096,54 Nevada Plaza,12
+3008,Australia,VIC,3250,8003 Pepper Wood Way,2
+3009,Australia,QLD,4115,399 Butterfield Crossing,7
+3010,Australia,NSW,2065,26378 Esch Junction,10
+3011,Australia,QLD,4214,2942 Swallow Trail,9
+3012,Australia,NSW,2745,7 Anzinger Drive,10
+3013,Australia,VIC,3140,885 Larry Park,9
+3014,Australia,NSW,2567,95 Sutteridge Crossing,9
+3015,Australia,NSW,2228,13 Alpine Lane,9
+3016,Australia,QLD,4870,2 Scott Pass,1
+3017,Australia,VIC,3175,7 Debra Point,4
+3018,Australia,QLD,4116,27 Schlimgen Way,8
+3019,Australia,NSW,2166,238 New Castle Alley,9
+3020,Australia,VIC,3056,010 Stuart Way,6
+3021,Australia,NSW,2155,7609 Jackson Terrace,11
+3022,Australia,NSW,2164,520 Parkside Lane,9
+3023,Australia,QLD,4510,7046 Fairview Place,3
+3024,Australia,QLD,4304,7 Scoville Trail,2
+3025,Australia,NSW,2230,31435 Eagle Crest Drive,10
+3026,Australia,NSW,2541,4 Crescent Oaks Alley,5
+3027,Australia,QLD,4305,50 7th Circle,1
+3028,Australia,QLD,4207,7 Lerdahl Court,6
+3029,Australia,VIC,3183,677 Eagan Trail,7
+3030,Australia,VIC,3079,638 Browning Terrace,6
+3031,Australia,NSW,2125,731 Haas Trail,11
+3032,Australia,NSW,2168,2 Grim Court,8
+3033,Australia,NSW,2000,01654 Milwaukee Plaza,11
+3034,Australia,QLD,4510,42 Arizona Pass,5
+3035,Australia,NSW,2763,94611 Cascade Parkway,8
+3036,Australia,NSW,2010,1 Melrose Lane,9
+3037,Australia,QLD,4211,88537 Erie Court,7
+3038,Australia,QLD,4455,5649 Crest Line Place,2
+3039,Australia,NSW,2217,05 2nd Point,8
+3040,Australia,VIC,3147,4 Jenifer Hill,12
+3041,Australia,QLD,4511,5999 Waxwing Lane,1
+3042,Australia,NSW,2761,5444 Corry Pass,8
+3043,Australia,NSW,2077,85 Northland Circle,10
+3044,Australia,VIC,3677,80302 Stang Parkway,1
+3045,Australia,VIC,3338,529 Monterey Street,3
+3046,Australia,NSW,2546,6 Westend Center,6
+3047,Australia,NSW,2010,9357 Dennis Park,11
+3048,Australia,NSW,2260,75 Hansons Alley,9
+3049,Australia,NSW,2428,274 Ludington Trail,5
+3050,Australia,QLD,4275,6 Service Parkway,3
+3051,Australia,QLD,4870,99142 Eastwood Way,6
+3052,Australia,VIC,3802,0264 Birchwood Plaza,8
+3053,Australia,NSW,2031,40 Bowman Crossing,10
+3054,Australia,NSW,2022,6354 Briar Crest Road,12
+3055,Australia,VIC,3216,83 Sunfield Hill,7
+3056,Australia,NSW,2166,44 Northridge Plaza,8
+3057,Australia,NSW,2530,11 Farragut Junction,8
+3058,Australia,QLD,4350,6 Westport Road,2
+3059,Australia,QLD,4509,922 Mccormick Circle,6
+3060,Australia,VIC,3064,9317 Mendota Parkway,8
+3061,Australia,NSW,2234,8303 Mallard Center,11
+3062,Australia,VIC,3107,4 Gateway Court,10
+3063,Australia,VIC,3806,2178 Washington Hill,6
+3064,Australia,VIC,3072,0330 Vahlen Trail,7
+3065,Australia,VIC,3551,4351 Maywood Hill,4
+3066,Australia,NSW,2220,537 Amoth Center,9
+3067,Australia,NSW,2261,23384 Kings Drive,9
+3068,Australia,NSW,2323,6269 Oak Valley Avenue,5
+3069,Australia,VIC,3132,74910 Burning Wood Junction,10
+3070,Australia,NSW,2250,6278 Old Shore Parkway,9
+3071,Australia,VIC,3068,08180 Golf Park,8
+3072,Australia,NSW,2126,1944 Charing Cross Junction,10
+3073,Australia,NSW,2099,25578 Mayfield Drive,10
+3074,Australia,NSW,2798,9 Rieder Avenue,6
+3075,Australia,NSW,2176,45201 Atwood Place,9
+3076,Australia,VIC,3939,0680 Veith Court,8
+3077,Australia,VIC,3024,53 Dunning Lane,6
+3078,Australia,NSW,2761,837 Elmside Center,8
+3079,Australia,NSW,2773,57863 Pond Avenue,9
+3080,Australia,QLD,4305,41205 Straubel Place,4
+3081,Australia,VIC,3910,52 Steensland Place,8
+3082,Australia,QLD,4116,00183 Arapahoe Pass,7
+3083,Australia,NSW,2567,233 Toban Alley,8
+3084,Australia,NSW,2760,5 Lotheville Parkway,8
+3085,Australia,QLD,4504,7 Westridge Terrace,7
+3086,Australia,VIC,3020,98978 Nevada Circle,8
+3087,Australia,VIC,3021,9503 Aberg Drive,7
+3088,Australia,QLD,4508,4 Bayside Place,4
+3089,Australia,VIC,3042,06 Lighthouse Bay Pass,9
+3090,Australia,NSW,2151,67241 Heath Way,8
+3091,Australia,VIC,3141,65620 Michigan Way,10
+3092,Australia,NSW,2290,3075 Victoria Drive,7
+3093,Australia,NSW,2170,0 Stephen Lane,5
+3094,Australia,QLD,4301,148 Marcy Pass,4
+3095,Australia,QLD,4870,5406 Mockingbird Center,7
+3096,Australia,NSW,2101,07 Loeprich Junction,11
+3097,Australia,NSW,2135,6 Kings Avenue,12
+3098,Australia,NSW,2323,9 John Wall Parkway,6
+3099,Australia,QLD,4014,32304 Larry Road,7
+3100,Australia,QLD,4118,9 Dryden Crossing,3
+3101,Australia,QLD,4017,146 Dakota Pass,7
+3102,Australia,NSW,2770,11171 Rigney Court,6
+3103,Australia,QLD,4818,2 Vidon Center,3
+3104,Australia,QLD,4670,1742 Scott Center,2
+3105,Australia,NSW,2170,451 Luster Hill,9
+3106,Australia,QLD,4305,03287 Hallows Center,3
+3107,Australia,NSW,2112,7208 Old Gate Avenue,11
+3108,Australia,VIC,3162,944 Becker Road,11
+3109,Australia,NSW,2194,904 Doe Crossing Terrace,7
+3110,Australia,NSW,2620,7285 Waxwing Pass,5
+3111,Australia,VIC,3805,3538 Bunting Hill,7
+3112,Australia,VIC,3156,979 Victoria Junction,8
+3113,Australia,VIC,3805,073 Fremont Alley,7
+3114,Australia,QLD,4152,81183 Maple Wood Plaza,8
+3115,Australia,QLD,4118,6620 Elmside Drive,9
+3116,Australia,NSW,2196,4 Shopko Circle,5
+3117,Australia,NSW,2304,969 Sycamore Point,7
+3118,Australia,NSW,2763,96073 Erie Place,9
+3119,Australia,NSW,2195,6915 Nobel Crossing,6
+3120,Australia,NSW,2560,32 Elmside Point,6
+3121,Australia,NSW,2500,54294 Hovde Court,8
+3122,Australia,VIC,3048,98 Grover Street,5
+3123,Australia,VIC,3048,4753 Sheridan Center,6
+3124,Australia,VIC,3620,6958 Knutson Pass,1
+3125,Australia,QLD,4702,0 Stephen Park,2
+3126,Australia,QLD,4503,3126 Bayside Hill,4
+3127,Australia,VIC,3149,98202 Holmberg Way,10
+3128,Australia,NSW,2502,33794 Sommers Crossing,6
+3129,Australia,NSW,2566,21 2nd Pass,8
+3130,Australia,NSW,2880,981 Kinsman Crossing,1
+3131,Australia,NSW,2096,1617 Harper Parkway,10
+3132,Australia,NSW,2250,73907 Fallview Point,7
+3133,Australia,VIC,3195,99 Linden Trail,8
+3134,Australia,NSW,2226,409 Bobwhite Road,10
+3135,Australia,VIC,3024,24712 Hazelcrest Lane,7
+3136,Australia,NSW,2040,3 Canary Center,10
+3137,Australia,QLD,4151,5310 Mosinee Crossing,9
+3138,Australia,NSW,2036,13 Basil Lane,9
+3139,Australia,VIC,3000,332 Summerview Park,8
+3140,Australia,VIC,3807,7435 Monument Road,9
+3141,Australia,NSW,2010,3 Cody Trail,7
+3142,Australia,NSW,2428,07084 Mallory Center,5
+3143,Australia,VIC,3199,502 John Wall Pass,7
+3144,Australia,NSW,2519,90880 Donald Lane,9
+3145,Australia,VIC,3141,48007 Lakewood Hill,10
+3146,Australia,NSW,2220,039 Havey Alley,9
+3147,Australia,QLD,4055,32798 Melby Center,8
+3148,Australia,QLD,4034,0250 Onsgard Center,7
+3149,Australia,NSW,2200,121 Anniversary Lane,9
+3150,Australia,NSW,2021,0 Warrior Alley,10
+3151,Australia,NSW,2486,5323 Chive Avenue,7
+3152,Australia,NSW,2565,63663 Darwin Crossing,10
+3153,Australia,NSW,2454,16 Hansons Hill,7
+3154,Australia,QLD,4170,64 Quincy Alley,9
+3155,Australia,VIC,3201,541 Ramsey Alley,7
+3156,Australia,NSW,2224,9890 Macpherson Drive,10
+3157,Australia,VIC,3138,40 Erie Plaza,9
+3158,Australia,NSW,2121,8 Clarendon Circle,11
+3159,Australia,NSW,2151,55152 Delaware Park,10
+3160,Australia,NSW,2166,09 Mitchell Terrace,9
+3161,Australia,NSW,2745,49956 Hovde Crossing,9
+3162,Australia,NSW,2017,1 Glacier Hill Parkway,8
+3163,Australia,VIC,3155,4527 Farmco Place,8
+3164,Australia,QLD,4215,88 Rutledge Crossing,7
+3165,Australia,VIC,3027,398 Butternut Place,7
+3166,Australia,VIC,3138,13 Marcy Alley,8
+3167,Australia,NSW,2326,62 John Wall Lane,1
+3168,Australia,QLD,4655,2346 Dawn Terrace,3
+3169,Australia,VIC,3690,8 Erie Center,2
+3170,Australia,NSW,2040,040 Brown Trail,12
+3171,Australia,VIC,3072,94850 Moland Street,9
+3172,Australia,VIC,3756,3 Tomscot Place,4
+3173,Australia,NSW,2085,06 Kipling Circle,10
+3174,Australia,QLD,4161,9632 Katie Avenue,7
+3175,Australia,NSW,2756,390 Wayridge Plaza,9
+3176,Australia,NSW,2147,55 Gateway Trail,9
+3177,Australia,NSW,2642,26 Randy Road,2
+3178,Australia,NSW,2074,31435 Surrey Court,11
+3179,Australia,VIC,3165,9200 Continental Center,10
+3180,Australia,NSW,2196,696 Harbort Junction,10
+3181,Australia,NSW,2320,71 Hayes Circle,7
+3182,Australia,VIC,3173,6 Michigan Park,9
+3183,Australia,NSW,2150,6735 Katie Way,7
+3184,Australia,VIC,3085,7 Kingsford Parkway,9
+3185,Australia,QLD,4205,69 Huxley Lane,3
+3186,Australia,VIC,3936,10 Hauk Point,9
+3187,Australia,QLD,4280,1 Jenifer Court,4
+3188,Australia,VIC,3995,2 Gateway Drive,2
+3189,Australia,NSW,2519,081 Oakridge Street,10
+3190,Australia,QLD,4870,40252 Springs Park,9
+3191,Australia,NSW,2077,6590 Fremont Avenue,8
+3192,Australia,VIC,3977,972 Lake View Terrace,7
+3193,Australia,NSW,2031,8 Havey Alley,8
+3194,Australia,VIC,3796,05600 Lien Plaza,8
+3195,Australia,QLD,4208,08 Roth Hill,7
+3196,Australia,QLD,4130,842 Texas Crossing,7
+3197,Australia,NSW,2767,020 Bartillon Park,8
+3198,Australia,NSW,2071,778 7th Parkway,9
+3199,Australia,QLD,4122,60595 Northport Court,8
+3200,Australia,QLD,4022,220 American Ash Road,6
+3201,Australia,NSW,2153,378 Maple Pass,10
+3202,Australia,NSW,2075,41141 Cascade Hill,9
+3203,Australia,NSW,2821,66 Sunfield Road,1
+3204,Australia,VIC,3620,43 South Pass,2
+3205,Australia,QLD,4053,182 Homewood Plaza,7
+3206,Australia,VIC,3024,96 Hermina Terrace,5
+3207,Australia,VIC,3083,68486 Anderson Alley,8
+3208,Australia,NSW,2065,4 Farragut Center,12
+3209,Australia,VIC,3079,7858 Sauthoff Crossing,11
+3210,Australia,QLD,4869,050 Monterey Street,3
+3211,Australia,NSW,2122,743 Karstens Point,11
+3212,Australia,QLD,4390,26710 Express Trail,7
+3213,Australia,NSW,2122,17 Nevada Drive,11
+3214,Australia,QLD,4503,8200 Dapin Drive,4
+3215,Australia,NSW,2477,423 Mcbride Place,7
+3216,Australia,NSW,2029,580 Blaine Center,10
+3217,Australia,QLD,4055,11 Crescent Oaks Junction,8
+3218,Australia,QLD,4030,7198 Rowland Street,9
+3219,Australia,NSW,2021,93723 Old Gate Hill,9
+3220,Australia,VIC,3083,50506 Buhler Terrace,8
+3221,Australia,NSW,2154,5 Iowa Road,11
+3222,Australia,VIC,3977,97 Sunnyside Junction,7
+3223,Australia,VIC,3108,37363 Morning Park,7
+3224,Australia,NSW,2880,751 Cordelia Terrace,1
+3225,Australia,VIC,3012,2 Del Sol Circle,1
+3226,Australia,VIC,3029,864 Scoville Plaza,5
+3227,Australia,VIC,3085,7 Bayside Point,8
+3228,Australia,VIC,3070,78258 Hanover Plaza,10
+3229,Australia,VIC,3023,44 Service Alley,7
+3230,Australia,VIC,3141,12 Quincy Lane,8
+3231,Australia,VIC,3169,322 Garrison Way,9
+3232,Australia,VIC,3199,1 Roth Pass,4
+3233,Australia,NSW,2527,225 Dexter Crossing,8
+3234,Australia,NSW,2306,8 Rockefeller Lane,4
+3235,Australia,VIC,3793,9 Dixon Crossing,7
+3236,Australia,NSW,2760,3 Pepper Wood Point,8
+3237,Australia,QLD,4011,7574 Onsgard Drive,7
+3238,Australia,VIC,3168,683 Scoville Park,8
+3239,Australia,VIC,3915,11 Erie Hill,7
+3240,Australia,VIC,3083,655 Chive Pass,9
+3241,Australia,NSW,2145,623 Carberry Way,8
+3242,Australia,QLD,4007,9 Nevada Pass,12
+3243,Australia,VIC,3350,3897 Oxford Pass,5
+3244,Australia,VIC,3029,9468 Vidon Way,7
+3245,Australia,NSW,2325,49 Surrey Pass,4
+3246,Australia,QLD,4300,7 Holy Cross Lane,5
+3247,Australia,NSW,2193,11 Mifflin Junction,10
+3248,Australia,NSW,2089,21498 Springs Point,12
+3249,Australia,NSW,2170,888 Warrior Avenue,8
+3250,Australia,QLD,4701,50602 Katie Lane,6
+3251,Australia,VIC,3128,463 Merry Center,10
+3252,Australia,QLD,4031,7798 Westport Trail,9
+3253,Australia,NSW,2322,6416 Grover Street,7
+3254,Australia,NSW,2093,5 Stone Corner Parkway,9
+3255,Australia,QLD,4740,12357 Arapahoe Parkway,3
+3256,Australia,QLD,4075,056 Petterle Drive,4
+3257,Australia,NSW,2745,4591 Del Sol Court,8
+3258,Australia,QLD,4221,2558 Morningstar Center,8
+3259,Australia,NSW,2135,15566 Waxwing Place,9
+3260,Australia,NSW,2204,8 Marquette Court,11
+3261,Australia,VIC,3038,7 Pepper Wood Crossing,8
+3262,Australia,NSW,2095,3 Myrtle Pass,12
+3263,Australia,NSW,2869,04449 Drewry Junction,4
+3264,Australia,VIC,3175,14860 Clove Drive,5
+3265,Australia,NSW,2170,65973 Morrow Alley,9
+3266,Australia,VIC,3068,54 Bonner Drive,10
+3267,Australia,NSW,2226,563 Sundown Point,10
+3268,Australia,VIC,3616,1 Toban Crossing,3
+3269,Australia,VIC,3175,8551 Mayfield Court,12
+3270,Australia,NSW,2120,6030 South Drive,10
+3271,Australia,NSW,2074,7917 Norway Maple Way,11
+3272,Australia,QLD,4750,5 Coolidge Avenue,2
+3273,Australia,NSW,2021,9398 Declaration Circle,7
+3274,Australia,QLD,4105,31601 Birchwood Court,8
+3275,Australia,NSW,2170,07803 Dexter Pass,9
+3276,Australia,NSW,2113,9 Hallows Circle,11
+3277,Australia,QLD,4350,5718 John Wall Plaza,1
+3278,Australia,NSW,2099,011 Lotheville Junction,10
+3279,Australia,NSW,2759,60 Cordelia Parkway,8
+3280,Australia,VIC,3057,34748 Charing Cross Point,10
+3281,Australia,VIC,3059,2094 Bunting Junction,9
+3282,Australia,VIC,3977,1 Fairview Park,7
+3283,Australia,NSW,2086,4380 Rusk Terrace,11
+3284,Australia,NSW,2770,6 Cascade Trail,9
+3285,Australia,NSW,2075,8107 Coolidge Pass,12
+3286,Australia,VIC,3153,4171 Beilfuss Street,8
+3287,Australia,NSW,2113,48333 Waywood Road,11
+3288,Australia,NSW,2042,6 Golf Center,10
+3289,Australia,NSW,2130,5847 Bunting Alley,11
+3290,Australia,VIC,3350,9 Fisk Point,4
+3291,Australia,VIC,3810,133 Quincy Avenue,4
+3292,Australia,NSW,2154,85 Carioca Drive,11
+3293,Australia,VIC,3213,50 Declaration Junction,6
+3294,Australia,VIC,3064,3 Maple Place,7
+3295,Australia,VIC,3153,402 Clyde Gallagher Terrace,6
+3296,Australia,NSW,2176,08 Upham Place,9
+3297,Australia,NSW,2280,6039 Columbus Court,8
+3298,Australia,NSW,2017,6406 Parkside Hill,9
+3299,Australia,VIC,3130,5 Larry Terrace,10
+3300,Australia,QLD,4122,0 Sachs Circle,8
+3301,Australia,NSW,2204,873 Ludington Plaza,10
+3302,Australia,NSW,2170,518 Donald Street,9
+3303,Australia,QLD,4740,1172 Mesta Center,2
+3304,Australia,NSW,2062,7216 American Ash Place,12
+3305,Australia,QLD,4124,24965 Mitchell Center,6
+3306,Australia,NSW,2295,43 Eagle Crest Parkway,8
+3307,Australia,QLD,4343,4 Tomscot Alley,7
+3308,Australia,QLD,4505,83 Graedel Court,2
+3309,Australia,NSW,2768,81 Westerfield Point,10
+3310,Australia,NSW,2200,257 Ruskin Crossing,10
+3311,Australia,VIC,3862,6 North Court,7
+3312,Australia,NSW,2010,59 Coolidge Hill,9
+3313,Australia,VIC,3137,64 Nancy Plaza,7
+3314,Australia,NSW,2880,2 Donald Crossing,1
+3315,Australia,VIC,3029,88389 Schiller Drive,7
+3316,Australia,VIC,3109,88 Michigan Junction,10
+3317,Australia,NSW,2042,6 Ludington Place,11
+3318,Australia,NSW,2094,624 Harper Way,10
+3319,Australia,QLD,4213,15991 Saint Paul Road,7
+3320,Australia,VIC,3155,4 Mayfield Center,9
+3321,Australia,NSW,2870,0421 Anthes Court,2
+3322,Australia,NSW,2763,18118 Maple Wood Crossing,9
+3323,Australia,VIC,3337,973 Menomonie Hill,4
+3324,Australia,QLD,4300,282 Monterey Circle,6
+3325,Australia,NSW,2770,14 Warbler Hill,8
+3326,Australia,NSW,2030,75106 Oriole Junction,12
+3327,Australia,VIC,3219,11 Hermina Junction,3
+3328,Australia,NSW,2220,42 Oxford Circle,11
+3329,Australia,NSW,2020,1520 Summerview Road,10
+3330,Australia,NSW,2000,54 Hermina Road,12
+3331,Australia,QLD,4820,3732 Linden Avenue,1
+3332,Australia,QLD,4820,6043 Badeau Place,1
+3333,Australia,QLD,4209,6933 Leroy Parkway,4
+3334,Australia,NSW,2775,2 Homewood Center,6
+3335,Australia,VIC,3610,38 Jackson Lane,3
+3336,Australia,NSW,2107,322 Namekagon Trail,11
+3337,Australia,NSW,2030,411 Anthes Circle,12
+3338,Australia,NSW,2281,6956 Clyde Gallagher Park,9
+3339,Australia,VIC,3228,12061 Rowland Alley,8
+3340,Australia,NSW,2093,21230 Tomscot Lane,12
+3341,Australia,QLD,4370,7 Clemons Drive,2
+3342,Australia,QLD,4300,7353 Thierer Road,2
+3343,Australia,VIC,3071,75 Logan Place,10
+3344,Australia,NSW,2880,8530 Darwin Street,1
+3345,Australia,VIC,3196,9 Brown Pass,9
+3346,Australia,NSW,2200,736 Ohio Court,10
+3347,Australia,QLD,4214,17 Springs Center,7
+3348,Australia,VIC,3056,29863 Waxwing Court,5
+3349,Australia,NSW,2205,9229 Division Park,8
+3350,Australia,VIC,3161,88 Morningstar Pass,10
+3351,Australia,QLD,4102,45 Talisman Pass,4
+3352,Australia,VIC,3121,73 Burrows Court,8
+3353,Australia,QLD,4207,5 Sachs Terrace,4
+3354,Australia,NSW,2160,2170 Schiller Alley,9
+3355,Australia,VIC,3181,20 Alpine Circle,7
+3356,Australia,NSW,2173,435 Kennedy Circle,10
+3357,Australia,NSW,2176,7330 Helena Pass,9
+3358,Australia,QLD,4154,2 Lillian Alley,9
+3359,Australia,QLD,4825,8 Village Street,5
+3360,Australia,NSW,2300,62551 Del Mar Avenue,6
+3361,Australia,NSW,2766,297 Kinsman Park,9
+3362,Australia,NSW,2144,63493 Erie Place,7
+3363,Australia,VIC,3677,3 Weeping Birch Plaza,2
+3364,Australia,NSW,2564,2 Roxbury Place,8
+3365,Australia,QLD,4670,7234 Dawn Alley,1
+3366,Australia,NSW,2076,01 Nevada Alley,12
+3367,Australia,QLD,4165,805 Division Plaza,4
+3368,Australia,NSW,2047,42554 Randy Road,12
+3369,Australia,NSW,2060,25460 Buell Avenue,10
+3370,Australia,NSW,2160,000 Boyd Center,8
+3371,Australia,NSW,2216,2782 Stephen Trail,10
+3372,Australia,NSW,2121,7 Charing Cross Hill,9
+3373,Australia,QLD,4213,08 Arapahoe Alley,9
+3374,Australia,VIC,3082,158 Utah Court,8
+3375,Australia,VIC,3146,00 Magdeline Way,11
+3376,Australia,VIC,3977,2 Roxbury Pass,5
+3377,Australia,VIC,3799,602 Haas Drive,3
+3378,Australia,VIC,3129,40 Sauthoff Circle,10
+3379,Australia,VIC,3786,48 Rockefeller Court,8
+3380,Australia,QLD,4061,59504 Drewry Park,8
+3381,Australia,NSW,2088,31 Dovetail Trail,9
+3382,Australia,NSW,2705,367 Talmadge Way,1
+3383,Australia,NSW,2261,513 Hauk Street,9
+3384,Australia,NSW,2291,72728 Ruskin Way,6
+3385,Australia,VIC,3134,024 Onsgard Alley,9
+3386,Australia,VIC,3196,10097 Hooker Way,8
+3387,Australia,VIC,3021,312 Swallow Place,7
+3388,Australia,NSW,2131,28 Superior Center,11
+3389,Australia,NSW,2093,0 Weeping Birch Plaza,12
+3390,Australia,NSW,2019,06 Northwestern Center,10
+3391,Australia,VIC,3174,01716 2nd Terrace,8
+3392,Australia,NSW,2191,0162 Grim Circle,10
+3393,Australia,QLD,4055,7 Eggendart Hill,8
+3394,Australia,NSW,2147,375 Luster Parkway,9
+3395,Australia,NSW,2120,2 Monterey Terrace,9
+3396,Australia,VIC,3205,851 Meadow Valley Place,10
+3397,Australia,NSW,2142,6851 Orin Parkway,10
+3398,Australia,NSW,2880,73 Glacier Hill Drive,1
+3399,Australia,VIC,3028,59364 Huxley Drive,5
+3400,Australia,NSW,2100,91 Charing Cross Way,11
+3401,Australia,QLD,4014,80269 Southridge Park,6
+3402,Australia,NSW,2096,5 Northland Plaza,9
+3403,Australia,VIC,3015,02181 Starling Trail,10
+3404,Australia,QLD,4178,097 Gulseth Lane,8
+3405,Australia,QLD,4870,0 Ronald Regan Way,1
+3406,Australia,NSW,2049,1351 Lunder Road,10
+3407,Australia,VIC,3029,7181 Dakota Trail,5
+3408,Australia,NSW,2217,5767 Thierer Road,8
+3409,Australia,NSW,2160,687 Almo Crossing,10
+3410,Australia,NSW,2539,31414 Superior Park,7
+3411,Australia,NSW,2285,1 Village Green Circle,7
+3412,Australia,VIC,3155,2 Starling Pass,7
+3413,Australia,VIC,3131,182 Thierer Pass,12
+3414,Australia,NSW,2713,7 Barnett Road,1
+3415,Australia,QLD,4125,33792 Burrows Plaza,7
+3416,Australia,QLD,4118,00283 Loftsgordon Center,5
+3417,Australia,NSW,2226,8 Garrison Trail,10
+3418,Australia,NSW,2155,618 Chinook Way,10
+3419,Australia,VIC,3094,9 Ronald Regan Center,9
+3420,Australia,VIC,3806,40047 Twin Pines Parkway,8
+3421,Australia,VIC,3122,5 Anhalt Court,7
+3422,Australia,NSW,2750,3047 Spenser Pass,8
+3423,Australia,NSW,2226,0 Walton Court,9
+3424,Australia,NSW,2850,5356 Ruskin Place,3
+3425,Australia,NSW,2820,321 Glendale Center,1
+3426,Australia,NSW,2060,6414 Hanover Avenue,12
+3427,Australia,VIC,3500,373 Cordelia Trail,1
+3428,Australia,QLD,4173,31 International Pass,7
+3429,Australia,VIC,3174,82 Warrior Hill,8
+3430,Australia,VIC,3149,989 Waubesa Circle,11
+3431,Australia,QLD,4301,400 Petterle Crossing,3
+3432,Australia,NSW,2153,34 Calypso Court,10
+3433,Australia,VIC,3073,7 Summerview Parkway,6
+3434,Australia,NSW,2830,9479 Tony Junction,7
+3435,Australia,VIC,3037,05988 Sundown Parkway,8
+3436,Australia,NSW,2221,04036 Kennedy Trail,12
+3437,Australia,VIC,3034,0 Reinke Lane,9
+3438,Australia,NSW,2295,1 Rigney Circle,8
+3439,Australia,NSW,2380,0063 Walton Junction,3
+3440,Australia,VIC,3043,672 Crowley Place,8
+3441,Australia,VIC,3352,59531 Barnett Pass,4
+3442,Australia,QLD,4868,8 Becker Drive,4
+3443,Australia,VIC,3021,82591 Fallview Hill,8
+3444,Australia,NSW,2147,6691 Lindbergh Drive,9
+3445,Australia,NSW,2120,29279 Hazelcrest Junction,10
+3446,Australia,QLD,4207,21 Sugar Place,3
+3447,Australia,NSW,2340,4233 Service Avenue,5
+3448,Australia,NSW,2210,46 Stone Corner Avenue,10
+3449,Australia,QLD,4272,12 Kings Hill,9
+3450,Australia,QLD,4151,393 Dexter Junction,9
+3451,Australia,QLD,4670,757 Debs Avenue,4
+3452,Australia,NSW,2154,613 Emmet Junction,11
+3453,Australia,VIC,3226,8828 North Crossing,8
+3454,Australia,NSW,2096,7 Center Circle,9
+3455,Australia,QLD,4113,654 Logan Plaza,10
+3456,Australia,VIC,3051,33 Almo Terrace,10
+3457,Australia,NSW,2196,6 Reindahl Hill,9
+3458,Australia,VIC,3634,785 Crest Line Hill,1
+3459,Australia,NSW,2027,78 Bowman Court,11
+3460,Australia,NSW,2076,7 Jackson Court,10
+3461,Australia,NSW,2095,6221 Monica Plaza,12
+3462,Australia,VIC,3079,6 4th Lane,11
+3463,Australia,QLD,4350,682 Claremont Circle,6
+3464,Australia,NSW,2230,7 Weeping Birch Alley,12
+3465,Australia,QLD,4304,9 Maywood Point,3
+3466,Australia,VIC,3121,176 Sutteridge Alley,11
+3467,Australia,NSW,2230,6814 Haas Place,7
+3468,Australia,NSW,2640,75 Longview Terrace,3
+3469,Australia,VIC,3803,7279 Steensland Circle,7
+3470,Australia,QLD,4515,06 Lake View Plaza,1
+3471,Australia,NSW,2153,1 Michigan Way,10
+3472,Australia,NSW,2101,8863 Maywood Court,11
+3473,Australia,NSW,2261,3 Roxbury Street,7
+3474,Australia,NSW,2880,90 Westerfield Street,1
+3475,Australia,VIC,3095,416 Hayes Trail,9
+3476,Australia,NSW,2300,70980 Washington Parkway,10
+3477,Australia,VIC,3223,00 1st Trail,7
+3478,Australia,QLD,4069,54613 Service Court,8
+3479,Australia,QLD,4216,93 Vera Parkway,5
+3480,Australia,QLD,4519,3 Butterfield Trail,6
+3481,Australia,NSW,2620,22976 Moose Place,8
+3482,Australia,NSW,2548,8934 Havey Plaza,8
+3483,Australia,VIC,3146,30011 Manufacturers Hill,9
+3484,Australia,NSW,2136,42293 Banding Plaza,10
+3485,Australia,NSW,2099,62 Tennyson Way,11
+3486,Australia,NSW,2126,3609 Shelley Road,10
+3487,Australia,VIC,3195,82 Dahle Crossing,10
+3488,Australia,VIC,3021,2986 Holmberg Circle,9
+3489,Australia,NSW,2090,3 Monument Crossing,10
+3490,Australia,NSW,2033,35 Chive Alley,10
+3491,Australia,NSW,2767,1 Dayton Park,9
+3492,Australia,NSW,2171,2565 Caliangt Point,9
+3493,Australia,VIC,3976,96 Delladonna Trail,5
+3494,Australia,VIC,3012,3 Nova Point,4
+3495,Australia,QLD,4073,310 Stephen Terrace,9
+3496,Australia,NSW,2100,9491 Green Ridge Terrace,10
+3497,Australia,NSW,2119,16 Carberry Pass,11
+3498,Australia,NSW,2155,12 Elgar Place,10
+3499,Australia,NSW,2122,8749 Menomonie Point,11
+3500,Australia,VIC,3195,18072 American Parkway,10
+3501,Australia,NSW,2022,5854 Weeping Birch Avenue,10
+3502,Australia,NSW,2194,2 Clarendon Point,7
+3503,Australia,VIC,3555,88979 Hazelcrest Way,3
+3504,Australia,VIC,3195,7555 Springview Crossing,10
+3505,Australia,VIC,3031,04240 Prentice Plaza,9
+3506,Australia,NSW,2700,35280 Harper Junction,2
+3507,Australia,VIC,3340,08479 Hazelcrest Street,4
+3508,Australia,NSW,2019,70 Oakridge Pass,10
+3509,Australia,NSW,2035,56873 Buena Vista Crossing,9
+3510,Australia,VIC,3155,7 Rieder Street,7
+3511,Australia,QLD,4825,3528 Granby Circle,5
+3512,Australia,NSW,2152,16 Vahlen Trail,10
+3513,Australia,QLD,4121,977 Arapahoe Trail,8
+3514,Australia,NSW,2211,31331 Old Shore Crossing,8
+3515,Australia,NSW,2470,51757 Weeping Birch Center,5
+3516,Australia,NSW,2071,25 Schurz Avenue,12
+3517,Australia,NSW,2101,92045 Magdeline Street,11
+3518,Australia,NSW,2095,0129 Hollow Ridge Crossing,11
+3519,Australia,NSW,2194,56 Anderson Alley,10
+3520,Australia,NSW,2471,528 Golf View Plaza,2
+3521,Australia,QLD,4812,474 Farragut Way,3
+3522,Australia,NSW,2774,1 Schiller Place,9
+3523,Australia,VIC,3123,55497 Warrior Alley,9
+3524,Australia,NSW,2145,6 Moulton Point,10
+3525,Australia,NSW,2294,6 Rockefeller Lane,7
+3526,Australia,NSW,2007,05759 Ridge Oak Trail,8
+3527,Australia,NSW,2147,75 Grim Circle,10
+3528,Australia,VIC,3978,88 Bunting Hill,6
+3529,Australia,NSW,2705,7547 Garrison Alley,5
+3530,Australia,VIC,3305,3605 Vidon Hill,1
+3531,Australia,NSW,2575,0485 Petterle Terrace,6
+3532,Australia,VIC,3072,97461 Drewry Trail,10
+3533,Australia,NSW,2250,6736 Anthes Junction,7
+3534,Australia,NSW,2198,9 Tennyson Center,9
+3535,Australia,QLD,4509,9594 Brown Junction,7
+3536,Australia,QLD,4061,64 Macpherson Junction,8
+3537,Australia,NSW,2136,0 Heath Point,9
+3538,Australia,QLD,4670,1 Chive Trail,2
+3539,Australia,QLD,4304,34976 Lindbergh Hill,4
+3540,Australia,QLD,4350,266 Little Fleur Street,4
+3541,Australia,VIC,3046,005 Bunker Hill Lane,9
+3542,Australia,NSW,2097,792 Maple Trail,12
+3543,Australia,VIC,3065,71 Moulton Drive,10
+3544,Australia,VIC,3023,033 Maryland Plaza,8
+3545,Australia,NSW,2508,360 Green Ridge Junction,9
+3546,Australia,NSW,2745,870 Bluestem Hill,8
+3547,Australia,QLD,4680,392 Grim Pass,6
+3548,Australia,NSW,2778,38792 Calypso Crossing,7
+3549,Australia,VIC,3125,92 Mallard Court,10
+3550,Australia,NSW,2101,37 Summerview Park,11
+3551,Australia,NSW,2076,3 Shasta Way,12
+3552,Australia,VIC,3182,45 Redwing Road,12
+3553,Australia,QLD,4730,41 Northridge Road,4
+3554,Australia,QLD,4155,459 Meadow Valley Junction,10
+3555,Australia,QLD,4215,276 Coolidge Plaza,7
+3556,Australia,QLD,4505,4 Dexter Park,2
+3557,Australia,QLD,4000,0800 Donald Hill,7
+3558,Australia,NSW,2204,4301 Haas Junction,9
+3559,Australia,QLD,4074,0185 Fremont Alley,7
+3560,Australia,NSW,2065,85476 Shasta Park,12
+3561,Australia,NSW,2072,4888 Hoepker Plaza,12
+3562,Australia,NSW,2570,77 Green Court,9
+3563,Australia,QLD,4225,22344 Reinke Pass,5
+3564,Australia,QLD,4179,588 Menomonie Way,9
+3565,Australia,NSW,2566,3 Becker Drive,8
+3566,Australia,VIC,3564,663 Sunfield Court,2
+3567,Australia,VIC,3556,010 Maryland Court,2
+3568,Australia,NSW,2570,53504 Dakota Terrace,8
+3569,Australia,QLD,4208,681 Ridgeway Junction,7
+3570,Australia,QLD,4508,225 American Point,3
+3571,Australia,NSW,2795,79 Moland Junction,4
+3572,Australia,NSW,2799,9004 Wayridge Drive,4
+3573,Australia,QLD,4007,505 Village Pass,4
+3574,Australia,NSW,2177,57 Thierer Parkway,9
+3575,Australia,NSW,2565,91 Roth Pass,6
+3576,Australia,VIC,3216,4605 Lakewood Gardens Terrace,7
+3577,Australia,VIC,3805,16334 Rutledge Trail,9
+3578,Australia,NSW,2155,878 Cody Point,10
+3579,Australia,NSW,2155,66028 Randy Terrace,10
+3580,Australia,QLD,4128,78478 Pond Road,7
+3581,Australia,VIC,3103,062 Dixon Parkway,12
+3582,Australia,NSW,2196,344 Delladonna Place,10
+3583,Australia,NSW,2763,53 Union Terrace,8
+3584,Australia,NSW,2260,33221 Maple Wood Place,10
+3585,Australia,QLD,4575,1 Esker Pass,8
+3586,Australia,NSW,2065,9 Clyde Gallagher Junction,11
+3587,Australia,NSW,2346,5699 Forster Street,2
+3588,Australia,QLD,4715,94543 Northwestern Court,6
+3589,Australia,VIC,3174,6 Continental Alley,8
+3590,Australia,VIC,3121,89 Dapin Terrace,10
+3591,Australia,NSW,2768,38834 Manufacturers Hill,10
+3592,Australia,VIC,3183,0186 Thackeray Center,11
+3593,Australia,NSW,2283,15980 Fairview Drive,7
+3594,Australia,NSW,2429,2 Waxwing Terrace,2
+3595,Australia,NSW,2065,358 Ronald Regan Point,12
+3596,Australia,VIC,3752,4386 Spaight Court,8
+3597,Australia,NSW,2558,73 Hallows Circle,7
+3598,Australia,NSW,2548,1585 Summer Ridge Alley,6
+3599,Australia,NSW,2830,29585 Weeping Birch Avenue,2
+3600,Australia,NSW,2560,4 Macpherson Drive,8
+3601,Australia,QLD,4555,75132 Portage Point,7
+3602,Australia,VIC,3199,90969 Talmadge Place,7
+3603,Australia,NSW,2049,88 Ilene Crossing,11
+3604,Australia,NSW,2038,154 Heffernan Trail,10
+3605,Australia,NSW,2233,4534 Stone Corner Terrace,9
+3606,Australia,VIC,3133,9 Declaration Crossing,10
+3607,Australia,QLD,4211,2 Homewood Pass,8
+3608,Australia,VIC,3127,8279 Golf View Center,12
+3609,Australia,VIC,3030,65769 Hoard Plaza,7
+3610,Australia,NSW,2759,2 Havey Point,8
+3611,Australia,QLD,4165,8582 Morrow Pass,7
+3612,Australia,VIC,3064,4643 Cambridge Circle,6
+3613,Australia,NSW,2193,2 Armistice Parkway,10
+3614,Australia,VIC,3146,23301 Bluestem Drive,8
+3615,Australia,NSW,2753,6764 Commercial Avenue,8
+3616,Australia,QLD,4306,56747 Monument Avenue,8
+3617,Australia,NSW,2650,8 Harper Center,3
+3618,Australia,NSW,2000,422 Valley Edge Pass,10
+3619,Australia,NSW,2830,8651 Graceland Way,1
+3620,Australia,NSW,2322,6 Nobel Way,4
+3621,Australia,NSW,2322,3 Burning Wood Pass,4
+3622,Australia,NSW,2763,4 Westridge Circle,8
+3623,Australia,NSW,2217,9284 Randy Alley,9
+3624,Australia,NSW,2768,56 Sullivan Crossing,9
+3625,Australia,NSW,2810,3 Westridge Avenue,5
+3626,Australia,NSW,2151,3 Florence Drive,10
+3627,Australia,QLD,4035,897 Forest Dale Terrace,8
+3628,Australia,VIC,3805,91215 Doe Crossing Avenue,7
+3629,Australia,NSW,2132,38834 Green Center,11
+3630,Australia,NSW,2759,678 Monterey Center,8
+3631,Australia,NSW,2145,1 Park Meadow Drive,9
+3632,Australia,QLD,4343,58 Hoepker Center,2
+3633,Australia,NSW,2766,6415 4th Alley,8
+3634,Australia,NSW,2087,5558 Northport Point,11
+3635,Australia,NSW,2036,71 Manley Way,7
+3636,Australia,NSW,2502,6201 Schiller Drive,6
+3637,Australia,NSW,2190,5339 Paget Plaza,10
+3638,Australia,NSW,2800,26138 Katie Point,4
+3639,Australia,VIC,3012,686 Scoville Drive,5
+3640,Australia,NSW,2018,41 Bay Pass,10
+3641,Australia,VIC,3212,155 Sunfield Way,2
+3642,Australia,VIC,3350,2809 Anderson Lane,3
+3643,Australia,QLD,4216,4 Barby Point,8
+3644,Australia,VIC,3040,73 Eagan Hill,10
+3645,Australia,NSW,2229,11 Ryan Hill,9
+3646,Australia,NSW,2045,6 Eliot Parkway,12
+3647,Australia,NSW,2220,4962 Wayridge Road,12
+3648,Australia,NSW,2480,9 Jenifer Avenue,4
+3649,Australia,QLD,4064,7 Macpherson Way,9
+3650,Australia,NSW,2024,5437 Oak Alley,10
+3651,Australia,QLD,4508,13854 Artisan Avenue,3
+3652,Australia,NSW,2064,7415 Schlimgen Drive,9
+3653,Australia,QLD,4211,249 Merchant Terrace,7
+3654,Australia,VIC,3101,379 Scofield Pass,8
+3655,Australia,QLD,4076,6 Michigan Lane,3
+3656,Australia,NSW,2205,31 Packers Pass,10
+3657,Australia,NSW,2759,772 Superior Street,8
+3658,Australia,VIC,3930,15093 Hallows Pass,9
+3659,Australia,VIC,3101,954 Reinke Park,12
+3660,Australia,NSW,2768,11879 Surrey Court,9
+3661,Australia,VIC,3380,7730 Oakridge Trail,1
+3662,Australia,VIC,3030,91051 Cordelia Circle,7
+3663,Australia,VIC,3073,32 Larry Way,10
+3664,Australia,NSW,2261,3173 Park Meadow Park,5
+3665,Australia,NSW,2486,427 Talmadge Terrace,8
+3666,Australia,QLD,4211,587 Rieder Court,8
+3667,Australia,NSW,2152,34775 Melrose Road,10
+3668,Australia,NSW,2745,61 Kennedy Park,10
+3669,Australia,VIC,3041,1 Upham Crossing,3
+3670,Australia,VIC,3216,106 Donald Way,4
+3671,Australia,QLD,4511,3397 Ronald Regan Plaza,5
+3672,Australia,NSW,2031,2615 Declaration Court,12
+3673,Australia,NSW,2176,900 Straubel Hill,10
+3674,Australia,NSW,2176,4314 Ridgeview Court,9
+3675,Australia,NSW,2320,6001 Calypso Park,5
+3676,Australia,QLD,4500,31 Declaration Drive,5
+3677,Australia,NSW,2089,8 Grover Parkway,10
+3678,Australia,QLD,4306,7 Killdeer Junction,3
+3679,Australia,NSW,2066,30122 Union Plaza,9
+3680,Australia,VIC,3321,81 Carpenter Terrace,3
+3681,Australia,NSW,2011,46 Hollow Ridge Way,11
+3682,Australia,VIC,3161,6468 West Park,6
+3683,Australia,NSW,2133,2 Barby Court,8
+3684,Australia,VIC,3196,4 Rockefeller Plaza,5
+3685,Australia,VIC,3350,00732 David Lane,6
+3686,Australia,NSW,2197,4 Hagan Hill,9
+3687,Australia,VIC,3064,47566 Old Gate Avenue,6
+3688,Australia,NSW,2753,9738 Delaware Crossing,9
+3689,Australia,VIC,3153,5511 Clove Lane,7
+3690,Australia,VIC,3193,526 Kipling Drive,11
+3691,Australia,NSW,2147,9585 Lakeland Avenue,8
+3692,Australia,NSW,2761,19 Daystar Alley,8
+3693,Australia,NSW,2035,2 Union Way,12
+3694,Australia,QLD,4573,88 Service Hill,8
+3695,Australia,VIC,3064,856 Basil Drive,5
+3696,Australia,QLD,4207,00 Esker Point,3
+3697,Australia,NSW,2120,792 Clyde Gallagher Trail,10
+3698,Australia,NSW,2289,9719 Bobwhite Avenue,7
+3699,Australia,NSW,2750,36 Service Lane,7
+3700,Australia,VIC,3747,51158 Mitchell Place,3
+3701,Australia,NSW,2256,6 3rd Point,9
+3702,Australia,VIC,3196,828 Cascade Crossing,9
+3703,Australia,VIC,3165,2099 Elmside Parkway,10
+3704,Australia,QLD,4209,6407 Pierstorff Center,6
+3705,Australia,VIC,3189,18 Stephen Center,10
+3706,Australia,NSW,2204,5147 Kensington Pass,9
+3707,Australia,QLD,4350,7740 Crescent Oaks Circle,5
+3708,Australia,NSW,2768,03742 Granby Parkway,9
+3709,Australia,QLD,4078,37 Tennessee Way,5
+3710,Australia,NSW,2350,0616 Messerschmidt Place,4
+3711,Australia,VIC,3064,25 Melvin Junction,6
+3712,Australia,NSW,2023,650 Barby Street,12
+3713,Australia,VIC,3805,63795 Logan Junction,7
+3714,Australia,QLD,4118,506 Tennyson Avenue,9
+3715,Australia,NSW,2821,7 Shasta Terrace,2
+3716,Australia,VIC,3150,61 Shoshone Alley,10
+3717,Australia,VIC,3337,3241 Rigney Place,4
+3718,Australia,VIC,3072,65885 Maple Hill,10
+3719,Australia,NSW,2125,310 Cody Street,11
+3720,Australia,VIC,3201,7650 Stone Corner Avenue,5
+3721,Australia,NSW,2075,6033 Blaine Court,12
+3722,Australia,NSW,2484,515 Fallview Way,8
+3723,Australia,VIC,3158,757 International Road,8
+3724,Australia,NSW,2250,0 Declaration Center,10
+3725,Australia,VIC,3109,1 Parkside Avenue,10
+3726,Australia,QLD,4132,73128 Pearson Pass,4
+3727,Australia,NSW,2765,1940 Morning Circle,9
+3728,Australia,NSW,2756,18 Chinook Plaza,9
+3729,Australia,NSW,2194,7912 Jana Lane,8
+3730,Australia,QLD,4212,534 Arrowood Trail,8
+3731,Australia,NSW,2016,79 Butterfield Street,11
+3732,Australia,NSW,2390,789 Alpine Lane,8
+3733,Australia,NSW,2505,4178 Bartelt Parkway,8
+3734,Australia,NSW,2164,44 Londonderry Parkway,10
+3735,Australia,VIC,3149,712 Sage Park,9
+3736,Australia,NSW,2806,88987 Dexter Park,1
+3737,Australia,NSW,2192,52 Helena Lane,10
+3738,Australia,VIC,3006,3 High Crossing Parkway,7
+3739,Australia,VIC,3191,45 Fordem Court,10
+3740,Australia,NSW,2528,82583 North Hill,7
+3741,Australia,NSW,2806,79 Crescent Oaks Court,1
+3742,Australia,NSW,2232,1 Utah Alley,10
+3743,Australia,VIC,3199,353 Donald Street,7
+3744,Australia,NSW,2558,86 Fairfield Alley,8
+3745,Australia,NSW,2060,33 Sugar Alley,12
+3746,Australia,NSW,2450,92 Northridge Park,4
+3747,Australia,QLD,4213,1 Algoma Trail,6
+3748,Australia,NSW,2176,08261 Aberg Junction,9
+3749,Australia,NSW,2560,549 Randy Point,7
+3750,Australia,NSW,2753,09295 Judy Terrace,8
+3751,Australia,NSW,2257,78 Southridge Parkway,9
+3752,Australia,QLD,4123,04 Oakridge Drive,9
+3753,Australia,NSW,2074,20101 Prentice Terrace,11
+3754,Australia,NSW,2144,498 Golf Parkway,10
+3755,Australia,VIC,3192,23 West Crossing,7
+3756,Australia,VIC,3121,011 Johnson Park,11
+3757,Australia,NSW,2321,5 Atwood Crossing,3
+3758,Australia,NSW,2767,28008 Mesta Lane,9
+3759,Australia,VIC,3072,1 Dixon Way,5
+3760,Australia,VIC,3064,31446 5th Court,4
+3761,Australia,NSW,2087,8397 Holy Cross Parkway,11
+3762,Australia,VIC,3201,85958 Bartillon Way,6
+3763,Australia,NSW,2500,877 Corben Center,7
+3764,Australia,QLD,4012,6 Maple Wood Junction,7
+3765,Australia,NSW,2117,5304 Oneill Pass,10
+3766,Australia,NSW,2034,884 Packers Junction,10
+3767,Australia,NSW,2093,95 East Road,9
+3768,Australia,NSW,2011,9932 Atwood Center,10
+3769,Australia,QLD,4034,1929 Crowley Drive,7
+3770,Australia,VIC,3020,70 West Plaza,8
+3771,Australia,QLD,4172,7 Norway Maple Avenue,5
+3772,Australia,VIC,3977,54285 Annamark Way,6
+3773,Australia,QLD,4226,761 Carioca Drive,7
+3774,Australia,VIC,3351,69131 Kipling Alley,4
+3775,Australia,VIC,3142,3052 Green Drive,11
+3776,Australia,NSW,2560,33331 Corry Road,8
+3777,Australia,QLD,4128,69 Porter Parkway,7
+3778,Australia,NSW,2280,934 Dwight Park,7
+3779,Australia,VIC,3078,27784 Hansons Trail,11
+3780,Australia,NSW,2756,464 Acker Way,9
+3781,Australia,NSW,2077,53533 Dakota Pass,10
+3782,Australia,NSW,2074,546 Summerview Center,11
+3783,Australia,NSW,2047,1 Carey Crossing,10
+3784,Australia,NSW,2850,7524 David Place,3
+3785,Australia,VIC,3083,7 Granby Crossing,9
+3786,Australia,VIC,3215,8681 Dennis Pass,3
+3787,Australia,VIC,3083,1 Pankratz Circle,8
+3788,Australia,QLD,4370,9904 Oakridge Parkway,3
+3789,Australia,NSW,2153,249 Anderson Street,10
+3790,Australia,VIC,3152,3463 Merchant Trail,10
+3791,Australia,NSW,2138,699 Hudson Road,9
+3792,Australia,NSW,2710,9 Dwight Drive,1
+3793,Australia,NSW,2099,13 Colorado Lane,9
+3794,Australia,VIC,3070,39946 Kenwood Court,9
+3795,Australia,VIC,3104,72204 Springs Way,12
+3796,Australia,QLD,4116,365 Jenifer Point,7
+3797,Australia,NSW,2262,53 Texas Road,7
+3798,Australia,NSW,2324,6 Morningstar Park,7
+3799,Australia,VIC,3977,6901 Russell Street,6
+3800,Australia,NSW,2263,26 Barby Terrace,6
+3801,Australia,NSW,2177,23541 Dayton Drive,9
+3802,Australia,QLD,4208,81 Pine View Avenue,5
+3803,Australia,QLD,4127,91 Dennis Plaza,6
+3804,Australia,VIC,3215,43 Hollow Ridge Center,3
+3805,Australia,VIC,3145,045 Debs Pass,12
+3806,Australia,NSW,2141,73 Debra Terrace,7
+3807,Australia,NSW,2062,96899 Hermina Circle,9
+3808,Australia,NSW,2118,38 Trailsway Parkway,11
+3809,Australia,NSW,2880,22171 Bayside Parkway,1
+3810,Australia,VIC,3065,6011 Knutson Way,7
+3811,Australia,VIC,3199,0127 East Court,5
+3812,Australia,NSW,2144,1 Fordem Road,9
+3813,Australia,VIC,3860,7681 Waywood Alley,1
+3814,Australia,NSW,2046,9 Donald Junction,12
+3815,Australia,NSW,2226,47855 Tomscot Parkway,8
+3816,Australia,NSW,2209,394 Russell Avenue,10
+3817,Australia,NSW,2135,86 Claremont Junction,7
+3818,Australia,NSW,2658,2 Transport Plaza,1
+3819,Australia,VIC,3015,20 Susan Court,10
+3820,Australia,NSW,2428,838 Redwing Street,8
+3821,Australia,NSW,2446,9 West Crossing,7
+3822,Australia,VIC,3124,22105 Arrowood Crossing,7
+3823,Australia,VIC,3810,9240 Green Avenue,5
+3824,Australia,VIC,3136,0964 Bayside Park,9
+3825,Australia,VIC,3052,9717 Main Parkway,8
+3826,Australia,QLD,4306,4123 Eliot Alley,6
+3827,Australia,NSW,2170,36708 Algoma Junction,6
+3828,Australia,NSW,2118,3 Mandrake Parkway,9
+3829,Australia,NSW,2209,78 Declaration Center,10
+3830,Australia,VIC,3029,57866 Dawn Plaza,7
+3831,Australia,VIC,3183,0172 Vidon Place,6
+3832,Australia,VIC,3754,89 Delaware Crossing,6
+3833,Australia,VIC,3168,34 Packers Trail,10
+3834,Australia,VIC,3807,019 Huxley Drive,8
+3835,Australia,NSW,2206,862 Ilene Circle,11
+3836,Australia,VIC,3338,420 Twin Pines Crossing,3
+3837,Australia,VIC,3177,5131 Northview Hill,3
+3838,Australia,NSW,2121,713 Redwing Crossing,11
+3839,Australia,QLD,4073,9570 Sundown Trail,8
+3840,Australia,QLD,4211,72258 Bayside Court,7
+3841,Australia,QLD,4163,31 Melvin Park,8
+3842,Australia,QLD,4557,9 Duke Alley,7
+3843,Australia,NSW,2759,38473 Waubesa Alley,8
+3844,Australia,NSW,2220,0056 Corry Center,11
+3845,Australia,NSW,2508,99476 Mitchell Street,10
+3846,Australia,QLD,4011,37 Hintze Center,11
+3847,Australia,QLD,4720,33061 Fremont Lane,3
+3848,Australia,QLD,4575,56 Trailsway Street,4
+3849,Australia,QLD,4352,5748 Porter Circle,8
+3850,Australia,QLD,4817,341 Katie Junction,4
+3851,Australia,QLD,4825,20370 Fordem Pass,4
+3852,Australia,NSW,2761,30 Prairie Rose Road,7
+3853,Australia,NSW,2145,79 Holy Cross Hill,7
+3854,Australia,NSW,2164,6489 Pennsylvania Road,9
+3855,Australia,NSW,2566,274 Bultman Park,7
+3856,Australia,NSW,2560,832 Moulton Trail,8
+3857,Australia,NSW,2480,1628 Bonner Hill,3
+3858,Australia,VIC,3189,0618 5th Place,10
+3859,Australia,QLD,4270,4662 Clemons Road,8
+3860,Australia,QLD,4305,0 Arapahoe Court,3
+3861,Australia,NSW,2590,3748 Lake View Lane,1
+3862,Australia,QLD,4812,3720 Anniversary Court,2
+3863,Australia,VIC,3175,85 Trailsway Road,9
+3864,Australia,NSW,2428,388 Karstens Drive,5
+3865,Australia,NSW,2165,6 Swallow Park,7
+3866,Australia,NSW,2289,80070 Mockingbird Center,8
+3867,Australia,QLD,4118,6 Veith Road,4
+3868,Australia,NSW,2226,1323 Maywood Plaza,10
+3869,Australia,NSW,2756,17504 Spohn Center,9
+3870,Australia,NSW,2150,02084 Rockefeller Crossing,7
+3871,Australia,NSW,2478,16 Montana Way,7
+3872,Australia,VIC,3280,2 Victoria Crossing,2
+3873,Australia,NSW,2304,0733 Comanche Crossing,6
+3874,Australia,VIC,3046,75322 Prentice Court,9
+3875,Australia,NSW,2071,2 Gerald Street,11
+3876,Australia,NSW,2761,2079 Del Sol Hill,8
+3877,Australia,NSW,2327,9 Columbus Pass,3
+3878,Australia,NSW,2282,465 Russell Court,9
+3879,Australia,NSW,2148,344 Dayton Drive,9
+3880,Australia,NSW,2550,7 Beilfuss Center,4
+3881,Australia,NSW,2154,78 Barnett Alley,11
+3882,Australia,QLD,4300,4 Emmet Avenue,1
+3883,Australia,QLD,4509,1728 Springview Lane,6
+3884,Australia,VIC,3150,25413 Delaware Pass,12
+3885,Australia,NSW,2705,23217 Waubesa Pass,1
+3886,Australia,NSW,2558,013 Mendota Parkway,9
+3887,Australia,NSW,2567,7482 Hanson Park,5
+3888,Australia,NSW,2763,2428 Sloan Circle,9
+3889,Australia,VIC,3178,34329 Heffernan Plaza,7
+3890,Australia,VIC,3013,15 Duke Plaza,8
+3891,Australia,NSW,2753,4368 Dayton Street,10
+3892,Australia,NSW,2165,3 Shasta Circle,8
+3893,Australia,QLD,4161,6 Calypso Parkway,5
+3894,Australia,VIC,3173,2 Cambridge Point,9
+3895,Australia,VIC,3057,55876 Knutson Point,6
+3896,Australia,NSW,2073,14 Bunting Alley,12
+3897,Australia,NSW,2671,8458 Stang Parkway,2
+3898,Australia,NSW,2877,60 Towne Pass,1
+3899,Australia,QLD,4311,5 Rutledge Center,3
+3900,Australia,VIC,3756,9 Blaine Place,4
+3901,Australia,VIC,3064,24688 Hollow Ridge Way,7
+3902,Australia,NSW,2099,32876 American Ash Avenue,11
+3903,Australia,NSW,2176,18 Bay Place,9
+3904,Australia,VIC,3192,4 Hanover Junction,10
+3905,Australia,NSW,2747,0 Darwin Junction,9
+3906,Australia,VIC,3103,5251 Merrick Court,8
+3907,Australia,NSW,2539,801 Shasta Crossing,8
+3908,Australia,QLD,4152,55 Anzinger Drive,9
+3909,Australia,NSW,2155,13768 Commercial Trail,10
+3910,Australia,NSW,2156,109 Kipling Road,11
+3911,Australia,NSW,2770,47 Spenser Circle,7
+3912,Australia,NSW,2756,15051 Monterey Street,8
+3913,Australia,QLD,4680,7365 Carioca Hill,4
+3914,Australia,NSW,2486,42 Maryland Plaza,5
+3915,Australia,VIC,3150,802 Bashford Hill,10
+3916,Australia,NSW,2768,12548 Eagan Court,9
+3917,Australia,NSW,2065,24167 Montana Place,12
+3918,Australia,QLD,4311,0 Southridge Drive,1
+3919,Australia,QLD,4218,1 Banding Way,8
+3920,Australia,VIC,3107,259 Union Junction,10
+3921,Australia,NSW,2099,7727 Merrick Parkway,11
+3922,Australia,NSW,2777,3015 Bowman Alley,9
+3923,Australia,NSW,2170,2 Annamark Park,9
+3924,Australia,NSW,2234,38 Steensland Circle,10
+3925,Australia,QLD,4178,80 Northland Place,8
+3926,Australia,NSW,2154,104 Kingsford Park,9
+3927,Australia,NSW,2096,22 Mifflin Junction,9
+3928,Australia,NSW,2223,60272 Montana Drive,8
+3929,Australia,VIC,3939,730 Judy Drive,2
+3930,Australia,QLD,4078,1269 Esch Parkway,6
+3931,Australia,VIC,3106,3 Kedzie Center,10
+3932,Australia,VIC,3089,67473 Nova Avenue,10
+3933,Australia,NSW,2750,866 Canary Drive,8
+3934,Australia,NSW,2768,20 Dwight Junction,10
+3935,Australia,NSW,2085,0900 Northport Point,11
+3936,Australia,NSW,2111,572 Buena Vista Plaza,9
+3937,Australia,QLD,4350,695 Anthes Crossing,2
+3938,Australia,NSW,2036,62 Luster Avenue,11
+3939,Australia,QLD,4053,819 Basil Plaza,8
+3940,Australia,NSW,2126,81 Monument Avenue,12
+3941,Australia,QLD,4034,093 Mallard Hill,7
+3942,Australia,NSW,2565,903 Sauthoff Plaza,8
+3943,Australia,NSW,2223,9796 Pearson Hill,4
+3944,Australia,VIC,3108,950 Algoma Circle,9
+3945,Australia,VIC,3756,28 Toban Center,2
+3946,Australia,QLD,4017,147 Brickson Park Drive,7
+3947,Australia,QLD,4122,75251 Marquette Lane,7
+3948,Australia,VIC,3148,72 Briar Crest Hill,10
+3949,Australia,VIC,3030,201 Valley Edge Park,5
+3950,Australia,QLD,4118,6031 Susan Terrace,5
+3951,Australia,VIC,3500,724 Erie Way,2
+3952,Australia,QLD,4163,86906 Hauk Trail,8
+3953,Australia,NSW,2086,85999 Cherokee Street,11
+3954,Australia,VIC,3631,50774 Dennis Park,3
+3955,Australia,VIC,3802,64 Trailsway Place,7
+3956,Australia,VIC,3085,95228 Forster Road,9
+3957,Australia,NSW,2234,388 Shoshone Trail,10
+3958,Australia,NSW,2506,67 Lakewood Gardens Circle,7
+3959,Australia,NSW,2470,98 Transport Plaza,2
+3960,Australia,NSW,2093,35 Larry Plaza,9
+3961,Australia,NSW,2770,9 Hooker Street,7
+3962,Australia,VIC,3106,4 Debra Hill,10
+3963,Australia,NSW,2747,41 Superior Crossing,8
+3964,Australia,NSW,2069,721 Morrow Plaza,12
+3965,Australia,NSW,2170,8578 Mifflin Pass,5
+3966,Australia,VIC,3977,02 Fair Oaks Lane,7
+3967,Australia,NSW,2526,910 Becker Pass,8
+3968,Australia,VIC,3184,08 Dennis Crossing,11
+3969,Australia,NSW,2191,4 Express Plaza,10
+3970,Australia,VIC,3934,81609 Vernon Terrace,8
+3971,Australia,NSW,2168,37 Hintze Court,9
+3972,Australia,VIC,3805,07 Morning Court,7
+3973,Australia,VIC,3187,327 Loeprich Street,11
+3974,Australia,NSW,2560,5106 Northridge Drive,7
+3975,Australia,NSW,2148,9754 High Crossing Terrace,8
+3976,Australia,NSW,2114,7 Meadow Vale Court,10
+3977,Australia,VIC,3178,80260 Morning Road,9
+3978,Australia,NSW,2165,38017 Briar Crest Drive,9
+3979,Australia,NSW,2126,60 Morningstar Center,10
+3980,Australia,NSW,2223,218 Stuart Junction,10
+3981,Australia,QLD,4077,9 Butterfield Lane,5
+3982,Australia,NSW,2148,614 Burning Wood Way,9
+3983,Australia,QLD,4218,9 Grover Point,10
+3984,Australia,NSW,2076,565 Bunting Park,11
+3985,Australia,NSW,2428,9461 Saint Paul Trail,2
+3986,Australia,NSW,2560,5204 Delaware Pass,8
+3987,Australia,QLD,4300,24 Scott Pass,5
+3988,Australia,NSW,2209,8 Randy Parkway,11
+3989,Australia,VIC,3750,681 Elmside Place,6
+3990,Australia,VIC,3030,2918 Summer Ridge Hill,2
+3991,Australia,NSW,2088,613 Erie Lane,12
+3992,Australia,VIC,3977,0 Transport Center,6
+3993,Australia,NSW,2350,4 Dovetail Crossing,2
+3994,Australia,NSW,2540,736 Roxbury Junction,6
+3995,Australia,VIC,3064,1482 Hauk Trail,3
+3996,Australia,QLD,4511,57042 Village Green Point,6
+3997,Australia,NSW,2756,87 Crescent Oaks Alley,10
+3998,Australia,QLD,4032,8194 Lien Street,7
+3999,Australia,NSW,2251,320 Acker Drive,7
+4000,Australia,NSW,3996,613 Erie Lane,10
